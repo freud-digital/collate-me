@@ -1,11 +1,11 @@
-name: Download Work
+name: Collate Me
 
 on:
   workflow_dispatch
 
 jobs:
   download:
-    name: Download Work
+    name: Collate Me
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -20,7 +20,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install --upgrade --upgrade-strategy eager -r requirements.txt
-    - name: Download Work
+    - name: Collate Me
       run: |
         python collate_work.py
     - uses: stefanzweifel/git-auto-commit-action@v4
