@@ -1,0 +1,279 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit><witness xml:id="sfe-1901-01__1901.xml">sfe-1901-01__1901.xml</witness><witness xml:id="sfe-1901-01__1911.xml">sfe-1901-01__1911.xml</witness><witness xml:id="sfe-1901-01__1921.xml">sfe-1901-01__1921.xml</witness><witness xml:id="sfe-1901-01__1925.xml">sfe-1901-01__1925.xml</witness></listWit>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <ab><app><lem wit="#sfe-1901-01__1925.xml">I</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">I</rdg></app>
+	 
+	<app><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">.</rdg></app>
+	 
+	In 
+	<app><lem wit="#sfe-1901-01__1925.xml">den</lem></app>
+	 
+	<app><lem wit="#sfe-1901-01__1925.xml">Zeiten, die wir vorwissenschaftliche nennen dürfen, waren die Menschen um die Erklärung des Traumes nicht verlegen. Wenn sie ihn nach dem Erwachen erinnerten, galt er ihnen als eine entweder gnädige oder feindselige Kundgebung höherer, dämonischer und göttlicher</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Zeiten, die wir vorwissenschaftliche nennen dürfen, waren die Menschen um die Erklärung des Traumes nicht verlegen. Wenn sie ihn nach dem Erwachen erinnerten, galt er ihnen als eine entweder gnädige oder feindselige Kundgebung höherer, dämonischer und göttlicher</rdg></app>
+	 
+	<app><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">,</rdg></app>
+	 
+	Mächte. Mit dem Aufblühen naturwissenschaftlicher Denkweisen hat sich all diese sinnreiche Mythologie in Psychologie umgesetzt, und heute bezweifelt nur mehr eine geringe Minderzahl unter den Gebildeten, 
+	<app><lem wit="#sfe-1901-01__1925.xml">daß</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
+	 
+	der Traum die eigene psychische Leistung des Träumers ist. Seit der Verwerfung der mythologischen Hypothese ist der Traum aber erklärungsbedürftig geworden. Die Bedingungen seiner Entstehung, seine Beziehung zum Seelenleben des Wachens, seine Abhängigkeit von Reizen, die sich während des Schlafzustandes zur Wahrnehmung drängen, die vielen dem wachen Denken 
+	<app><lem wit="#sfe-1901-01__1925.xml">anstößigen</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">anstössigen</rdg></app>
+	 
+	Eigentümlichkeiten seines Inhaltes, die Inkongruenz zwischen seinen Vorstellungsbildern und den an sie geknüpften Affekten, endlich die Flüchtigkeit des Traumes, die Art, wie das wache Denken ihn als fremdartig 
+	<app><lem wit="#sfe-1901-01__1925.xml">beiseite</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">bei Seite</rdg></app>
+	 
+	schiebt, in der Erinnerung verstümmelt oder auslöscht: — all diese und noch andere Probleme verlangen seit vielen hundert Jahren nach Lösungen, die bis heute nicht befriedigend gegeben werden konnten. Im Vordergrunde des Interesses steht aber die Frage nach der Bedeutung des Traumes, die einen zweifachen Sinn in sich 
+	<app><lem wit="#sfe-1901-01__1925.xml">schließt</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">schliesst</rdg></app>
+	. Sie fragt erstens nach der psychischen Bedeutung des Träumens, nach der Stellung des Traumes zu anderen seelischen Vorgängen und nach einer etwaigen biologischen Funktion desselben, und zweitens möchte sie wissen, ob der Traum deutbar ist, ob der einzelne Trauminhalt einen „Sinn“ hat, wie wir ihn in anderen psychischen Kompositionen zu finden gewöhnt sind. Drei Richtungen machen sich in der Würdigung des Traumes bemerkbar. Die eine derselben, die gleichsam den Nachklang der alten 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Überschätzung</lem><rdg wit="#sfe-1901-01__1901.xml">Ueberschätzung</rdg></app>
+	 
+	des Traumes bewahrt hat, findet ihren Ausdruck bei manchen Philosophen. Ihnen gilt als die Grundlage des Traumlebens ein besonderer Zustand der 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Seelentätigkeit</lem><rdg wit="#sfe-1901-01__1901.xml">Seelenthätigkeit</rdg></app>
+	, den sie sogar als eine Erhebung zu einer höheren Stufe feiern. So 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">urteilt</lem><rdg wit="#sfe-1901-01__1901.xml">urtheilt</rdg></app>
+	 
+	z. B. Schubert: Der Traum sei eine Befreiung des Geistes von der Gewalt der 
+	<app><lem wit="#sfe-1901-01__1925.xml">äußeren</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">äusseren</rdg></app>
+	 
+	Natur, 
+	<app><rdg wit="#sfe-1901-01__1921.xml">eine</rdg></app>
+	 
+	eine Loslösung der Seele von den Fesseln der Sinnlichkeit. Andere Denker gehen nicht so weit, halten aber daran fest, 
+	<app><lem wit="#sfe-1901-01__1925.xml">daß</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
+	 
+	die Träume wesentlich seelischen Anregungen entspringen und 
+	<app><lem wit="#sfe-1901-01__1925.xml">Äußerungen</lem><rdg wit="#sfe-1901-01__1901.xml">Aeusserungen</rdg><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Äusserungen</rdg></app>
+	 
+	seelischer Kräfte darstellen, die tagsüber an ihrer freien Entfaltung behindert sind (der Traumphantasie — Scherner, Volkelt). Eine Fähigkeit zur 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Überleistung</lem><rdg wit="#sfe-1901-01__1901.xml">Ueberleistung</rdg></app>
+	 
+	wenigstens auf gewissen Gebieten (
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Gedächtnis</lem><rdg wit="#sfe-1901-01__1901.xml">Gedächtniss</rdg></app>
+	) wird dem Traumleben von einer 
+	<app><lem wit="#sfe-1901-01__1925.xml">großen</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">grossen</rdg></app>
+	 
+	Anzahl von Beobachtern zugesprochen. Im scharfen Gegensatz 
+	<app><lem wit="#sfe-1901-01__1925.xml">hiezu</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">hierzu</rdg></app>
+	 
+	vertritt die Mehrzahl ärztlicher Autoren eine Auffassung, welche dem Traum kaum noch den 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Wert</lem><rdg wit="#sfe-1901-01__1901.xml">Werth</rdg></app>
+	 
+	eines psychischen Phänomens 
+	<app><lem wit="#sfe-1901-01__1925.xml">beläßt</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">belässt</rdg></app>
+	. Die Erreger des Traumes sind nach ihnen 
+	<app><lem wit="#sfe-1901-01__1925.xml">ausschließlich</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">ausschliesslich</rdg></app>
+	 
+	die Sinnes- und Leibreize, die entweder von 
+	<app><lem wit="#sfe-1901-01__1925.xml">außen</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">aussen</rdg></app>
+	 
+	den Schläfer treffen oder zufällig in seinen inneren Organen rege werden. Das Geträumte hat nicht mehr Anspruch auf Sinn und Bedeutung als etwa die Tonfolge, welche die zehn Finger eines der Musik ganz unkundigen Menschen hervorrufen, wenn sie über die Tasten des 
+	<app><lem wit="#sfe-1901-01__1925.xml">Instruments</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Instrumentes</rdg></app>
+	 
+	hinlaufen. Der Traum ist geradezu als „ein körperlicher, in allen Fällen unnützer, in vielen Fällen krankhafter Vorgang“ zu 
+	<app><lem wit="#sfe-1901-01__1925.xml">kenn- zeichnen</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">kennzeichnen</rdg></app>
+	 
+	(Binz). Alle 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Eigentümlichkeiten</lem><rdg wit="#sfe-1901-01__1901.xml">Eigenthümlichkeiten</rdg></app>
+	 
+	des Traumlebens erklären sich aus der 
+	<app><lem wit="#sfe-1901-01__1925.xml">zusammenhanglosen</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">zusammenhangslosen</rdg></app>
+	, durch physiologische Reize erzwungenen Arbeit einzelner Organe oder Zellgruppen des sonst in Schlaf versenkten Gehirns. Wenig 
+	<app><lem wit="#sfe-1901-01__1925.xml">beeinflußt</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">beeinflusst</rdg></app>
+	 
+	durch dieses 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Urteil</lem><rdg wit="#sfe-1901-01__1901.xml">Urtheil</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1925.xml">der Wissenschaft und unbekümmert um die Quellen des Traumes</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">der Wissenschaft und unbekümmert um die Quellen des Traumes</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1925.xml">,</lem></app>
+	 
+	scheint die Volksmeinung an dem Glauben festzuhalten, 
+	<app><lem wit="#sfe-1901-01__1925.xml">daß</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
+	 
+	der Traum denn doch einen Sinn habe, der sich auf die Verkündigung der Zukunft bezieht, und der durch irgend ein Verfahren der Deutung aus seinem oft verworrenen und 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">rätselhaften</lem><rdg wit="#sfe-1901-01__1901.xml">räthselhaften</rdg></app>
+	 
+	Inhalt gewonnen werden könne. Die in Anwendung gebrachten Deutungsmethoden bestehen darin, 
+	<app><lem wit="#sfe-1901-01__1925.xml">daß</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1925.xml">man den erinnerten Trauminhalt durch einen anderen ersetzt, entweder Stück für Stück nach einem feststehenden Schlüssel, oder das Ganze des Traumes durch ein anderes Ganzes, zu dem es in der Beziehung eines Symbols steht. Ernsthafte Männer lächeln über diese Bemühungen. „Träume sind Schäume.“ II</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">man den erinnerten Trauminhalt durch einen anderen ersetzt, entweder Stück für Stück nach einem feststehenden Schlüssel, oder das Ganze des Traumes durch ein anderes Ganzes, zu dem es in der Beziehung eines Symbols steht. Ernsthafte Männer lächeln über diese Bemühungen. „Träume sind Schäume.“ II</rdg></app>
+	 
+	<app><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">.</rdg></app>
+	 
+	Zu meiner 
+	<app><lem wit="#sfe-1901-01__1925.xml">großen</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">grossen</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Überraschung</lem><rdg wit="#sfe-1901-01__1901.xml">Ueberraschung</rdg></app>
+	 
+	entdeckte ich eines Tages, 
+	<app><lem wit="#sfe-1901-01__1925.xml">daß</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
+	 
+	nicht die ärztliche, sondern die laienhafte, halb noch im Aberglauben befangene Auffassung des Traumes der Wahrheit nahe kommt. Ich gelangte nämlich zu neuen Aufschlüssen über den Traum, indem ich eine neue Methode der psychologischen Untersuchung auf ihn anwendete, die mir bei der Lösung der Phobien, Zwangsideen, Wahnideen u. dgl. 
+	<app><lem wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1925.xml">hervorragend</lem><rdg wit="#sfe-1901-01__1921.xml">hervor- ragend</rdg></app>
+	 
+	gute Dienste geleistet hatte
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">, und die seither unter dem Namen „Psychoanalyse“ bei einer ganzen Schule von Forschern Aufnahme gefunden hat</lem></app>
+	. Die mannigfaltigen Analogien des Traumlebens mit den verschiedenartigsten Zuständen psychischer Krankheit im Wachen sind ja von zahlreichen ärztlichen Forschern mit Recht bemerkt worden. Es erschien also von 
+	<app><lem wit="#sfe-1901-01__1925.xml">vorneherein</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">vorne herein</rdg></app>
+	 
+	hoffnungsvoll, ein Untersuchungsverfahren, welches sich bei den psychopathischen Gebilden bewährt hatte, auch zur Aufklärung des Traumes heranzuziehen. Die Angst- und Zwangsideen stehen dem normalen 
+	<app><lem wit="#sfe-1901-01__1925.xml">Bewußtsein</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Bewusstsein</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">in ähnlicher Weise fremd gegenüber</lem><rdg wit="#sfe-1901-01__1901.xml">in ähnlicher Weise fremd gegenüber</rdg></app>
+	 
+	<app><rdg wit="#sfe-1901-01__1901.xml">,</rdg></app>
+	 
+	wie die Träume dem 
+	<app><lem wit="#sfe-1901-01__1925.xml">Wachbewußtsein</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Wachbewusstsein</rdg></app>
+	; ihre Herkunft ist dem 
+	<app><lem wit="#sfe-1901-01__1925.xml">Bewußtsein</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Bewusstsein</rdg></app>
+	 
+	ebenso unbekannt wie die der Träume. Bei diesen psychopathischen Bildungen wurde man durch ein praktisches Interesse getrieben, ihre Herkunft und Entstehungsweise zu ergründen, denn die Erfahrung hatte gezeigt, 
+	<app><lem wit="#sfe-1901-01__1925.xml">daß</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
+	 
+	eine solche Aufdeckung der dem 
+	<app><lem wit="#sfe-1901-01__1925.xml">Bewußtsein</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Bewusstsein</rdg></app>
+	 
+	verhüllten 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Gedankenwege</lem><rdg wit="#sfe-1901-01__1901.xml">Associationswege</rdg></app>
+	, durch welche die krankhaften Ideen mit dem übrigen psychischen Inhalt 
+	<app><lem wit="#sfe-1901-01__1925.xml">zusammen- hängen</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">zusammenhängen</rdg></app>
+	, einer Lösung dieser Symptome gleichkommt, die Bewältigung der bisher unhemmbaren Idee zur Folge hat. Aus der Psychotherapie stammte also das Verfahren, dessen ich mich für die 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Auflösung</lem><rdg wit="#sfe-1901-01__1901.xml">Auﬂösung</rdg></app>
+	 
+	der Träume bediente. Dieses Verfahren ist leicht zu beschreiben, wenngleich seine Ausführung Unterweisung und 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Übung</lem><rdg wit="#sfe-1901-01__1901.xml">Uebung</rdg></app>
+	 
+	erfordern dürfte. Wenn man es bei einem 
+	<app><lem wit="#sfe-1901-01__1925.xml">anderen</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Anderen</rdg></app>
+	, etwa einem Kranken mit einer Angstvorstellung, in Anwendung zu bringen hat, so fordert man ihn auf, seine Aufmerksamkeit auf die 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">betreffende</lem><rdg wit="#sfe-1901-01__1901.xml">betreifende</rdg></app>
+	 
+	Idee zu richten, aber nicht, wie er schon so oft 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">getan</lem><rdg wit="#sfe-1901-01__1901.xml">gethan</rdg></app>
+	, über sie nachzudenken, sondern alles ohne Ausnahme sich klar zu machen und dem Arzt 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">mitzuteilen</lem><rdg wit="#sfe-1901-01__1901.xml">mitzutheilen</rdg></app>
+	, was ihm zu ihr einfällt. Die dann etwa auftretende Behauptung, 
+	<app><lem wit="#sfe-1901-01__1925.xml">daß</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
+	 
+	die Aufmerksamkeit nichts erfassen könne, schiebt man durch eine energische Versicherung, ein solches Ausbleiben eines Vorstellungsinhaltes sei ganz unmöglich, zur Seite. 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Tatsächlich</lem><rdg wit="#sfe-1901-01__1901.xml">Thatsächlich</rdg></app>
+	 
+	ergeben sich sehr bald zahlreiche Einfälle, an die sich weitere knüpfen, die aber 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">regelmäßig</lem><rdg wit="#sfe-1901-01__1901.xml">regelmässig</rdg></app>
+	 
+	von dem 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Urteil</lem><rdg wit="#sfe-1901-01__1901.xml">Urtheil</rdg></app>
+	 
+	des Selbstbeobachters eingeleitet werden, sie seien 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">unsinnig oder</lem></app>
+	 
+	unwichtig, gehören nicht hierher, seien ihm nur zufällig und 
+	<app><lem wit="#sfe-1901-01__1925.xml">außer</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">ausser</rdg></app>
+	 
+	Zusammenhang mit dem gegebenen Thema eingefallen. Man merkt sofort, 
+	<app><lem wit="#sfe-1901-01__1925.xml">daß</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1925.xml">es</lem><rdg wit="#sfe-1901-01__1921.xml">es</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1901.xml #sfe-1901-01__1925.xml">diese</lem><rdg wit="#sfe-1901-01__1911.xml">diese</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1901.xml #sfe-1901-01__1925.xml">Kritik ist, welche</lem></app>
+	 
+	<app><lem wit="#sfe-1901-01__1925.xml">all</lem><rdg wit="#sfe-1901-01__1901.xml">alle diese Einfälle von der Mittheilung, ja bereits vom Bewusstwerden,</rdg></app>
+<app><rdg wit="#sfe-1901-01__1921.xml">diese</rdg></app>
+	 
+	<app><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Kritik ist, welche all</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">diese Einfälle von der Mitteilung, ja bereits vom</lem></app>
+	 
+	<app><lem wit="#sfe-1901-01__1925.xml">Bewußtwerden</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Bewusstwerden</rdg></app>
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">,</lem></app>
+	 
+	ausgeschlossen hat. Kann man die betreffende Person dazu bewegen, auf solche Kritik gegen ihre Einfälle zu verzichten und die Gedankenreihen, die sich bei festgehaltener Aufmerksamkeit ergeben, weiter zu spinnen, so gewinnt man ein psychisches Material, welches alsbald deutlich an die zum Thema genommene krankhafte Idee anknüpft, deren Verknüpfungen mit anderen Ideen 
+	<app><lem wit="#sfe-1901-01__1925.xml">bloßlegt</lem><rdg wit="#sfe-1901-01__1901.xml">bloslegt</rdg><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">blosslegt</rdg></app>
+	, und in weiterer Verfolgung gestattet, die krankhafte Idee durch eine neue zu ersetzen, die sich in verständlicher Weise in den seelischen Zusammenhang einfügt. Es ist hier nicht der Ort, die Voraussetzungen, auf denen dieser Versuch ruht, und die Folgerungen, die sich aus seinem 
+	<app><lem wit="#sfe-1901-01__1925.xml">regel- mäßigen</lem><rdg wit="#sfe-1901-01__1901.xml">regelmässigen</rdg><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">regelmäßigen</rdg></app>
+	 
+	Gelingen ableiten, ausführlich zu behandeln. Es mag also die Aussage genügen, 
+	<app><lem wit="#sfe-1901-01__1925.xml">daß</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
+	 
+	wir bei jeder krankhaften Idee ein zur Lösung derselben hinreichendes Material erhalten, wenn wir unsere Aufmerksamkeit gerade den „ungewollten“, den „unser Nachdenken störenden“, den sonst von der Kritik als 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">wertloser</lem><rdg wit="#sfe-1901-01__1901.xml">werthloser</rdg></app>
+	 
+	Abfall beseitigten 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Assoziationen</lem><rdg wit="#sfe-1901-01__1901.xml">Associationen</rdg></app>
+	 
+	zuwenden. 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Übt</lem><rdg wit="#sfe-1901-01__1901.xml">Uebt</rdg></app>
+	 
+	man das Verfahren an sich selbst, so unterstützt man sich bei der Untersuchung am besten durch sofortiges Niederschreiben seiner anfänglich unverständlichen Einfälle. Ich will nun zeigen, wohin es führt, wenn ich diese Methode der Untersuchung auf den Traum anwende. Es 
+	<app><lem wit="#sfe-1901-01__1925.xml">müßte</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">müsste</rdg></app>
+	 
+	jedes Traumbeispiel sich in gleicher Weise dazu eignen; aus gewissen Motiven wähle ich aber einen eigenen Traum, der mir in der Erinnerung undeutlich und sinnlos erscheint, und der sich durch seine Kürze empfehlen kann. Vielleicht wird gerade der Traum der letzten Nacht diesen Ansprüchen genügen. Sein unmittelbar nach dem Erwachen 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">fixierter</lem><rdg wit="#sfe-1901-01__1901.xml">fixirter</rdg></app>
+	 
+	Inhalt lautet 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">folgendermaßen</lem><rdg wit="#sfe-1901-01__1901.xml">folgendermassen</rdg></app>
+	<app><lem wit="#sfe-1901-01__1925.xml">: „Eine Gesellschaft, Tisch oder Table d’hôte</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">: „Eine Gesellschaft, Tisch oder Table d’hôte</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1925.xml">. . .</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">. . . .</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1925.xml">Es wird Spinat gegessen</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Es wird Spinat gegessen</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1925.xml">. . .</lem><rdg wit="#sfe-1901-01__1901.xml">....</rdg><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">. . . .</rdg></app>
+	 
+	Frau E. L
+	<app><lem wit="#sfe-1901-01__1901.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">.</lem><rdg wit="#sfe-1901-01__1911.xml">,</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1925.xml">sitzt neben mir, wendet sich ganz mir zu und legt vertraulich die Hand auf mein Knie. Ich entferne die Hand abwehrend. Sie sagt dann: Sie haben aber immer so schöne Augen gehabt</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">sitzt neben mir, wendet sich ganz mir zu und legt vertraulich die Hand auf mein Knie. Ich entferne die Hand abwehrend. Sie sagt dann: Sie haben aber immer so schöne Augen gehabt</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1925.xml">. . .</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">. . . .</rdg></app>
+	 
+	Ich sehe dann undeutlich etwas wie zwei Augen als Zeichnung oder wie 
+	<app><lem wit="#sfe-1901-01__1925.xml">die</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">den</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Kontur</lem><rdg wit="#sfe-1901-01__1901.xml">Contour</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1925.xml">eines Brillenglases</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">eines Brillenglases</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-01__1925.xml">. . .“</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">. . . .“</rdg></app>
+	 
+	Dies ist der ganze Traum oder wenigstens alles, was ich von ihm erinnere. Er erscheint mir dunkel und sinnlos, vor allem aber befremdlich. Frau E. L. ist eine Person, zu der ich kaum je freundschaftliche Beziehungen gepflogen, meines Wissens herzlichere nie gewünscht habe. Ich habe sie lange Zeit nicht gesehen und glaube nicht, 
+	<app><lem wit="#sfe-1901-01__1925.xml">daß</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
+	 
+	in den letzten Tagen von ihr die Rede war. Irgendwelche Affekte haben den Traumvorgang nicht begleitet. Nachdenken über diesen Traum bringt ihn meinem 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Verständnis</lem><rdg wit="#sfe-1901-01__1901.xml">Verständniss</rdg></app>
+	 
+	nicht näher. 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Ich</lem><rdg wit="#sfe-1901-01__1901.xml">lch</rdg></app>
+	 
+	werde aber jetzt absichts- und kritiklos die Einfälle verzeichnen, die sich meiner Selbstbeobachtung ergeben. Ich bemerke bald, 
+	<app><lem wit="#sfe-1901-01__1925.xml">daß</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
+	 
+	es dabei 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">vorteilhaft</lem><rdg wit="#sfe-1901-01__1901.xml">vortheilhaft</rdg></app>
+	 
+	ist, den Traum in seine Elemente zu zerlegen und zu jedem dieser Bruchstücke die anknüpfenden Einfälle aufzusuchen. Gesellschaft, Tisch oder Table d’hôte. Daran knüpft sich sofort die Erinnerung an das kleine 
+	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Erlebnis</lem><rdg wit="#sfe-1901-01__1901.xml">Erlebniss</rdg></app>
+	, welches den gestrigen Abend 
+	<app><lem wit="#sfe-1901-01__1925.xml">beschloß</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">beschloss</rdg></app>
+	<app><lem wit="#sfe-1901-01__1925.xml">. Ich war von einer kleinen Gesellschaft weggegangen in Begleitung eines Freundes, der sich erbot, einen Wagen zu nehmen und mich nach Hause zu führen. „Ich ziehe</lem><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">. Ich war von einer kleinen Gesellschaft weggegangen in Begleitung eines Freundes, der sich erbot, einen Wagen zu nehmen und mich nach Hause zu führen. „Ich ziehe</rdg></app>
+	 
+	<app><rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">einen Wagen mit</rdg></app>
+</ab>
+      </body>
+  </text>
+</TEI>
