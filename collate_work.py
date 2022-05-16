@@ -6,7 +6,8 @@ from acdh_collatex_utils.post_process import (
     merge_tei_fragments,
     make_full_tei_doc,
     merge_html_fragments,
-    define_readings
+    define_readings,
+    make_positive_app
 )
 
 from config import READING_WIT
@@ -33,8 +34,9 @@ with open(result_file, 'w') as f:
 full_tei = make_full_tei_doc(result_file)
 root = full_tei.tree
 full_tei.tree_to_file(result_file)
+positive_doc = make_positive_app(result_file)
+positive_doc.tree_to_file(result_file)
 
-rdg_wit_id = 'sfe-1901-01__1925.xml'
 crit_ap_with_rdgs = define_readings(result_file, READING_WIT)
 with open(result_file, 'w') as f:
     f.write(

@@ -1,1 +1,1 @@
-acdh_collatex_utils==1.9
+acdh_collatex_utils==1.10.0
