@@ -1,10 +1,13 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__c1dd844d-c6cd-45ab-9a44-0d4d52fe253a">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com"
+   xml:id="manifestation__c1dd844d-c6cd-45ab-9a44-0d4d52fe253a">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title type="manifestation">Über den Traum</title>
-            <title type="publication"><rs type="bibl" ref="#bibl__Freud_1921_Uber_Traum_3te">Freud_1921_Uber_Traum_3te</rs></title>
-            <title type="work"><rs type="bibl" ref="#bibl__2da622da-de12-46e4-bb1d-c9c4a7ae877e">Freud, Sigmund  (1901-001; 1901a): Über den Traum</rs></title>
+            <title type="publication"><rs type="bibl" ref="#bibl__Freud_1921_Uber_Traum_3te"
+                  >Freud_1921_Uber_Traum_3te</rs></title>
+            <title type="work"><rs type="bibl" ref="#bibl__2da622da-de12-46e4-bb1d-c9c4a7ae877e"
+                  >Freud, Sigmund (1901-001; 1901a): Über den Traum</rs></title>
             <title type="sub"/>
          </titleStmt>
          <publicationStmt>
@@ -16,6 +19,199 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body><div xml:id="page__0e447e54-9e49-4fa5-ac98-0671c7cb2200"><pb n="1" facs="https://www.freud-edition.net/sites/default/files/manifestationen/node-51190/images/page-1.jpg" xml:id="faks__8fc00c9f-a6c3-4ebf-9a63-9364ce4dc819"/><fw type="pageNum">[3]</fw> <p class="h1">I.</p> <p>In Zeiten, die wir vorwissenschaftliche nennen dürfen, waren die<lb/> Menschen um die Erklärung des Traumes nicht verlegen. Wenn sie ihn<lb/> nach dem Erwachen erinnerten, galt er ihnen als eine entweder gnädige<lb/> oder feindselige Kundgebung höherer, dämonischer und göttlicher,<lb/> Mächte. Mit dem Aufblühen naturwissenschaftlicher Denkweisen hat sich<lb/> all diese sinnreiche Mythologie in Psychologie umgesetzt, und heute be<lb break="no"/>zweifelt nur mehr eine geringe Minderzahl unter den Gebildeten, dass der<lb/> Traum die <hi rendition="#smallcaps">eigene psychische Leistung</hi> des Träumers ist.</p> <p>Seit der Verwerfung der mythologischen Hypothese ist der Traum<lb/> aber erklärungsbedürftig geworden. Die Bedingungen seiner Entstehung,<lb/> seine Beziehung zum Seelenleben des Wachens, seine Abhängigkeit von<lb/> Reizen, die sich während des Schlafzustandes zur Wahrnehmung drängen,<lb/> die vielen dem wachen Denken anstössigen Eigentümlichkeiten seines<lb/> Inhaltes, die Inkongruenz zwischen seinen Vorstellungsbildern und den<lb/> an sie geknüpften Affekten, endlich die Flüchtigkeit des Traumes, die<lb/> Art, wie das wache Denken ihn als fremdartig bei Seite schiebt, in der<lb/> Erinnerung verstümmelt oder auslöscht: — all diese und noch andere<lb/> Probleme verlangen seit vielen hundert Jahren nach Lösungen, die bis<lb/> heute nicht befriedigend gegeben werden konnten. Im Vordergrunde des<lb/> Interesses steht aber die Frage nach der <hi rendition="#smallcaps">Bedeutung</hi> des Traumes,<lb/> die einen zweifachen Sinn in sich schliesst. Sie fragt erstens nach der<lb/> psychischen Bedeutung des Träumens, nach der Stellung des Traumes zu<lb/> anderen seelischen Vorgängen und nach einer etwaigen biologischen<lb/> Funktion desselben, und zweitens möchte sie wissen, ob der Traum<lb/> <hi rendition="#smallcaps">deutbar</hi> ist, ob der einzelne Trauminhalt einen „<hi rendition="#smallcaps">Sinn</hi>“ hat, wie wir<lb/> ihn in anderen psychischen Kompositionen zu finden gewöhnt sind.</p> <p>Drei Richtungen machen sich in der Würdigung des Traumes<lb/> bemerkbar. Die eine derselben, die gleichsam den Nachklang der alten<lb/> Überschätzung des Traumes bewahrt hat, findet ihren Ausdruck bei<lb/> manchen Philosophen. Ihnen gilt als die Grundlage des Traumlebens ein<lb/> besonderer Zustand der Seelentätigkeit, den sie sogar als eine Erhebung<lb/> zu einer höheren Stufe feiern. So urteilt z. B. <hi rendition="#smallcaps">Schubert</hi>: Der Traum</p> </div><div xml:id="page__8e11acbf-8795-4803-9d2a-85a1fc81a8fe"><pb n="2" facs="https://www.freud-edition.net/sites/default/files/manifestationen/node-51190/images/page-2.jpg" xml:id="faks__7acd2b03-4665-4844-9a07-6b7e61087f6e"/><fw type="pageNum">4</fw> <p prev="true">sei eine Befreiung des Geistes von der Gewalt der äusseren Natur, eine<lb/> eine Loslösung der Seele von den Fesseln der Sinnlichkeit. Andere Denker<lb/> gehen nicht so weit, halten aber daran fest, dass die Träume wesentlich<lb/> seelischen Anregungen entspringen und Äusserungen seelischer Kräfte<lb/> darstellen, die tagsüber an ihrer freien Entfaltung behindert sind (der<lb/> Traumphantasie — <hi rendition="#smallcaps">Scherner</hi>, <hi rendition="#smallcaps">Volkelt</hi>). Eine Fähigkeit zur<lb/> Überleistung wenigstens auf gewissen Gebieten (Gedächtnis) wird dem<lb/> Traumleben von einer grossen Anzahl von Beobachtern zugesprochen.</p> <p>Im scharfen Gegensatz hierzu vertritt die Mehrzahl ärztlicher<lb/> Autoren eine Auffassung, welche dem Traum kaum noch den Wert eines<lb/> psychischen Phänomens belässt. Die Erreger des Traumes sind nach<lb/> ihnen ausschliesslich die Sinnes- und Leibreize, die entweder von aussen<lb/> den Schläfer treffen oder zufällig in seinen inneren Organen rege werden.<lb/> Das Geträumte hat nicht mehr Anspruch auf Sinn und Bedeutung als<lb/> etwa die Tonfolge, welche die zehn Finger eines der Musik ganz un<lb break="no"/>kundigen Menschen hervorrufen, wenn sie über die Tasten des Instru<lb break="no"/>mentes hinlaufen. Der Traum ist geradezu als „ein körperlicher, in allen<lb/> Fällen unnützer, in vielen Fällen krankhafter Vorgang“ zu kennzeichnen<lb/> (<hi rendition="#smallcaps">Binz</hi>). Alle Eigentümlichkeiten des Traumlebens erklären sich aus<lb/> der zusammenhangslosen, durch physiologische Reize erzwungenen Arbeit<lb/> einzelner Organe oder Zellgruppen des sonst in Schlaf versenkten Gehirns.</p> <p>Wenig beeinflusst durch dieses Urteil der Wissenschaft und un<lb break="no"/>bekümmert um die Quellen des Traumes scheint die Volksmeinung an<lb/> dem Glauben festzuhalten, dass der Traum denn doch einen Sinn habe,<lb/> der sich auf die Verkündigung der Zukunft bezieht, und der durch irgend<lb/> ein Verfahren der Deutung aus seinem oft verworrenen und rätselhaften<lb/> Inhalt gewonnen werden könne. Die in Anwendung gebrachten Deutungs<lb break="no"/>methoden bestehen darin, dass man den erinnerten Trauminhalt durch<lb/> einen anderen ersetzt, entweder Stück für Stück <hi rendition="#smallcaps">nach einem fest</hi><lb break="no"/><hi rendition="#smallcaps">stehenden Schlüssel</hi>, oder das Ganze des Traumes durch ein<lb/> anderes Ganzes, zu dem es in der Beziehung eines <hi rendition="#smallcaps">Symbols</hi> steht.<lb/> Ernsthafte Männer lächeln über diese Bemühungen. „Träume sind<lb/> Schäume.“</p> <p class="h1">II.</p> <p>Zu meiner grossen Überraschung entdeckte ich eines Tages, dass<lb/> nicht die ärztliche, sondern die laienhafte, halb noch im Aberglauben<lb/> befangene Auffassung des Traumes der Wahrheit nahe kommt. Ich ge<lb break="no"/>langte nämlich zu neuen Aufschlüssen über den Traum, indem ich eine<lb/> neue Methode der psychologischen Untersuchung auf ihn anwendete, die<lb/> mir bei der Lösung der Phobien, Zwangsideen, Wahnideen u. dgl. hervor-</p> </div><div xml:id="page__b5040e01-4b9e-4cb6-8379-6f6ec4151499"><pb n="3" facs="https://www.freud-edition.net/sites/default/files/manifestationen/node-51190/images/page-3.jpg" xml:id="faks__692651e8-e0cd-4e17-971f-c87943fe6b16"/><fw type="pageNum">5</fw> <p prev="true">ragend gute Dienste geleistet hatte, und die seither unter dem Namen<lb/> „Psychoanalyse“ bei einer ganzen Schule von Forschern Aufnahme ge<lb break="no"/>funden hat. Die mannigfaltigen Analogien des Traumlebens mit den<lb/> verschiedenartigsten Zuständen psychischer Krankheit im Wachen sind<lb/> ja von zahlreichen ärztlichen Forschern mit Recht bemerkt worden. Es<lb/> erschien also von vorne herein hoffnungsvoll, ein Untersuchungsverfahren,<lb/> welches sich bei den psychopathischen Gebilden bewährt hatte, auch zur<lb/> Aufklärung des Traumes heranzuziehen. Die Angst- und Zwangsideen<lb/> stehen dem normalen Bewusstsein in ähnlicher Weise fremd gegenüber<lb/> wie die Träume dem Wachbewusstsein; ihre Herkunft ist dem Bewusstsein<lb/> ebenso unbekannt wie die der Träume. Bei diesen psychopathischen<lb/> Bildungen wurde man durch ein praktisches Interesse getrieben, ihre Her<lb break="no"/>kunft und Entstehungsweise zu ergründen, denn die Erfahrung hatte<lb/> gezeigt, dass eine solche Aufdeckung der dem Bewusstsein verhüllten<lb/> Gedankenwege, durch welche die krankhaften Ideen mit dem übrigen<lb/> psychischen Inhalt zusammenhängen, einer Lösung dieser Symptome<lb/> gleichkommt, die Bewältigung der bisher unhemmbaren Idee zur Folge<lb/> hat. Aus der Psychotherapie stammte also das Verfahren, dessen ich<lb/> mich für die Auflösung der Träume bediente.</p> <p>Dieses Verfahren ist leicht zu beschreiben, wenngleich seine Aus<lb break="no"/>führung Unterweisung und Übung erfordern dürfte. Wenn man es bei<lb/> einem Anderen, etwa einem Kranken mit einer Angstvorstellung, in An<lb break="no"/>wendung zu bringen hat, so fordert man ihn auf, seine Aufmerksamkeit<lb/> auf die betreffende Idee zu richten, aber nicht, wie er schon so oft getan,<lb/> über sie nachzudenken, sondern alles <hi rendition="#smallcaps">ohne Ausnahme</hi> sich klar zu<lb/> machen und dem Arzt mitzuteilen, <hi rendition="#smallcaps">was ihm zu ihr einfällt</hi>. Die<lb/> dann etwa auftretende Behauptung, dass die Aufmerksamkeit nichts<lb/> erfassen könne, schiebt man durch eine energische Versicherung, ein<lb/> solches Ausbleiben eines Vorstellungsinhaltes sei ganz unmöglich, zur<lb/> Seite. Tatsächlich ergeben sich sehr bald zahlreiche Einfälle, an die<lb/> sich weitere knüpfen, die aber regelmäßig von dem Urteil des Selbst<lb break="no"/>beobachters eingeleitet werden, sie seien unsinnig oder unwichtig, gehören<lb/> nicht hierher, seien ihm nur zufällig und ausser Zusammenhang mit dem<lb/> gegebenen Thema eingefallen. Man merkt sofort, dass es diese <hi rendition="#smallcaps">Kritik</hi><lb/> ist, welche all diese Einfälle von der Mitteilung, ja bereits vom Bewusst<lb break="no"/>werden, ausgeschlossen hat. Kann man die betreffende Person dazu<lb/> bewegen, auf solche Kritik gegen ihre Einfälle zu verzichten und die<lb/> Gedankenreihen, die sich bei festgehaltener Aufmerksamkeit ergeben,<lb/> weiter zu spinnen, so gewinnt man ein psychisches Material, welches<lb/> alsbald deutlich an die zum Thema genommene krankhafte Idee anknüpft,<lb/> deren Verknüpfungen mit anderen Ideen blosslegt, und in weiterer Ver<lb break="no"/>folgung gestattet, die krankhafte Idee durch eine neue zu ersetzen, die<lb/> sich in verständlicher Weise in den seelischen Zusammenhang einfügt.</p> </div><div xml:id="page__b0f2de4c-7271-4f17-9a63-f8351b12d60d"><pb n="4" facs="https://www.freud-edition.net/sites/default/files/manifestationen/node-51190/images/page-4.jpg" xml:id="faks__7a778975-dc1e-47b6-9e8c-2f9c58a8ecdb"/><fw type="pageNum">6</fw> <p>Es ist hier nicht der Ort, die Voraussetzungen, auf denen dieser<lb/> Versuch ruht, und die Folgerungen, die sich aus seinem regelmäßigen<lb/> Gelingen ableiten, ausführlich zu behandeln. Es mag also die Aussage<lb/> genügen, dass wir bei jeder krankhaften Idee ein zur Lösung derselben<lb/> hinreichendes Material erhalten, wenn wir unsere Aufmerksamkeit gerade<lb/> den „<hi rendition="#smallcaps">ungewollten</hi>“, den „<hi rendition="#smallcaps">unser Nachdenken störenden</hi>“,<lb/> den sonst von der Kritik als wertloser Abfall beseitigten Assoziationen<lb/> zuwenden. Übt man das Verfahren an sich selbst, so unterstützt man<lb/> sich bei der Untersuchung am besten durch sofortiges Niederschreiben<lb/> seiner anfänglich unverständlichen Einfälle.</p> <p>Ich will nun zeigen, wohin es führt, wenn ich diese Methode der<lb/> Untersuchung auf den Traum anwende. Es müsste jedes Traumbeispiel<lb/> sich in gleicher Weise dazu eignen; aus gewissen Motiven wähle ich aber<lb/> einen eigenen Traum, der mir in der Erinnerung undeutlich und sinnlos<lb/> erscheint, und der sich durch seine Kürze empfehlen kann. Vielleicht<lb/> wird gerade der Traum der letzten Nacht diesen Ansprüchen genügen.<lb/> Sein unmittelbar nach dem Erwachen fixierter Inhalt lautet folgender<lb break="no"/>maßen:</p> <p>„<hi rendition="#smallcaps">Eine Gesellschaft, Tisch oder Table d’hôte. . . .<lb/> Es wird Spinat gegessen. . . . Frau E. L. sitzt neben<lb/> mir, wendet sich ganz mir zu und legt vertraulich<lb/> die Hand auf mein Knie. Ich entferne die Hand ab<lb break="no"/>wehrend. Sie sagt dann: Sie haben aber immer so<lb/> schöne Augen gehabt. . . . Ich sehe dann undeutlich<lb/> etwas wie zwei Augen als Zeichnung oder wie den<lb/> Kontur eines Brillenglases. . . .</hi>“</p> <p>Dies ist der ganze Traum oder wenigstens alles, was ich von ihm<lb/> erinnere. Er erscheint mir dunkel und sinnlos, vor allem aber befremdlich.<lb/> Frau E. L. ist eine Person, zu der ich kaum je freundschaftliche Be<lb break="no"/>ziehungen gepflogen, meines Wissens herzlichere nie gewünscht habe.<lb/> Ich habe sie lange Zeit nicht gesehen und glaube nicht, dass in den letzten<lb/> Tagen von ihr die Rede war. Irgendwelche Affekte haben den Traum<lb break="no"/>vorgang nicht begleitet.</p> <p>Nachdenken über diesen Traum bringt ihn meinem Verständnis<lb/> nicht näher. Ich werde aber jetzt absichts- und kritiklos die Einfälle<lb/> verzeichnen, die sich meiner Selbstbeobachtung ergeben. Ich bemerke<lb/> bald, dass es dabei vorteilhaft ist, den Traum in seine Elemente zu<lb/> zerlegen und zu jedem dieser Bruchstücke die anknüpfenden Einfälle<lb/> aufzusuchen.</p> <p><hi rendition="#smallcaps">Gesellschaft, Tisch oder Table d’hôte</hi>. Daran<lb/> knüpft sich sofort die Erinnerung an das kleine Erlebnis, welches den<lb/> gestrigen Abend beschloss. Ich war von einer kleinen Gesellschaft weg<lb break="no"/>gegangen in Begleitung eines Freundes, der sich erbot, einen Wagen zu</p> </div><div xml:id="page__f758c638-d4ba-4fbd-99ef-93694991f61f"><pb n="5" facs="https://www.freud-edition.net/sites/default/files/manifestationen/node-51190/images/page-5.jpg" xml:id="faks__25e18427-9b81-427c-bc48-96a4678d7893"/><fw type="pageNum">7</fw> <p prev="true">nehmen und mich nach Hause zu führen. „Ich ziehe einen Wagen mit</p></div></body>
+      <body>
+         
+         <div xml:id="page__1d200d4e-227f-4749-9f08-f0615b8f591f">
+            <pb n="38"
+               facs="https://www.freud-edition.net/sites/default/files/manifestationen/node-51190/images/page-38.jpg"
+               xml:id="faks__2071a710-6577-4889-8ef8-60105e81ba96"/>
+            <fw type="pageNum">40</fw>
+            
+            <p class="h1">XII.</p>
+            <p>Wer an dem Gesichtspunkte der <hi rendition="#smallcaps">Zensur</hi> als dem
+               Hauptmotiv<lb/> der Traumentstellung festhält, der wird nicht befremdet sein, aus
+               den<lb/> Ergebnissen der Traumdeutung zu erfahren, dass die meisten Träume<lb/> der
+               Erwachsenen durch die Analyse auf <hi rendition="#smallcaps">erotische Wünsche</hi>
+                  zu<lb break="no"/>rückgeführt werden. Diese Behauptung zielt nicht auf die Träume
+               von<lb/> unverhüllt sexuellem Inhalt, die wohl allen Träumern aus eigenem Er<lb
+                  break="no"/>leben bekannt sind und gewöhnlich allein als „sexuelle Träume“ be<lb
+                  break="no"/>schrieben werden. Solche Träume bieten noch immer des
+               Befremdenden<lb/> genug durch die Auswahl der Personen, die sie zu
+               Sexualobjekten<lb/> machen, durch die Wegräumung aller Schranken, an denen der
+               Träumer<lb/> im wachen Leben seine geschlechtlichen Bedürfnisse Halt machen
+               lässt,<lb/> durch viele sonderbare an das sogenannt <hi rendition="#smallcaps"
+                  >Perverse</hi> mahnende Einzel<lb break="no"/>heiten. Die Analyse zeigt aber, dass
+               sehr viele andere Träume, die in<lb/> ihrem manifesten Inhalt nichts Erotisches
+               erkennen lassen, durch die<lb/> Deutungsarbeit als sexuelle Wunscherfüllungen
+               entlarvt werden, und<lb/> dass anderseits sehr viele von der Denkarbeit des Wachens
+               als „Tages<lb break="no"/>reste“ erübrigte Gedanken zu ihrer Darstellung im Traum nur
+               durch die<lb/> Zuhilfenahme verdrängter erotischer Wünsche gelangen.</p>
+            <p>Zur Aufklärung dieses theoretisch nicht postulierten Sachverhaltes<lb/> sei darauf
+               hingewiesen, dass keine andere Gruppe von Trieben eine so<lb/> weitgehende
+               Unterdrückung durch die Anforderungen der Erziehung<lb/> zur Kultur erfahren hat wie
+               gerade die sexuellen, dass aber auch die<lb/>
+            </p>
+         </div>
+         <div xml:id="page__deb05a74-8834-4f7b-9c4b-bef77792880b">
+            <pb n="39"
+               facs="https://www.freud-edition.net/sites/default/files/manifestationen/node-51190/images/page-39.jpg"
+               xml:id="faks__f3560574-62a5-4e69-8c32-c475127bf097"/>
+            <fw type="pageNum">41</fw>
+            <p prev="true">sexuellen Triebe sich bei den meisten Menschen der Beherrschung<lb/>
+               durch die höchsten Seeleninstanzen am ehesten zu entziehen verstehen.<lb/> Seitdem
+               wir die in ihren Äusserungen oft so unscheinbare, regelmäßig<lb/> übersehene und
+                  missverstandene<hi rendition="#smallcaps"> infantile Sexualität</hi> kennen<lb/>
+               gelernt haben, sind wir berechtigt zu sagen, dass fast jeder Kulturmensch<lb/> die
+               infantile Gestaltung des Sexuallebens in irgend einem Punkte fest<lb break="no"
+               />gehalten hat, und begreifen so, dass die verdrängten infantilen Sexual<lb
+                  break="no"/>wünsche die häufigsten und stärksten Triebkräfte für die Bildung
+               der<lb/> Träume ergeben<hi rendition="#footnote-index">1)</hi>.</p>
+            <p>Wenn es dem Traume, welcher erotische Wünsche zum Ausdrucke<lb/> bringt, gelingen
+               kann, in seinem manifesten Inhalt harmlos asexuell zu<lb/> erscheinen, so kann dies
+               nur auf eine Weise möglich werden. Das<lb/> Material von sexuellen Vorstellungen darf
+               nicht als solches dargestellt<lb/> werden, sondern muss im Trauminhalt durch
+               Andeutungen, Anspielungen<lb/> und ähnliche Arten der indirekten Darstellung ersetzt
+               werden, aber zum<lb/> Unterschied von anderen Fällen indirekter Darstellung muss die
+               im<lb/> Traum verwendete der unmittelbaren Verständlichkeit entzogen sein.<lb/> Man
+               hat sich gewöhnt, die Darstellungsmittel, welche diesen Bedingungen<lb/> entsprechen,
+               als <hi rendition="#smallcaps">Symbole</hi> des durch sie Dargestellten zu
+               bezeichnen.<lb/> Ein besonderes Interesse hat sich ihnen zugewendet, seitdem man
+                  be<lb break="no"/>merkt hat, dass die Träumer derselben Sprache sich der
+               nämlichen<lb/> Symbole bedienen, ja, dass in einzelnen Fällen die
+               Symbolgemeinschaft<lb/> über die Sprachgemeinschaft hinausreicht. Da die Träumer die
+                  Be<lb break="no"/>deutung der von ihnen verwendeten Symbole selbst nicht kennen,
+               bleibt<lb/> es zunächst rätselhaft, woher deren Beziehung zu dem durch sie Er<lb
+                  break="no"/>setzten und Bezeichneten rührt. Die Tatsache selbst ist aber
+                  unzweifel<lb break="no"/>haft und wird für die Technik der Traumdeutung bedeutsam,
+               denn mit<lb/> Hilfe einer Kenntnis der Traumsymbolik ist es möglich, den Sinn ein<lb
+                  break="no"/>zelner Elemente des Trauminhaltes, oder einzelner Stücke des
+               Traumes,<lb/> oder mitunter selbst ganzer Träume, zu verstehen, ohne den Träumer<lb/>
+               nach seinen Einfällen befragen zu müssen. Wir nähern uns so dem<lb/> populären Ideal
+               einer Traumübersetzung und greifen anderseits auf die<lb/> Deutungstechnik der alten
+               Völker zurück, denen Traumdeutung mit<lb/> Deutung durch Symbolik identisch war.</p>
+            <p>Wiewohl die Studien über die Traumsymbole von einem Abschluss<lb/> noch weit entfernt
+               sind, können wir doch eine Reihe von allgemeinen<lb/> Behauptungen und von speziellen
+               Angaben über dieselben mit Sicher<lb break="no"/>heit vertreten. Es gibt Symbole, die
+               fast allgemein eindeutig zu über<lb break="no"/>setzen sind, so bedeuten Kaiser und
+               Kaiserin (König und Königin) die<lb/> Eltern, Zimmer stellen Frauen(zimmer) dar, die
+               Ein- und Ausgänge der<lb break="no"/>
+            </p>
+            <note type="footnote"><hi rendition="#footnote-index">1)</hi> Vergl. hierzu des
+               Verfassers „Drei Abhandlungen zur Sexualtheorie“ 1905,<lb/> vierte Auflage
+               1920.</note>
+         </div>
+         <div xml:id="page__d6c7652a-e841-4db6-afae-0cfea16c494b">
+            <pb n="40"
+               facs="https://www.freud-edition.net/sites/default/files/manifestationen/node-51190/images/page-40.jpg"
+               xml:id="faks__0947f5c6-607f-4855-b663-17613a010a7a"/>
+            <fw type="pageNum">42</fw>
+            <p prev="true">selben die Körpereröffnungen. Die grösste Zahl der Traumsymbole
+               dient<lb/> zur Darstellung von Personen, Körperteilen und Verrichtungen, die mit<lb/>
+               erotischem Interesse betont sind, insbesondere können die Genitalien<lb/> durch eine
+               Anzahl von oft sehr überraschenden Symbolen dargestellt<lb/> werden und finden sich
+               die mannigfaltigsten Gegenstände zur symboli<lb break="no"/>schen Bezeichnung der
+               Genitalien verwendet. Wenn scharfe Waffen,<lb/> lange und starre Objekte wie
+               Baumstämme und Stöcke das männliche<lb/> Genitale; Schränke, Schachteln, Wagen, Öfen
+               den Frauenleib im Traum<lb/> vertreten, so ist uns das Tertium comparationis, das
+               Gemeinsame dieser<lb/> Ersetzungen ohne weiteres verständlich, aber nicht bei allen
+               Symbolen<lb/> wird uns das Erfassen der verbindenden Beziehungen so leicht
+               gemacht.<lb/> Symbole wie das der Stiege und des Steigens für den Sexualverkehr,<lb/>
+               der Cravate für das männliche Glied, des Holzes für den Frauenleib<lb/> fordern
+               unseren Unglauben heraus, so lange wir nicht die Einsicht in<lb/> die Symbolbeziehung
+               auf anderen Wegen gewonnen haben. Eine ganze<lb/> Anzahl der Traumsymbole ist
+               übrigens bisexuell, kann je nach dem<lb/> Zusammenhange auf das männliche oder auf
+               das weibliche Genitale be<lb break="no"/>zogen werden.</p>
+            <p>Es gibt Symbole von universeller Verbreitung, die man bei allen<lb/> Träumern eines
+               Sprach- und Bildungskreises antrifft, und andere von<lb/> höchst eingeschränktem,
+               individuellem Vorkommen, die sich ein Ein<lb break="no"/>zelner aus seinem
+               Vorstellungsmaterial gebildet hat. Unter den ersteren<lb/> unterscheidet man solche,
+               deren Anspruch auf Vertretung des Sexuellen<lb/> durch den Sprachgebrauch ohne
+               weiteres gerechtfertigt wird (wie z. B.<lb/> die aus dem Ackerbau stammenden, vgl.
+               Fortpflanzung, Samen), von<lb/> anderen, deren Beziehung zum Sexuellen in die
+               ältesten Zeiten und<lb/> dunkelsten Tiefen unserer Begriffsbildung hinabzureichen
+               scheint. Die<lb/> symbolbildende Kraft ist für beide oben gesonderten Arten von
+               Symbolen<lb/> in der Gegenwart nicht erloschen. Man kann beobachten, dass neu<lb/>
+               erfundene Gegenstände (wie des Luftschiff) sofort zu universell gebräuch<lb
+                  break="no"/>lichen Sexualsymbolen erhoben werden.</p>
+            <p>Es wäre übrigens irrtümlich zu erwarten, eine noch gründlichere<lb/> Kenntnis der
+               Traumsymbolik (der „Sprache des Traumes“) könnte uns<lb/> von der Befragung des
+               Träumers nach seinen Einfällen zum Traume<lb/> unabhängig machen und uns gänzlich zur
+               Technik der antiken Traum<lb break="no"/>deutung zurückführen. Abgesehen von den
+               individuellen Symbolen und<lb/> den Schwankungen im Gebrauch der universellen weiss
+               man nie, ob ein<lb/> Element des Trauminhaltes symbolisch oder im eigentlichen Sinne
+               zu<lb/> deuten ist, und weiss man mit Sicherheit, dass nicht aller Inhalt des<lb/>
+               Traumes symbolisch zu deuten ist. Die Kenntnis der Traumsymbolik<lb/> wird uns immer
+               nur die Übersetzung einzelner Bestandteile des Traum<lb break="no"/>inhaltes
+               vermitteln und wird die Anwendung der früher gegebenen<lb/> technischen Regeln nicht
+               überflüssig machen. Sie wird aber als das</p>
+         </div>
+         <div xml:id="page__b6ba164e-9cde-4211-bc22-e5eed70ad79a">
+            <pb n="41"
+               facs="https://www.freud-edition.net/sites/default/files/manifestationen/node-51190/images/page-41.jpg"
+               xml:id="faks__ffd2bdaa-9a61-4489-a443-cdb002f9d82d"/>
+            <fw type="pageNum">43</fw>
+            <p prev="true">wertvollste Hilfsmittel zur Deutung gerade dort eintreten, wo die
+               Einfälle<lb/> des Träumers versagen oder ungenügend werden.</p>
+            <p>Die Traumsymbolik erweist sich als unentbehrlich auch für das<lb/> Verständnis der
+               sog. „typischen“ Träume der Menschen und der „wieder<lb break="no"/>kehrenden“ Träume
+               des Einzelnen. Wenn die Würdigung der symboli<lb break="no"/>schen Ausdrucksweise des
+               Traumes in dieser kurzen Darstellung so<lb/> unvollständig ausgefallen ist, so
+               rechtfertigt sich diese Vernachlässigung<lb/> durch den Hinweis auf eine Einsicht,
+               die zu dem Wichtigsten gehört,<lb/> was wir über diesen Gegenstand aussagen können.
+               Die Traumsymbolik<lb/> führt weit über den Traum hinaus; sie gehört nicht dem Traume
+               zu eigen<lb/> an, sondern beherrscht in gleicher Weise die Darstellung in den
+               Märchen,<lb/> Mythen und Sagen, in den Witzen und im Folklore. Sie gestattet
+               uns,<lb/> die innigen Beziehungen des Traumes zu diesen Produktionen zu ver<lb
+                  break="no"/>folgen; wir müssen uns aber sagen, dass sie nicht von der
+               Traumarbeit<lb/> hergestellt wird, sondern eine Eigentümlichkeit — wahrscheinlich
+               unseres<lb/> unbewussten Denkens ist, welches der Traumarbeit das Material zur<lb/>
+               Verdichtung, Verschiebung und Dramatisierung liefert<hi rendition="#footnote-index"
+                  >1)</hi>.</p>
+            <p class="h1">XIII.</p>
+            <p>Ich erhebe weder den Anspruch, hier auf alle Traumprobleme Licht<lb/> geworfen, noch
+               die hier erörterten überzeugend erledigt zu haben. Wer<lb/> sich für den ganzen
+               Umfang der Traumliteratur interessiert, der sei auf<lb/> das Buch von <hi
+                  rendition="#smallcaps">Sante de Sanctis: I sogni</hi>, Torino 1899 ver<lb
+                  break="no"/>wiesen; wer die eingehendere Begründung der von mir vorgetragenen<lb/>
+               Auffassung des Traumes sucht, der wende sich an meine Schrift: <hi
+                  rendition="#smallcaps">Die<lb/> Traumdeutung</hi>, Leipzig und Wien 1900<hi
+                  rendition="#footnote-index">2)</hi>. Ich werde nur noch<lb/> darauf hinweisen, in
+               welcher Richtung die Fortsetzung meiner Dar<lb break="no"/>legungen über die
+               Traumarbeit zu verfolgen ist.</p>
+            <p>Wenn ich als die Aufgabe einer Traumdeutung die Ersetzung des<lb/> Traumes durch die
+               latenten Traumgedanken, also die Auflösung dessen,<lb/> was die Traumarbeit gesponnen
+               hat, hinstelle, so werfe ich einerseits<lb/> eine Reihe von neuen psychologischen
+               Problemen auf, die sich auf den<lb/> Mechanismus dieser Traumarbeit selbst wie auf
+               die Natur und die Be<lb break="no"/>dingungen der sog. Verdrängung beziehen;
+               anderseits behaupte ich die<lb/>
+            </p>
+            <note type="footnote"><hi rendition="#footnote-index">1)</hi> Weiteres über die
+               Traumsymbolik findet man ausser in den alten Schriften<lb/> zur Traumdeutung (<hi
+                  rendition="#smallcaps">Artemidorus</hi> von <hi rendition="#smallcaps"
+               >Daldis</hi>, <hi rendition="#smallcaps">Scherner</hi>, Das Leben des<lb/> Traumes
+               1861) in der „Traumdeutung“ des Verfassers, in den mythologischen<lb/> Arbeiten der
+               psychoanalytischen Schule, und auch in den Arbeiten von W. <hi rendition="#smallcaps"
+                  >Stekel</hi><lb/> („Die Sprache des Traumes" 1911).</note>
+            <note type="footnote"><hi rendition="#footnote-index">2)</hi> 1921 in sechster Auflage
+               erschienen.</note>
+         </div>
+         <div xml:id="page__3dd3dc77-0cb1-4a36-9ea1-589936d64cbf">
+            <pb n="42"
+               facs="https://www.freud-edition.net/sites/default/files/manifestationen/node-51190/images/page-42.jpg"
+               xml:id="faks__49515e82-ff41-4f6f-9f65-f316be259288"/>
+            <fw type="pageNum">44</fw>
+            <p prev="true">Existenz der Traumgedanken, als eines sehr reichhaltigen Materiales<lb/>
+               psychischer Bildungen von höchster Ordnung und mit allen Kennzeichen<lb/> normaler
+               intellektueller Leistung versehen, welches Material sich doch<lb/> dem Bewusstsein
+               entzieht, bis es ihm durch den Trauminhalt entstellte<lb/> Kunde gegeben hat. Solche
+               Gedanken bin ich genötigt, bei jedermann<lb/> als vorhanden anzunehmen, da ja fast
+               alle Menschen, auch die normalsten,<lb/> des Träumens fähig sind. An das Unbewusste
+               der Traumgedanken, an<lb/> dessen Verhältnis zum Bewusstsein und zur Verdrängung
+               knüpfen die<lb/> weiteren, für die Psychologie bedeutsamen Fragen an, deren
+               Erledigung<lb/> wohl aufzuschieben ist, bis die Analyse die Entstehung anderer
+                  psycho<lb break="no"/>pathischer Bildungen, wie der hysterischen Symptome und der
+                  Zwangs<lb break="no"/>ideen, klargelegt hat.</p>
+         </div>
+      </body>
    </text>
 </TEI>
