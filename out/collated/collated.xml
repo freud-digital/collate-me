@@ -1,212 +1,442 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Title</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Publication Information</p>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit><witness xml:id="sfe-1901-01__1911.xml">sfe-1901-01__1911.xml</witness><witness xml:id="sfe-1901-01__1921.xml">sfe-1901-01__1921.xml</witness><witness xml:id="sfe-1901-01__1925.xml">sfe-1901-01__1925.xml</witness><witness xml:id="sfe-1901-01__1931.xml">sfe-1901-01__1931.xml</witness></listWit>
-         </sourceDesc>
-      </fileDesc>
-  </teiHeader>
-  <text>
-      <body>
-         <ab><app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">XII</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">XII</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"/><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">.</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Wer an dem Gesichtspunkte der Zensur als dem Hauptmotiv der Traumentstellung festhält, der wird nicht befremdet sein</lem><rdg wit="#sfe-1901-01__1911.xml">Wer an dem Gesichtspunkte der Zensur als dem Hauptmotiv der Traumentstellung festhält, der wird nicht befremdet sein</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">,</lem><rdg wit="#sfe-1901-01__1911.xml"/></app>
-	 
-	aus den Ergebnissen der Traumdeutung zu erfahren, 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
-	 
-	die meisten Träume der Erwachsenen durch die Analyse auf erotische Wünsche zurückgeführt werden. Diese Behauptung zielt nicht auf die Träume von unverhüllt sexuellem Inhalt, die wohl allen Träumern aus eigenem Erleben bekannt sind und gewöhnlich allein als „sexuelle Träume“ beschrieben werden. Solche Träume bieten noch immer des Befremdenden genug durch die Auswahl der Personen, die sie zu Sexualobjekten machen, durch die Wegräumung aller Schranken, an denen der Träumer im wachen Leben seine geschlechtlichen Bedürfnisse 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">haltmachen läßt</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Halt machen lässt</rdg></app>
-	, durch viele sonderbare an das sogenannt Perverse mahnende Einzelheiten. Die Analyse zeigt aber, 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
-	 
-	sehr viele andere Träume, die in ihrem manifesten Inhalt nichts Erotisches erkennen lassen, durch die Deutungsarbeit als sexuelle Wunscherfüllungen entlarvt werden, und 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">anderseits</lem><rdg wit="#sfe-1901-01__1931.xml">andrerseits</rdg></app>
-	 
-	sehr viele von der Denkarbeit des Wachens als „Tagesreste“ erübrigte Gedanken zu ihrer Darstellung im Traum nur durch die Zuhilfenahme verdrängter erotischer Wünsche gelangen. Zur Aufklärung dieses theoretisch nicht postulierten Sachverhaltes sei darauf hingewiesen, 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
-	 
-	keine andere Gruppe von Trieben eine so weitgehende Unterdrückung durch die 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Anforderung</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Anforderungen</rdg></app>
-	 
-	der Erziehung zur Kultur erfahren hat wie gerade die sexuellen, 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
-	 
-	aber auch die sexuellen Triebe sich bei den meisten Menschen der Beherrschung durch die höchsten Seeleninstanzen am ehesten zu entziehen verstehen. Seitdem wir die in ihren 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Äußerungen</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Äusserungen</rdg></app>
-	 
-	oft so unscheinbare, regelmäßig übersehene und 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">mißverstandene</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">missverstandene</rdg></app>
-	 
-	infantile Sexualität 
-	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">kennen gelernt</lem><rdg wit="#sfe-1901-01__1931.xml">kennengelernt</rdg></app>
-	 
-	haben, sind wir berechtigt zu sagen, 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
-	 
-	fast jeder Kulturmensch die infantile Gestaltung des Sexuallebens in 
-	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">irgend einem</lem><rdg wit="#sfe-1901-01__1931.xml">irgendeinem</rdg></app>
-	 
-	Punkte festgehalten hat, und begreifen so, 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
-	 
-	die verdrängten infantilen Sexualwünsche die häufigsten und stärksten Triebkräfte für die Bildung der Träume 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">ergeben.</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">ergeben1).</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1925.xml">1</lem><rdg wit="#sfe-1901-01__1931.xml">2</rdg><rdg wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml"/></app>
-	 
-	Wenn es dem Traume, welcher erotische Wünsche zum Ausdrucke bringt, gelingen kann, in seinem manifesten Inhalt harmlos asexuell zu erscheinen, so kann dies nur auf eine Weise möglich werden. Das Material von sexuellen Vorstellungen darf nicht als solches dargestellt werden, sondern 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">muß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">muss</rdg></app>
-	 
-	im Trauminhalt durch Andeutungen, Anspielungen und ähnliche Arten der indirekten Darstellung ersetzt werden, aber zum Unterschied von anderen Fällen indirekter Darstellung 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">muß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">muss</rdg></app>
-	 
-	die im Traum verwendete der unmittelbaren 
-	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Verständlichkeit</lem><rdg wit="#sfe-1901-01__1931.xml">Verständ- lichkeit</rdg></app>
-	 
-	entzogen sein. Man hat sich gewöhnt, die Darstellungsmittel, welche diesen Bedingungen entsprechen, als Symbole des durch sie Dargestellten zu bezeichnen. Ein besonderes Interesse hat sich ihnen zugewendet, seitdem man bemerkt hat, 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">die Träumer derselben Sprache sich der nämlichen Symbole bedienen</lem><rdg wit="#sfe-1901-01__1911.xml">die Träumer derselben Sprache sich der nämlichen Symbole bedienen</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">,</lem><rdg wit="#sfe-1901-01__1911.xml"/></app>
-	 
-	ja, 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">in einzelnen Fällen die Symbolgemeinschaft über die Sprachgemeinschaft hinausreicht. Da die Träumer die Bedeutung der von ihnen verwendeten Symbole selbst nicht kennen, bleibt es zunächst rätselhaft, woher deren Beziehung zu dem durch sie Ersetzten und Bezeichneten rührt. Die Tatsache selbst ist aber unzweifelhaft und wird für die Technik der Traumdeutung bedeutsam, denn mit Hilfe einer Kenntnis der Traumsymbolik ist es möglich, den Sinn einzelner Elemente des Trauminhaltes, oder einzelner Stücke des Traumes, oder mitunter selbst ganzer Träume, zu verstehen</lem><rdg wit="#sfe-1901-01__1911.xml">in einzelnen Fällen die Symbolgemeinschaft über die Sprachgemeinschaft hinausreicht. Da die Träumer die Bedeutung der von ihnen verwendeten Symbole selbst nicht kennen, bleibt es zunächst rätselhaft, woher deren Beziehung zu dem durch sie Ersetzten und Bezeichneten rührt. Die Tatsache selbst ist aber unzweifelhaft und wird für die Technik der Traumdeutung bedeutsam, denn mit Hilfe einer Kenntnis der Traumsymbolik ist es möglich, den Sinn einzelner Elemente des Trauminhaltes, oder einzelner Stücke des Traumes, oder mitunter selbst ganzer Träume, zu verstehen</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">,</lem><rdg wit="#sfe-1901-01__1911.xml"/></app>
-	 
-	ohne den Träumer nach seinen Einfällen befragen zu müssen. Wir nähern uns so dem populären Ideal einer Traumübersetzung und greifen 
-	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">anderseits</lem><rdg wit="#sfe-1901-01__1931.xml">andrerseits</rdg></app>
-	 
-	auf die Deutungstechnik der alten Völker zurück, denen Traumdeutung mit Deutung durch Symbolik identisch war. Wiewohl die Studien über die Traumsymbole von einem 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Abschluß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Abschluss</rdg></app>
-	 
-	noch weit entfernt sind, können wir doch eine Reihe von allgemeinen Behauptungen und von speziellen Angaben über dieselben mit Sicherheit vertreten. Es gibt Symbole, die fast allgemein eindeutig zu übersetzen sind, so bedeuten Kaiser und Kaiserin (König und Königin) die Eltern, Zimmer stellen Frauen(zimmer) dar, die Ein- und Ausgänge 
-	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">derselben</lem><rdg wit="#sfe-1901-01__1921.xml">der selben</rdg></app>
-	 
-	die 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Körperöffnungen</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Körpereröffnungen</rdg></app>
-	. Die 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">größte</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">grösste</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">Zahl der Traumsymbole dient zur Darstellung von Personen, Körperteilen und Verrichtungen, die mit erotischem Interesse betont sind, insbesondere können die Genitalien durch eine Anzahl von oft sehr überraschenden Symbolen dargestellt werden und finden sich die mannigfaltigsten Gegenstände zur symbolischen Bezeichnung der Genitalien verwendet. Wenn scharfe Waffen, lange und starre Objekte</lem><rdg wit="#sfe-1901-01__1931.xml">Zahl der Traumsymbole dient zur Darstellung von Personen, Körperteilen und Verrichtungen, die mit erotischem Interesse betont sind, insbesondere können die Genitalien durch eine Anzahl von oft sehr überraschenden Symbolen dargestellt werden und finden sich die mannigfaltigsten Gegenstände zur symbolischen Bezeichnung der Genitalien verwendet. Wenn scharfe Waffen, lange und starre Objekte</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml #sfe-1901-01__1925.xml"/><rdg wit="#sfe-1901-01__1931.xml">,</rdg></app>
-	 
-	wie Baumstämme und 
-	<app><lem wit="#sfe-1901-01__1925.xml">Stöcke</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Stöcke</rdg><rdg wit="#sfe-1901-01__1931.xml">Städte</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">,</lem><rdg wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml"/></app>
-	 
-	das männliche Genitale; Schränke, Schachteln, Wagen, Öfen den Frauenleib im 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Traume</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Traum</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">vertreten, so ist uns das Tertium comparationis, das Gemeinsame dieser Ersetzungen</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">vertreten, so ist uns das Tertium comparationis, das Gemeinsame dieser Ersetzungen</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">,</lem><rdg wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml"/></app>
-	 
-	ohne weiteres verständlich, aber nicht bei allen Symbolen wird uns das Erfassen der verbindenden Beziehungen so leicht gemacht. Symbole wie das der Stiege und des Steigens für den Sexualverkehr, der 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Krawatte</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Cravate</rdg></app>
-	 
-	für das männliche Glied, des Holzes für den Frauenleib fordern unseren Unglauben heraus, 
-	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">so lange</lem><rdg wit="#sfe-1901-01__1931.xml">solange</rdg></app>
-	 
-	wir nicht die Einsicht in die Symbolbeziehung auf anderen Wegen gewonnen haben. Eine ganze Anzahl der Traumsymbole ist übrigens bisexuell, kann je nach dem Zusammenhange auf das männliche oder auf das weibliche Genitale bezogen werden. Es gibt Symbole von universeller Verbreitung, die man bei allen Träumern eines Sprach- und Bildungskreises antrifft, und andere von höchst eingeschränktem, individuellem Vorkommen, die sich ein Einzelner aus seinem Vorstellungsmaterial gebildet hat. Unter den ersteren unterscheidet man solche, deren Anspruch auf Vertretung des Sexuellen durch den Sprachgebrauch ohne weiteres gerechtfertigt wird (wie 
-	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">z. B.</lem><rdg wit="#sfe-1901-01__1931.xml">zum Beispiel</rdg></app>
-	 
-	die aus dem Ackerbau stammenden, vgl. Fortpflanzung, Samen), von anderen, deren Beziehung zum Sexuellen in die ältesten Zeiten und dunkelsten Tiefen unserer Begriffsbildung hinabzureichen scheint. Die symbolbildende Kraft ist für beide oben gesonderten Arten von Symbolen in der Gegenwart nicht erloschen. Man kann beobachten, 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
-	 
-	neu erfundene Gegenstände (wie 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">das</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">des</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Luftschiff) sofort zu universell gebräuchlichen Sexualsymbolen erhoben werden. Es wäre übrigens irrtümlich zu erwarten, eine noch gründlichere Kenntnis der Traumsymbolik (der „Sprache des Traumes“) könnte uns von der Befragung des Träumers nach seinen Einfällen zum Traume unabhängig machen und uns gänzlich zur Technik der antiken Traumdeutung zurückführen. Abgesehen von den individuellen Symbolen und den Schwankungen im Gebrauch der universellen</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Luftschiff) sofort zu universell gebräuchlichen Sexualsymbolen erhoben werden. Es wäre übrigens irrtümlich zu erwarten, eine noch gründlichere Kenntnis der Traumsymbolik (der „Sprache des Traumes“) könnte uns von der Befragung des Träumers nach seinen Einfällen zum Traume unabhängig machen und uns gänzlich zur Technik der antiken Traumdeutung zurückführen. Abgesehen von den individuellen Symbolen und den Schwankungen im Gebrauch der universellen</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">, weiß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">weiss</rdg></app>
-	 
-	man nie, ob ein Element des Trauminhaltes symbolisch oder im eigentlichen Sinne zu deuten ist, und 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">weiß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">weiss</rdg></app>
-	 
-	man mit Sicherheit, 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">nicht aller Inhalt des Traumes symbolisch zu deuten ist. Die Kenntnis der Traumsymbolik wird uns immer nur die Übersetzung einzelner Bestandteile des Trauminhaltes vermitteln und wird die Anwendung der früher gegebenen technischen Regeln nicht überflüssig machen. Sie wird aber als das wertvollste Hilfsmittel zur Deutung gerade dort eintreten, wo die Einfälle des Träumers versagen oder ungenügend</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">nicht aller Inhalt des Traumes symbolisch zu deuten ist. Die Kenntnis der Traumsymbolik wird uns immer nur die Übersetzung einzelner Bestandteile des Trauminhaltes vermitteln und wird die Anwendung der früher gegebenen technischen Regeln nicht überflüssig machen. Sie wird aber als das wertvollste Hilfsmittel zur Deutung gerade dort eintreten, wo die Einfälle des Träumers versagen oder ungenügend</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">werden. Die</lem><rdg wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml"/></app>
-<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"/><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">werden. Die</rdg></app>
-	 
-	Traumsymbolik erweist sich als unentbehrlich auch für das Verständnis der 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">sogenannten „</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">sog. „</rdg></app>
-	typischen“ Träume der Menschen und der „wiederkehrenden“ Träume des Einzelnen. Wenn die Würdigung der symbolischen Ausdrucksweise des Traumes in dieser kurzen Darstellung so unvollständig 
-	<app><lem wit="#sfe-1901-01__1925.xml">aufgefallen</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1931.xml">ausgefallen</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">ist, so rechtfertigt sich diese Vernachlässigung durch den Hinweis auf eine Einsicht, die zu dem Wichtigsten gehört, was wir über diesen Gegenstand aussagen können. Die Traumsymbolik führt weit über den Traum hinaus; sie gehört nicht dem Traume zu eigen an, sondern beherrscht in gleicher Weise die Darstellung in den Märchen, Mythen und Sagen, in den Witzen und im Folklore. Sie gestattet uns</lem><rdg wit="#sfe-1901-01__1911.xml">ist, so rechtfertigt sich diese Vernachlässigung durch den Hinweis auf eine Einsicht, die zu dem Wichtigsten gehört, was wir über diesen Gegenstand aussagen können. Die Traumsymbolik führt weit über den Traum hinaus; sie gehört nicht dem Traume zu eigen an, sondern beherrscht in gleicher Weise die Darstellung in den Märchen, Mythen und Sagen, in den Witzen und im Folklore. Sie gestattet uns</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">,</lem><rdg wit="#sfe-1901-01__1911.xml"/></app>
-	 
-	die innigen Beziehungen des Traumes zu diesen Produktionen zu verfolgen; wir müssen uns aber sagen, 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg></app>
-	 
-	sie nicht von der Traumarbeit hergestellt wird, sondern eine Eigentümlichkeit — wahrscheinlich unseres 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">unbewußten</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">unbewussten</rdg></app>
-	 
-	Denkens ist, welches der Traumarbeit das Material zur Verdichtung, Verschiebung und Dramatisierung 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">liefert.</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">liefert1).</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1925.xml">1</lem><rdg wit="#sfe-1901-01__1931.xml">3</rdg><rdg wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml"/></app>
-	 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">XIII</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">XIII</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"/><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">.</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Ich erhebe weder den Anspruch, hier auf alle Traumprobleme Licht geworfen, noch die hier erörterten überzeugend erledigt zu haben. Wer sich für den ganzen Umfang der Traumliteratur interessiert, der sei auf das Buch von Sante de Sanctis: I sogni, Torino 1899</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Ich erhebe weder den Anspruch, hier auf alle Traumprobleme Licht geworfen, noch die hier erörterten überzeugend erledigt zu haben. Wer sich für den ganzen Umfang der Traumliteratur interessiert, der sei auf das Buch von Sante de Sanctis: I sogni, Torino 1899</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">,</lem><rdg wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml"/></app>
-	 
-	verwiesen; wer die eingehendere Begründung der von mir vorgetragenen Auffassung des Traumes sucht, der wende sich an meine Schrift: Die Traumdeutung, Leipzig und Wien 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">1900.</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">19002).</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1925.xml">1</lem><rdg wit="#sfe-1901-01__1931.xml">4</rdg><rdg wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml"/></app>
-	 
-	Ich werde nur noch darauf hinweisen, in welcher Richtung die Fortsetzung meiner Darlegungen über die Traumarbeit zu verfolgen ist. Wenn ich als die Aufgabe einer Traumdeutung die Ersetzung des Traumes durch die latenten Traumgedanken, also die Auflösung dessen, was die Traumarbeit gesponnen hat, hinstelle, so werfe ich einerseits eine Reihe von neuen psychologischen Problemen auf, die sich auf den Mechanismus dieser Traumarbeit selbst wie auf die Natur und die Bedingungen der 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">sogenannten</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">sog.</rdg></app>
-	 
-	Verdrängung beziehen; 
-	<app><lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">anderseits</lem><rdg wit="#sfe-1901-01__1931.xml">andrerseits</rdg></app>
-	 
-	behaupte ich die Existenz der Traumgedanken, als eines sehr reichhaltigen Materiales psychischer Bildungen von höchster Ordnung und mit allen Kennzeichen normaler intellektueller Leistung versehen, welches Material sich doch dem 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Bewußtsein</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Bewusstsein</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">entzieht, bis es ihm durch den Trauminhalt entstellte Kunde gegeben hat. Solche Gedanken bin ich genötigt</lem><rdg wit="#sfe-1901-01__1911.xml">entzieht, bis es ihm durch den Trauminhalt entstellte Kunde gegeben hat. Solche Gedanken bin ich genötigt</rdg></app>
-	 
-	<app><lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">,</lem><rdg wit="#sfe-1901-01__1911.xml"/></app>
-	 
-	bei 
-	<app><lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">jedermann</lem><rdg wit="#sfe-1901-01__1911.xml">Jedermann</rdg></app>
-	 
-	als vorhanden anzunehmen, da ja fast alle Menschen, auch die normalsten, des Träumens fähig sind. An das 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Unbewußte</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Unbewusste</rdg></app>
-	 
-	der Traumgedanken, an dessen Verhältnis zum 
-	<app><lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Bewußtsein</lem><rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Bewusstsein</rdg></app>
-	 
-	und zur Verdrängung knüpfen die weiteren, für die Psychologie bedeutsamen Fragen an, deren Erledigung wohl aufzuschieben ist, bis die Analyse die Entstehung anderer psychopathischer Bildungen, wie der hysterischen Symptome und der Zwangsideen, klargelegt hat.
-</ab>
-      </body>
-  </text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Title</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>Publication Information</p>
+			</publicationStmt>
+			<sourceDesc>
+				<listWit>
+					<witness xml:id="sfe-1901-01__1911.xml">sfe-1901-01__1911.xml</witness>
+					<witness xml:id="sfe-1901-01__1921.xml">sfe-1901-01__1921.xml</witness>
+					<witness xml:id="sfe-1901-01__1925.xml">sfe-1901-01__1925.xml</witness>
+					<witness xml:id="sfe-1901-01__1931.xml">sfe-1901-01__1931.xml</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<ab><app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">XII</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">XII</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"/>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">.</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"
+						>Wer an dem Gesichtspunkte der Zensur als dem Hauptmotiv der
+						Traumentstellung festhält, der wird nicht befremdet sein</lem>
+					<rdg wit="#sfe-1901-01__1911.xml">Wer an dem Gesichtspunkte der Zensur als dem
+						Hauptmotiv der Traumentstellung festhält, der wird nicht befremdet
+						sein</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"
+						>,</lem>
+					<rdg wit="#sfe-1901-01__1911.xml"/>
+				</app> aus den Ergebnissen der Traumdeutung zu erfahren, <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg>
+				</app> die meisten Träume der Erwachsenen durch die Analyse auf erotische Wünsche
+				zurückgeführt werden. Diese Behauptung zielt nicht auf die Träume von unverhüllt
+				sexuellem Inhalt, die wohl allen Träumern aus eigenem Erleben bekannt sind und
+				gewöhnlich allein als „sexuelle Träume“ beschrieben werden. Solche Träume bieten
+				noch immer des Befremdenden genug durch die Auswahl der Personen, die sie zu
+				Sexualobjekten machen, durch die Wegräumung aller Schranken, an denen der Träumer im
+				wachen Leben seine geschlechtlichen Bedürfnisse <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">haltmachen läßt</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Halt machen lässt</rdg>
+				</app> , durch viele sonderbare an das sogenannt Perverse mahnende Einzelheiten. Die
+				Analyse zeigt aber, <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg>
+				</app> sehr viele andere Träume, die in ihrem manifesten Inhalt nichts Erotisches
+				erkennen lassen, durch die Deutungsarbeit als sexuelle Wunscherfüllungen entlarvt
+				werden, und <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml"
+						>anderseits</lem>
+					<rdg wit="#sfe-1901-01__1931.xml">andrerseits</rdg>
+				</app> sehr viele von der Denkarbeit des Wachens als „Tagesreste“ erübrigte Gedanken
+				zu ihrer Darstellung im Traum nur durch die Zuhilfenahme verdrängter erotischer
+				Wünsche gelangen. Zur Aufklärung dieses theoretisch nicht postulierten Sachverhaltes
+				sei darauf hingewiesen, <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg>
+				</app> keine andere Gruppe von Trieben eine so weitgehende Unterdrückung durch die <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Anforderung</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Anforderungen</rdg>
+				</app> der Erziehung zur Kultur erfahren hat wie gerade die sexuellen, <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg>
+				</app> aber auch die sexuellen Triebe sich bei den meisten Menschen der Beherrschung
+				durch die höchsten Seeleninstanzen am ehesten zu entziehen verstehen. Seitdem wir
+				die in ihren <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Äußerungen</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Äusserungen</rdg>
+				</app> oft so unscheinbare, regelmäßig übersehene und <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">mißverstandene</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">missverstandene</rdg>
+				</app> infantile Sexualität <app>
+					<lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml"
+						>kennen gelernt</lem>
+					<rdg wit="#sfe-1901-01__1931.xml">kennengelernt</rdg>
+				</app> haben, sind wir berechtigt zu sagen, <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg>
+				</app> fast jeder Kulturmensch die infantile Gestaltung des Sexuallebens in <app>
+					<lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml"
+						>irgend einem</lem>
+					<rdg wit="#sfe-1901-01__1931.xml">irgendeinem</rdg>
+				</app> Punkte festgehalten hat, und begreifen so, <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg>
+				</app> die verdrängten infantilen Sexualwünsche die häufigsten und stärksten
+				Triebkräfte für die Bildung der Träume <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">ergeben.</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">ergeben1).</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1925.xml">1</lem>
+					<rdg wit="#sfe-1901-01__1931.xml">2</rdg>
+					<rdg wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml"/>
+				</app> Wenn es dem Traume, welcher erotische Wünsche zum Ausdrucke bringt, gelingen
+				kann, in seinem manifesten Inhalt harmlos asexuell zu erscheinen, so kann dies nur
+				auf eine Weise möglich werden. Das Material von sexuellen Vorstellungen darf nicht
+				als solches dargestellt werden, sondern <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">muß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">muss</rdg>
+				</app> im Trauminhalt durch Andeutungen, Anspielungen und ähnliche Arten der
+				indirekten Darstellung ersetzt werden, aber zum Unterschied von anderen Fällen
+				indirekter Darstellung <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">muß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">muss</rdg>
+				</app> die im Traum verwendete der unmittelbaren <app>
+					<lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml"
+						>Verständlichkeit</lem>
+					<rdg wit="#sfe-1901-01__1931.xml">Verständ- lichkeit</rdg>
+				</app> entzogen sein. Man hat sich gewöhnt, die Darstellungsmittel, welche diesen
+				Bedingungen entsprechen, als Symbole des durch sie Dargestellten zu bezeichnen. Ein
+				besonderes Interesse hat sich ihnen zugewendet, seitdem man bemerkt hat, <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"
+						>die Träumer derselben Sprache sich der nämlichen Symbole bedienen</lem>
+					<rdg wit="#sfe-1901-01__1911.xml">die Träumer derselben Sprache sich der
+						nämlichen Symbole bedienen</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"
+						>,</lem>
+					<rdg wit="#sfe-1901-01__1911.xml"/>
+				</app> ja, <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"
+						>in einzelnen Fällen die Symbolgemeinschaft über die Sprachgemeinschaft
+						hinausreicht. Da die Träumer die Bedeutung der von ihnen verwendeten Symbole
+						selbst nicht kennen, bleibt es zunächst rätselhaft, woher deren Beziehung zu
+						dem durch sie Ersetzten und Bezeichneten rührt. Die Tatsache selbst ist aber
+						unzweifelhaft und wird für die Technik der Traumdeutung bedeutsam, denn mit
+						Hilfe einer Kenntnis der Traumsymbolik ist es möglich, den Sinn einzelner
+						Elemente des Trauminhaltes, oder einzelner Stücke des Traumes, oder mitunter
+						selbst ganzer Träume, zu verstehen</lem>
+					<rdg wit="#sfe-1901-01__1911.xml">in einzelnen Fällen die Symbolgemeinschaft
+						über die Sprachgemeinschaft hinausreicht. Da die Träumer die Bedeutung der
+						von ihnen verwendeten Symbole selbst nicht kennen, bleibt es zunächst
+						rätselhaft, woher deren Beziehung zu dem durch sie Ersetzten und
+						Bezeichneten rührt. Die Tatsache selbst ist aber unzweifelhaft und wird für
+						die Technik der Traumdeutung bedeutsam, denn mit Hilfe einer Kenntnis der
+						Traumsymbolik ist es möglich, den Sinn einzelner Elemente des Trauminhaltes,
+						oder einzelner Stücke des Traumes, oder mitunter selbst ganzer Träume, zu
+						verstehen</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"
+						>,</lem>
+					<rdg wit="#sfe-1901-01__1911.xml"/>
+				</app> ohne den Träumer nach seinen Einfällen befragen zu müssen. Wir nähern uns so
+				dem populären Ideal einer Traumübersetzung und greifen <app>
+					<lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml"
+						>anderseits</lem>
+					<rdg wit="#sfe-1901-01__1931.xml">andrerseits</rdg>
+				</app> auf die Deutungstechnik der alten Völker zurück, denen Traumdeutung mit
+				Deutung durch Symbolik identisch war. Wiewohl die Studien über die Traumsymbole von
+				einem <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Abschluß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Abschluss</rdg>
+				</app> noch weit entfernt sind, können wir doch eine Reihe von allgemeinen
+				Behauptungen und von speziellen Angaben über dieselben mit Sicherheit vertreten. Es
+				gibt Symbole, die fast allgemein eindeutig zu übersetzen sind, so bedeuten Kaiser
+				und Kaiserin (König und Königin) die Eltern, Zimmer stellen Frauen(zimmer) dar, die
+				Ein- und Ausgänge <app>
+					<lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"
+						>derselben</lem>
+					<rdg wit="#sfe-1901-01__1921.xml">der selben</rdg>
+				</app> die <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Körperöffnungen</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Körpereröffnungen</rdg>
+				</app> . Die <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">größte</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">grösste</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml"
+						>Zahl der Traumsymbole dient zur Darstellung von Personen, Körperteilen und
+						Verrichtungen, die mit erotischem Interesse betont sind, insbesondere können
+						die Genitalien durch eine Anzahl von oft sehr überraschenden Symbolen
+						dargestellt werden und finden sich die mannigfaltigsten Gegenstände zur
+						symbolischen Bezeichnung der Genitalien verwendet. Wenn scharfe Waffen,
+						lange und starre Objekte</lem>
+					<rdg wit="#sfe-1901-01__1931.xml">Zahl der Traumsymbole dient zur Darstellung
+						von Personen, Körperteilen und Verrichtungen, die mit erotischem Interesse
+						betont sind, insbesondere können die Genitalien durch eine Anzahl von oft
+						sehr überraschenden Symbolen dargestellt werden und finden sich die
+						mannigfaltigsten Gegenstände zur symbolischen Bezeichnung der Genitalien
+						verwendet. Wenn scharfe Waffen, lange und starre Objekte</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml #sfe-1901-01__1925.xml"/>
+					<rdg wit="#sfe-1901-01__1931.xml">,</rdg>
+				</app> wie Baumstämme und <app>
+					<lem wit="#sfe-1901-01__1925.xml">Stöcke</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Stöcke</rdg>
+					<rdg wit="#sfe-1901-01__1931.xml">Städte</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">,</lem>
+					<rdg wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml"/>
+				</app> das männliche Genitale; Schränke, Schachteln, Wagen, Öfen den Frauenleib im <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Traume</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Traum</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">vertreten, so ist uns
+						das Tertium comparationis, das Gemeinsame dieser Ersetzungen</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">vertreten, so ist uns
+						das Tertium comparationis, das Gemeinsame dieser Ersetzungen</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">,</lem>
+					<rdg wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml"/>
+				</app> ohne weiteres verständlich, aber nicht bei allen Symbolen wird uns das
+				Erfassen der verbindenden Beziehungen so leicht gemacht. Symbole wie das der Stiege
+				und des Steigens für den Sexualverkehr, der <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Krawatte</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Cravate</rdg>
+				</app> für das männliche Glied, des Holzes für den Frauenleib fordern unseren
+				Unglauben heraus, <app>
+					<lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml"
+						>so lange</lem>
+					<rdg wit="#sfe-1901-01__1931.xml">solange</rdg>
+				</app> wir nicht die Einsicht in die Symbolbeziehung auf anderen Wegen gewonnen
+				haben. Eine ganze Anzahl der Traumsymbole ist übrigens bisexuell, kann je nach dem
+				Zusammenhange auf das männliche oder auf das weibliche Genitale bezogen werden. Es
+				gibt Symbole von universeller Verbreitung, die man bei allen Träumern eines Sprach-
+				und Bildungskreises antrifft, und andere von höchst eingeschränktem, individuellem
+				Vorkommen, die sich ein Einzelner aus seinem Vorstellungsmaterial gebildet hat.
+				Unter den ersteren unterscheidet man solche, deren Anspruch auf Vertretung des
+				Sexuellen durch den Sprachgebrauch ohne weiteres gerechtfertigt wird (wie <app>
+					<lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml"
+						>z. B.</lem>
+					<rdg wit="#sfe-1901-01__1931.xml">zum Beispiel</rdg>
+				</app> die aus dem Ackerbau stammenden, vgl. Fortpflanzung, Samen), von anderen,
+				deren Beziehung zum Sexuellen in die ältesten Zeiten und dunkelsten Tiefen unserer
+				Begriffsbildung hinabzureichen scheint. Die symbolbildende Kraft ist für beide oben
+				gesonderten Arten von Symbolen in der Gegenwart nicht erloschen. Man kann
+				beobachten, <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg>
+				</app> neu erfundene Gegenstände (wie <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">das</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">des</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Luftschiff) sofort zu
+						universell gebräuchlichen Sexualsymbolen erhoben werden. Es wäre übrigens
+						irrtümlich zu erwarten, eine noch gründlichere Kenntnis der Traumsymbolik
+						(der „Sprache des Traumes“) könnte uns von der Befragung des Träumers nach
+						seinen Einfällen zum Traume unabhängig machen und uns gänzlich zur Technik
+						der antiken Traumdeutung zurückführen. Abgesehen von den individuellen
+						Symbolen und den Schwankungen im Gebrauch der universellen</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Luftschiff) sofort zu
+						universell gebräuchlichen Sexualsymbolen erhoben werden. Es wäre übrigens
+						irrtümlich zu erwarten, eine noch gründlichere Kenntnis der Traumsymbolik
+						(der „Sprache des Traumes“) könnte uns von der Befragung des Träumers nach
+						seinen Einfällen zum Traume unabhängig machen und uns gänzlich zur Technik
+						der antiken Traumdeutung zurückführen. Abgesehen von den individuellen
+						Symbolen und den Schwankungen im Gebrauch der universellen</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">, weiß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">weiss</rdg>
+				</app> man nie, ob ein Element des Trauminhaltes symbolisch oder im eigentlichen
+				Sinne zu deuten ist, und <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">weiß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">weiss</rdg>
+				</app> man mit Sicherheit, <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">nicht aller Inhalt des
+						Traumes symbolisch zu deuten ist. Die Kenntnis der Traumsymbolik wird uns
+						immer nur die Übersetzung einzelner Bestandteile des Trauminhaltes
+						vermitteln und wird die Anwendung der früher gegebenen technischen Regeln
+						nicht überflüssig machen. Sie wird aber als das wertvollste Hilfsmittel zur
+						Deutung gerade dort eintreten, wo die Einfälle des Träumers versagen oder
+						ungenügend</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">nicht aller Inhalt des
+						Traumes symbolisch zu deuten ist. Die Kenntnis der Traumsymbolik wird uns
+						immer nur die Übersetzung einzelner Bestandteile des Trauminhaltes
+						vermitteln und wird die Anwendung der früher gegebenen technischen Regeln
+						nicht überflüssig machen. Sie wird aber als das wertvollste Hilfsmittel zur
+						Deutung gerade dort eintreten, wo die Einfälle des Träumers versagen oder
+						ungenügend</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">werden. Die</lem>
+					<rdg wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml"/>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"/>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">werden. Die</rdg>
+				</app> Traumsymbolik erweist sich als unentbehrlich auch für das Verständnis der <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">sogenannten „</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">sog. „</rdg>
+				</app> typischen“ Träume der Menschen und der „wiederkehrenden“ Träume des
+				Einzelnen. Wenn die Würdigung der symbolischen Ausdrucksweise des Traumes in dieser
+				kurzen Darstellung so unvollständig <app>
+					<lem wit="#sfe-1901-01__1925.xml">aufgefallen</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1931.xml"
+						>ausgefallen</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"
+						>ist, so rechtfertigt sich diese Vernachlässigung durch den Hinweis auf eine
+						Einsicht, die zu dem Wichtigsten gehört, was wir über diesen Gegenstand
+						aussagen können. Die Traumsymbolik führt weit über den Traum hinaus; sie
+						gehört nicht dem Traume zu eigen an, sondern beherrscht in gleicher Weise
+						die Darstellung in den Märchen, Mythen und Sagen, in den Witzen und im
+						Folklore. Sie gestattet uns</lem>
+					<rdg wit="#sfe-1901-01__1911.xml">ist, so rechtfertigt sich diese
+						Vernachlässigung durch den Hinweis auf eine Einsicht, die zu dem Wichtigsten
+						gehört, was wir über diesen Gegenstand aussagen können. Die Traumsymbolik
+						führt weit über den Traum hinaus; sie gehört nicht dem Traume zu eigen an,
+						sondern beherrscht in gleicher Weise die Darstellung in den Märchen, Mythen
+						und Sagen, in den Witzen und im Folklore. Sie gestattet uns</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"
+						>,</lem>
+					<rdg wit="#sfe-1901-01__1911.xml"/>
+				</app> die innigen Beziehungen des Traumes zu diesen Produktionen zu verfolgen; wir
+				müssen uns aber sagen, <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg>
+				</app> sie nicht von der Traumarbeit hergestellt wird, sondern eine Eigentümlichkeit
+				— wahrscheinlich unseres <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">unbewußten</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">unbewussten</rdg>
+				</app> Denkens ist, welches der Traumarbeit das Material zur Verdichtung,
+				Verschiebung und Dramatisierung <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">liefert.</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">liefert1).</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1925.xml">1</lem>
+					<rdg wit="#sfe-1901-01__1931.xml">3</rdg>
+					<rdg wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml"/>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">XIII</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">XIII</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"/>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">.</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Ich erhebe weder den
+						Anspruch, hier auf alle Traumprobleme Licht geworfen, noch die hier
+						erörterten überzeugend erledigt zu haben. Wer sich für den ganzen Umfang der
+						Traumliteratur interessiert, der sei auf das Buch von Sante de Sanctis: I
+						sogni, Torino 1899</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Ich erhebe weder den
+						Anspruch, hier auf alle Traumprobleme Licht geworfen, noch die hier
+						erörterten überzeugend erledigt zu haben. Wer sich für den ganzen Umfang der
+						Traumliteratur interessiert, der sei auf das Buch von Sante de Sanctis: I
+						sogni, Torino 1899</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">,</lem>
+					<rdg wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml"/>
+				</app> verwiesen; wer die eingehendere Begründung der von mir vorgetragenen
+				Auffassung des Traumes sucht, der wende sich an meine Schrift: Die Traumdeutung,
+				Leipzig und Wien <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">1900.</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">19002).</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1925.xml">1</lem>
+					<rdg wit="#sfe-1901-01__1931.xml">4</rdg>
+					<rdg wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml"/>
+				</app> Ich werde nur noch darauf hinweisen, in welcher Richtung die Fortsetzung
+				meiner Darlegungen über die Traumarbeit zu verfolgen ist. Wenn ich als die Aufgabe
+				einer Traumdeutung die Ersetzung des Traumes durch die latenten Traumgedanken, also
+				die Auflösung dessen, was die Traumarbeit gesponnen hat, hinstelle, so werfe ich
+				einerseits eine Reihe von neuen psychologischen Problemen auf, die sich auf den
+				Mechanismus dieser Traumarbeit selbst wie auf die Natur und die Bedingungen der <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">sogenannten</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">sog.</rdg>
+				</app> Verdrängung beziehen; <app>
+					<lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml"
+						>anderseits</lem>
+					<rdg wit="#sfe-1901-01__1931.xml">andrerseits</rdg>
+				</app> behaupte ich die Existenz der Traumgedanken, als eines sehr reichhaltigen
+				Materiales psychischer Bildungen von höchster Ordnung und mit allen Kennzeichen
+				normaler intellektueller Leistung versehen, welches Material sich doch dem <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Bewußtsein</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Bewusstsein</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"
+						>entzieht, bis es ihm durch den Trauminhalt entstellte Kunde gegeben hat.
+						Solche Gedanken bin ich genötigt</lem>
+					<rdg wit="#sfe-1901-01__1911.xml">entzieht, bis es ihm durch den Trauminhalt
+						entstellte Kunde gegeben hat. Solche Gedanken bin ich genötigt</rdg>
+				</app>
+				<app>
+					<lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"
+						>,</lem>
+					<rdg wit="#sfe-1901-01__1911.xml"/>
+				</app> bei <app>
+					<lem wit="#sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"
+						>jedermann</lem>
+					<rdg wit="#sfe-1901-01__1911.xml">Jedermann</rdg>
+				</app> als vorhanden anzunehmen, da ja fast alle Menschen, auch die normalsten, des
+				Träumens fähig sind. An das <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Unbewußte</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Unbewusste</rdg>
+				</app> der Traumgedanken, an dessen Verhältnis zum <app>
+					<lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Bewußtsein</lem>
+					<rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Bewusstsein</rdg>
+				</app> und zur Verdrängung knüpfen die weiteren, für die Psychologie bedeutsamen
+				Fragen an, deren Erledigung wohl aufzuschieben ist, bis die Analyse die Entstehung
+				anderer psychopathischer Bildungen, wie der hysterischen Symptome und der
+				Zwangsideen, klargelegt hat. </ab>
+		</body>
+	</text>
 </TEI>
