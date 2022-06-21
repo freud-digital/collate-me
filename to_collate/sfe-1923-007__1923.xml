@@ -1,10 +1,16 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__4c35f75b-310a-477b-9913-00e5cf802d02">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com"
+   xml:id="manifestation__4c35f75b-310a-477b-9913-00e5cf802d02">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="manifestation">In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes</title>
-            <title type="publication"><rs type="bibl" ref="#bibl__4c35f75b-310a-477b-9913-00e5cf802d02">4c35f75b-310a-477b-9913-00e5cf802d02</rs></title>
-            <title type="work"><rs type="bibl" ref="#bibl__7f1ce2ef-dc26-45e2-b90a-85d866403b1c">Freud, Sigmund  (1923-007; 1923f): Josef Popper-Lynkeus und die Theorie des Traumes</rs></title>
+            <title type="manifestation">In Memoriam: Josef Popper-Lynkeus und die Theorie des
+               Traumes</title>
+            <title type="publication"><rs type="bibl"
+                  ref="#bibl__4c35f75b-310a-477b-9913-00e5cf802d02"
+                  >4c35f75b-310a-477b-9913-00e5cf802d02</rs></title>
+            <title type="work"><rs type="bibl" ref="#bibl__7f1ce2ef-dc26-45e2-b90a-85d866403b1c"
+                  >Freud, Sigmund (1923-007; 1923f): Josef Popper-Lynkeus und die Theorie des
+                  Traumes</rs></title>
             <title type="sub"/>
          </titleStmt>
          <publicationStmt>
@@ -16,6 +22,118 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body><div><pb n="2" xml:id="page__2bd992ca-4d0b-427c-8573-5307d8fb8267"/><fw type="pageNum">XI-1</fw> <p rendition="#level_3">IN MEMORIAM<hi rendition="#footnote-index">*)</hi></p><p rendition="#level_3">Josef Popper-Lynkeus und die Theorie des Traumes</p><p rendition="#level_3">von Prof. Sigm. Freud</p><p>Über den Anschein wissenschaftlicher Originalität<lb/> ist viel Interessantes zu sagen. Wenn in der Wissen<lb break="no"/>schaft eine neue Idee auftaucht, die zunächst als<lb/> Entdeckung gewertet und in der Regel als solche<lb/> auch bekämpft wird, so weist die objektive Er<lb break="no"/>forschung bald nach, daß sie eigentlich doch keine<lb/> Neuheit ist. In der Regel ist sie schon wiederholt<lb/> gemacht und dann wieder vergessen worden, oft<lb/> zu sehr weit von einander entfernten Zeiten. Oder<lb/> sie hat wenigstens Vorläufer gehabt, wurde un<lb break="no"/>deutlich geahnt oder unvollkommen ausgesprochen.<lb/> Das ist zu genau bekannt, als daß es einer weiteren<lb/> Ausführung bedürfte.<lb break="paragraph"/></p> <p>Aber auch die subjektive Seite der Originalität<lb/> ist der Verfolgung würdig. Ein wissenschaftlicher<lb/> Arbeiter mag sich einmal die Frage stellen, woher<lb/> die ihm eigentümlichen Ideen kommen, die er an<lb/> sein Material herangebracht hat. Dann findet er<lb/> von einem Teil derselben ohne viel Besinnen, auf<lb/> welche Anregungen er zurückgeht, welche Angaben<lb/> von anderer Seite er er dabei aufgegriffen, modifiziert<lb/> und ihre Konsequenzen ausgeführt hat. Von<lb/> einem anderen Anteil seiner Ideen kann er nichts<lb/> Ähnliches bekennen, er muß annehmen, diese Ge<lb break="no"/>danken und Gesichtspunkte seien in seiner eigenen<lb/> Denktätigkeit — er weiß nicht wie — entstanden,<lb/> durch sie stützt er seinen Anspruch auf Originalität.<lb break="paragraph"/></p> <p>Sorgfältige psychologische Untersuchung<lb/> schränkt diesen Anspruch dann noch weiter ein.<lb/> Sie deckt verborgene, längst vergessene Quellen auf,<lb/> aus denen die Anregung der anscheinend originellen<lb/> Ideen erflossen ist und setzt an Stelle der ver<lb break="no"/>meintlichen Neuschöpfung eine Wiederbelebung des<lb/> Vergessenen in der Anwendung auf einen neuen<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">*)</hi> Siehe Nr. 17, 18, 19.<lb break="paragraph"/></note>   <p>Gerade dieses wesentliche Stück meiner Traum<lb break="no"/>theorie hat aber Popper-Lynkeus selbst gefunden.<lb/> Man vergleiche das nachstehende Zitat aus seiner<lb/> Erzählung „Träume wie Wachen“ in den „Phanta<lb break="no"/>sieen eines Realisten“, die sicherlich ohne Kenntnis<lb/> meiner 1900 veröffentlichten „Traumtheorie“ ge<lb break="no"/>schrieben worden sind, wie ich auch damals Lynkeus’<lb/> Phantasien noch nicht kannte:<lb break="paragraph"/></p> <p>„<span class="inlinequote">Von einem Manne, der die merkwürdige<lb/> Eigenschaft hat, niemals Unsinn zu träumen</span>“...<lb/> „<span class="inlinequote">Diese herrliche Eigenschaft, zu träumen wie zu</span><lb break="paragraph"/><pb n="4" xml:id="page__c2cde4c4-7ada-4bf9-8b93-083b47f2d750"/><fw type="pageNum">XI-3</fw><span class="inlinequote">wachen, beruht auf Deinen Tugenden, auf Deiner<lb/> Güte, Deiner Gerechtigkeit, Deiner Wahrheitsliebe:<lb/> es ist die moralische Klarheit Deiner Natur, die<lb/> mir alles an Dir verständlich macht.“</span><lb break="paragraph"/></p>   <p><span class="inlinequote">„Wenn ich aber recht bedenke“, erwiderte der<lb/> Andere, „so glaube ich beinahe alle Menschen seien<lb/> so wie ich beschaffen, und gar niemand träume<lb/> jemals Unsinn! Ein Traum, an den man sich so deut<lb break="no"/>lich erinnert, daß man ihn nacherzählen kann, der<lb/> also kein Fiebertraum ist, hat <hi rendition="#smallcaps">immer</hi> Sinn. Und<lb/> es kann gar nicht anders sein! Denn was mit<lb break="no"/>einander im Widerspruch steht, könnte sich ja<lb/> nicht zu einem Ganzen gruppieren. Daß Zeit und<lb/> Ort oft durcheinander gerüttelt werden, benimmt<lb/> dem wahren Gehalt des Traumes gar nichts, denn<lb/> sie beide sind gewiß ohne Bedeutung für seinen<lb/> wesentlichen Inhalt gewesen. Wir machen es ja oft<lb/> im Wachen auch so: denke an das Märchen, an so<lb/> viele sinnvolle Phantasiegebilde, zu denen nur ein<lb/> Unverständiger sagen würde: Das ist widersinnig!<lb/> denn das ist nicht möglich!«“</span><lb break="paragraph"/></p> <p><span class="inlinequote">„Wenn man nur die Träume immer richtig<lb/> zu deuten wüßte, so wie Du es eben mit dem<lb/> meinen getan hast,“ sagte der Freund.</span><lb break="paragraph"/></p> <p><span class="inlinequote">„Das ist gewiß keine leichte Aufgabe, aber es<lb/> müßte bei einiger Aufmerksamkeit dem Träumenden<lb/> wohl immer gelingen. Warum es meistens nicht<lb/> gelingt? Es scheint bei Euch etwas Verstecktes in<lb/> den Träumen liegen, etwas Unkeusches eigener und<lb/> höherer Art, eine gewisse Heimlichkeit in Eurem<lb/> Wesen, die schwer auszudenken ist; und darum<lb/> scheint Euer Träumen so oft ohne Sinn, sogar ein<lb/> Widersinn zu sein: Es ist aber im tiefsten Grunde<lb/> nicht so; ja, es kann gar nicht anders sein, denn es<lb/> ist immer derselbe Mensch, ob er wacht oder träumt.</span>“<lb break="paragraph"/></p> <p>Ich glaube, was mich dazu befähigt hat, die<lb/> Ursache der Traumentstellung aufzufinden, war<lb/> mein moralischer Mut. Bei <hi rendition="#smallcaps">Popper</hi> war es die<lb/> Reinheit, Wahrheitsliebe und moralische Klarheit<lb/> seines Wesens.<lb break="paragraph"/></p> <pb n="1" xml:id="page__8d9b111f-ffdf-4897-80da-f83f991a1259"/><fw type="pageNum">XI-0</fw> <p>Nummer 21<lb break="paragraph"/></p> <p>Juni 1923<lb break="paragraph"/></p> <p class="h1">Zeitschrift des Vereines<lb/> Allgemeine Nährpflicht<lb break="paragraph"/></p> <p rendition="#level_2">BERICHT ÜBER DIE IV. ORDENTLICHE HAUPT<lb break="no"/>VERSAMMLUNG AM 13. JANUAR 1923</p><p>Seit Poppers Tod ist dies, wie Herr. Dr. Wittels ausführt,<lb/> unsere erste Hauptversammlung. Der Meister konnte noch die<lb/> Freude erleben, unseren Verein entstehen und die Verbreitung<lb/> seiner Ideen wachsen zusehen. Hiefür gebührt in erster Reihe<lb/> Herrn, Walther <hi rendition="#smallcaps">Marcus</hi> der Dank, dessen Initiative und Energie<lb/> es gelungen ist, den Verein ins Leben zu rufen.<lb break="paragraph"/></p> <p>Wir mußten im vergangenen Vereinsjahr leider davon<lb/> absehen, Vorträge zu veranstalten. Das Interesse für Vorträge,<lb/> welches nach dem Zusammenbruche ein sehr lebhaftes war,<lb/> ist stark abgeflaut und unsere geringen Mittel ermöglichten<lb/> es nicht, die Kosten derartiger nur schwach besuchter Ver<lb break="no"/>anstaltungen aufzubringen. Wir haben uns daher mehr auf die<lb/> schriftliche Art der Propaganda geworfen. Außer verschiedenen<lb/> Zeitungsberichten können wir die Herausgabe nachstehender<lb/> Werke verzeichnen: Carl Jahoda: „Brot und Wasser”, Fritz<lb/> Wittels „Die Vernichtung der Not”, Adolf Gelber: „Josef<lb/> Popper-Lynkeus, sein Leben und sein Wirken“. Das letzterwähnte<lb/> Buch ist das erste Werk, welches sich mit der Persönlichkeit<lb/> Poppers auseinandersetzt. Unsere Zeitschrift ist fortlaufend, wenn<lb/> auch mit durch die Not der Zeit zu erklärenden größeren Ver<lb break="no"/>zögerunugen erschienen. Daß es überhaupt möglich war, sie heraus<lb break="no"/>zubringen, haben wir in erster Reihe Herrn Georg <hi rendition="#smallcaps">Jahoda</hi> zu<lb/> verdanken, der uns durch sein außerordentliches Entgegenkommen<lb/> bei Berechnung der Kosten vor der drohenden Einstellung unserer<lb/> Vereinspublikationen bewahrt hat. Die Kosten selbst würden,<lb/> durch freiwillige Beiträge aufgebracht.<lb break="paragraph"/></p> <p>Die „Sonntagszeitung” in Heilbronn, herausgegeben von<lb/> Erich <hi rendition="#smallcaps">Schairer</hi>, hat sich die Ideen Poppers zu eigen<lb break="paragraph"/></p> </div></body>
+      <body>
+         <div>
+            <pb n="2" xml:id="page__2bd992ca-4d0b-427c-8573-5307d8fb8267"/>
+            <fw type="pageNum">XI-1</fw>
+            <p rendition="#level_3">IN MEMORIAM<hi rendition="#footnote-index">*)</hi></p>
+            <p rendition="#level_3">Josef Popper-Lynkeus und die Theorie des Traumes</p>
+            <p rendition="#level_3">von Prof. Sigm. Freud</p>
+            <p>Über den Anschein wissenschaftlicher Originalität<lb/> ist viel Interessantes zu
+               sagen. Wenn in der Wissen<lb break="no"/>schaft eine neue Idee auftaucht, die
+               zunächst als<lb/> Entdeckung gewertet und in der Regel als solche<lb/> auch bekämpft
+               wird, so weist die objektive Er<lb break="no"/>forschung bald nach, daß sie
+               eigentlich doch keine<lb/> Neuheit ist. In der Regel ist sie schon wiederholt<lb/>
+               gemacht und dann wieder vergessen worden, oft<lb/> zu sehr weit von einander
+               entfernten Zeiten. Oder<lb/> sie hat wenigstens Vorläufer gehabt, wurde un<lb
+                  break="no"/>deutlich geahnt oder unvollkommen ausgesprochen.<lb/> Das ist zu genau
+               bekannt, als daß es einer weiteren<lb/> Ausführung bedürfte.<lb break="paragraph"
+               /></p>
+            <p>Aber auch die subjektive Seite der Originalität<lb/> ist der Verfolgung würdig. Ein
+               wissenschaftlicher<lb/> Arbeiter mag sich einmal die Frage stellen, woher<lb/> die
+               ihm eigentümlichen Ideen kommen, die er an<lb/> sein Material herangebracht hat. Dann
+               findet er<lb/> von einem Teil derselben ohne viel Besinnen, auf<lb/> welche
+               Anregungen er zurückgeht, welche Angaben<lb/> von anderer Seite er er dabei
+               aufgegriffen, modifiziert<lb/> und ihre Konsequenzen ausgeführt hat. Von<lb/> einem
+               anderen Anteil seiner Ideen kann er nichts<lb/> Ähnliches bekennen, er muß annehmen,
+               diese Ge<lb break="no"/>danken und Gesichtspunkte seien in seiner eigenen<lb/>
+               Denktätigkeit — er weiß nicht wie — entstanden,<lb/> durch sie stützt er seinen
+               Anspruch auf Originalität.<lb break="paragraph"/></p>
+            <p>Sorgfältige psychologische Untersuchung<lb/> schränkt diesen Anspruch dann noch
+               weiter ein.<lb/> Sie deckt verborgene, längst vergessene Quellen auf,<lb/> aus denen
+               die Anregung der anscheinend originellen<lb/> Ideen erflossen ist und setzt an Stelle
+               der ver<lb break="no"/>meintlichen Neuschöpfung eine Wiederbelebung des<lb/>
+               Vergessenen in der Anwendung auf einen neuen<lb break="paragraph"/></p>
+            <note type="footnote"><hi rendition="#footnote-index">*)</hi> Siehe Nr. 17, 18, 19.<lb
+                  break="paragraph"/></note>
+            <p>Gerade dieses wesentliche Stück meiner Traum<lb break="no"/>theorie hat aber
+               Popper-Lynkeus selbst gefunden.<lb/> Man vergleiche das nachstehende Zitat aus
+               seiner<lb/> Erzählung „Träume wie Wachen“ in den „Phanta<lb break="no"/>sieen eines
+               Realisten“, die sicherlich ohne Kenntnis<lb/> meiner 1900 veröffentlichten
+               „Traumtheorie“ ge<lb break="no"/>schrieben worden sind, wie ich auch damals
+               Lynkeus’<lb/> Phantasien noch nicht kannte:<lb break="paragraph"/></p>
+            <p>„<span class="inlinequote">Von einem Manne, der die merkwürdige<lb/> Eigenschaft hat,
+                  niemals Unsinn zu träumen</span>“...<lb/> „<span class="inlinequote">Diese
+                  herrliche Eigenschaft, zu träumen wie zu</span><lb break="paragraph"/><pb n="4"
+                  xml:id="page__c2cde4c4-7ada-4bf9-8b93-083b47f2d750"/><fw type="pageNum"
+                  >XI-3</fw><span class="inlinequote">wachen, beruht auf Deinen Tugenden, auf
+                  Deiner<lb/> Güte, Deiner Gerechtigkeit, Deiner Wahrheitsliebe:<lb/> es ist die
+                  moralische Klarheit Deiner Natur, die<lb/> mir alles an Dir verständlich
+                  macht.“</span><lb break="paragraph"/></p>
+            <p><span class="inlinequote">„Wenn ich aber recht bedenke“, erwiderte der<lb/> Andere,
+                  „so glaube ich beinahe alle Menschen seien<lb/> so wie ich beschaffen, und gar
+                  niemand träume<lb/> jemals Unsinn! Ein Traum, an den man sich so deut<lb
+                     break="no"/>lich erinnert, daß man ihn nacherzählen kann, der<lb/> also kein
+                  Fiebertraum ist, hat <hi rendition="#smallcaps">immer</hi> Sinn. Und<lb/> es kann
+                  gar nicht anders sein! Denn was mit<lb break="no"/>einander im Widerspruch steht,
+                  könnte sich ja<lb/> nicht zu einem Ganzen gruppieren. Daß Zeit und<lb/> Ort oft
+                  durcheinander gerüttelt werden, benimmt<lb/> dem wahren Gehalt des Traumes gar
+                  nichts, denn<lb/> sie beide sind gewiß ohne Bedeutung für seinen<lb/> wesentlichen
+                  Inhalt gewesen. Wir machen es ja oft<lb/> im Wachen auch so: denke an das Märchen,
+                  an so<lb/> viele sinnvolle Phantasiegebilde, zu denen nur ein<lb/> Unverständiger
+                  sagen würde: Das ist widersinnig!<lb/> denn das ist nicht möglich!«“</span><lb
+                  break="paragraph"/></p>
+            <p><span class="inlinequote">„Wenn man nur die Träume immer richtig<lb/> zu deuten
+                  wüßte, so wie Du es eben mit dem<lb/> meinen getan hast,“ sagte der
+                  Freund.</span><lb break="paragraph"/></p>
+            <p><span class="inlinequote">„Das ist gewiß keine leichte Aufgabe, aber es<lb/> müßte
+                  bei einiger Aufmerksamkeit dem Träumenden<lb/> wohl immer gelingen. Warum es
+                  meistens nicht<lb/> gelingt? Es scheint bei Euch etwas Verstecktes in<lb/> den
+                  Träumen liegen, etwas Unkeusches eigener und<lb/> höherer Art, eine gewisse
+                  Heimlichkeit in Eurem<lb/> Wesen, die schwer auszudenken ist; und darum<lb/>
+                  scheint Euer Träumen so oft ohne Sinn, sogar ein<lb/> Widersinn zu sein: Es ist
+                  aber im tiefsten Grunde<lb/> nicht so; ja, es kann gar nicht anders sein, denn
+                  es<lb/> ist immer derselbe Mensch, ob er wacht oder träumt.</span>“<lb
+                  break="paragraph"/></p>
+            <p>Ich glaube, was mich dazu befähigt hat, die<lb/> Ursache der Traumentstellung
+               aufzufinden, war<lb/> mein moralischer Mut. Bei <hi rendition="#smallcaps"
+                  >Popper</hi> war es die<lb/> Reinheit, Wahrheitsliebe und moralische Klarheit<lb/>
+               seines Wesens.<lb break="paragraph"/></p>
+            <pb n="1" xml:id="page__8d9b111f-ffdf-4897-80da-f83f991a1259"/>
+            <fw type="pageNum">XI-0</fw>
+            <p>Nummer 21<lb break="paragraph"/></p>
+            <p>Juni 1923<lb break="paragraph"/></p>
+            <p class="h1">Zeitschrift des Vereines<lb/> Allgemeine Nährpflicht<lb break="paragraph"
+               /></p>
+            <p rendition="#level_2">BERICHT ÜBER DIE IV. ORDENTLICHE HAUPT<lb break="no"
+               />VERSAMMLUNG AM 13. JANUAR 1923</p>
+            <p>Seit Poppers Tod ist dies, wie Herr. Dr. Wittels ausführt,<lb/> unsere erste
+               Hauptversammlung. Der Meister konnte noch die<lb/> Freude erleben, unseren Verein
+               entstehen und die Verbreitung<lb/> seiner Ideen wachsen zusehen. Hiefür gebührt in
+               erster Reihe<lb/> Herrn, Walther <hi rendition="#smallcaps">Marcus</hi> der Dank,
+               dessen Initiative und Energie<lb/> es gelungen ist, den Verein ins Leben zu rufen.<lb
+                  break="paragraph"/></p>
+            <p>Wir mußten im vergangenen Vereinsjahr leider davon<lb/> absehen, Vorträge zu
+               veranstalten. Das Interesse für Vorträge,<lb/> welches nach dem Zusammenbruche ein
+               sehr lebhaftes war,<lb/> ist stark abgeflaut und unsere geringen Mittel
+               ermöglichten<lb/> es nicht, die Kosten derartiger nur schwach besuchter Ver<lb
+                  break="no"/>anstaltungen aufzubringen. Wir haben uns daher mehr auf die<lb/>
+               schriftliche Art der Propaganda geworfen. Außer verschiedenen<lb/> Zeitungsberichten
+               können wir die Herausgabe nachstehender<lb/> Werke verzeichnen: Carl Jahoda: „Brot
+               und Wasser”, Fritz<lb/> Wittels „Die Vernichtung der Not”, Adolf Gelber: „Josef<lb/>
+               Popper-Lynkeus, sein Leben und sein Wirken“. Das letzterwähnte<lb/> Buch ist das
+               erste Werk, welches sich mit der Persönlichkeit<lb/> Poppers auseinandersetzt. Unsere
+               Zeitschrift ist fortlaufend, wenn<lb/> auch mit durch die Not der Zeit zu erklärenden
+               größeren Ver<lb break="no"/>zögerunugen erschienen. Daß es überhaupt möglich war, sie
+                  heraus<lb break="no"/>zubringen, haben wir in erster Reihe Herrn Georg <hi
+                  rendition="#smallcaps">Jahoda</hi> zu<lb/> verdanken, der uns durch sein
+               außerordentliches Entgegenkommen<lb/> bei Berechnung der Kosten vor der drohenden
+               Einstellung unserer<lb/> Vereinspublikationen bewahrt hat. Die Kosten selbst
+               würden,<lb/> durch freiwillige Beiträge aufgebracht.<lb break="paragraph"/></p>
+            <p>Die „Sonntagszeitung” in Heilbronn, herausgegeben von<lb/> Erich <hi
+                  rendition="#smallcaps">Schairer</hi>, hat sich die Ideen Poppers zu eigen<lb
+                  break="paragraph"/></p>
+         </div>
+      </body>
    </text>
 </TEI>
