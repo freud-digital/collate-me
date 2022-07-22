@@ -1,5 +1,6 @@
 import glob
 import os
+import shutil
 import lxml.etree as ET
 from acdh_collatex_utils.acdh_collatex_utils import CxCollate
 from acdh_collatex_utils.post_process import (
@@ -12,8 +13,28 @@ from acdh_collatex_utils.post_process import (
 
 from config import READING_WIT
 
-input_glob = f"./to_collate/*.xml"
-output_dir = f"./out/collated"
+XSLT_FILE = os.path.join(
+    os.path.dirname(__file__),
+    "fixtures",
+    "make_tei.xslt"
+)
+XSL_DOC = ET.parse(XSLT_FILE)
+
+to_collate_update = glob.glob(os.path.join("to_collate", "*.xml"))
+for x in to_collate_update:
+    with open(x, "r", encoding="utf8") as f:
+        data = f.read()
+    tei = ET.fromstring(data)
+    transform = ET.XSLT(XSL_DOC)
+    tei = transform(tei)
+    os.makedirs("tmp_to_collate", exist_ok=True)
+    new_save_path = os.path.join("tmp_to_collate", x.split('/')[-1])
+    with open(new_save_path, "wb") as f:
+        f.write(ET.tostring(tei, pretty_print=True, encoding="utf-8"))
+    print(f" TEI updated ({new_save_path})")
+
+input_glob = "./tmp_to_collate/*.xml"
+output_dir = "./out/collated"
 result_file = f'{output_dir}/collated.xml'
 result_html = './index.html'
 
@@ -54,3 +75,5 @@ with open(result_html, 'w') as f:
 for x in glob.glob(f"{output_dir}/out__*"):
     print(f"removing {x}")
     os.remove(x)
+
+shutil.rmtree("tmp_to_collate")
