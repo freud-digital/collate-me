@@ -2,7 +2,7 @@ import glob
 import os
 import shutil
 import lxml.etree as ET
-from acdh_collatex_utils.acdh_collatex_utils import CxCollate
+from acdh_collatex_utils.acdh_collatex_utils import CxCollate, CxReader
 from acdh_collatex_utils.post_process import (
     merge_tei_fragments,
     make_full_tei_doc,
@@ -18,20 +18,20 @@ XSLT_FILE = os.path.join(
     "fixtures",
     "make_tei.xslt"
 )
-XSL_DOC = ET.parse(XSLT_FILE)
 
 to_collate_update = glob.glob(os.path.join("to_collate", "*.xml"))
 for x in to_collate_update:
-    with open(x, "r", encoding="utf8") as f:
-        data = f.read()
-    tei = ET.fromstring(data)
-    transform = ET.XSLT(XSL_DOC)
-    tei = transform(tei)
+    tei = CxReader(
+        xml=x,
+        custom_xsl=XSLT_FILE,
+        char_limit=False,
+        chunk_size=7000,
+    ).preprocess()
     os.makedirs("tmp_to_collate", exist_ok=True)
     new_save_path = os.path.join("tmp_to_collate", x.split('/')[-1])
     with open(new_save_path, "wb") as f:
         f.write(ET.tostring(tei, pretty_print=True, encoding="utf-8"))
-    print(f" TEI updated ({new_save_path})")
+    print(f"TEI updated ({new_save_path})")
 
 input_glob = "./tmp_to_collate/*.xml"
 output_dir = "./out/collated"
