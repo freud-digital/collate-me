@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Title</title>
@@ -8,35 +8,88 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <listWit><witness xml:id="sfe-1905-001__1905.xml">sfe-1905-001__1905.xml</witness><witness xml:id="sfe-1905-001__1905_2.xml">sfe-1905-001__1905_2.xml</witness><witness xml:id="sfe-1905-001__1906.xml">sfe-1905-001__1906.xml</witness><witness xml:id="sfe-1905-001__1911.xml">sfe-1905-001__1911.xml</witness><witness xml:id="sfe-1905-001__1920.xml">sfe-1905-001__1920.xml</witness><witness xml:id="sfe-1905-001__1922.xml">sfe-1905-001__1922.xml</witness><witness xml:id="sfe-1905-001__1924.xml">sfe-1905-001__1924.xml</witness><witness xml:id="sfe-1905-001__1925.xml">sfe-1905-001__1925.xml</witness></listWit>
+            <listWit>
+               <witness xml:id="sfe-1905-001__1905.xml">sfe-1905-001__1905.xml</witness>
+               <witness xml:id="sfe-1905-001__1905_2.xml">sfe-1905-001__1905_2.xml</witness>
+               <witness xml:id="sfe-1905-001__1906.xml">sfe-1905-001__1906.xml</witness>
+               <witness xml:id="sfe-1905-001__1911.xml">sfe-1905-001__1911.xml</witness>
+               <witness xml:id="sfe-1905-001__1920.xml">sfe-1905-001__1920.xml</witness>
+               <witness xml:id="sfe-1905-001__1922.xml">sfe-1905-001__1922.xml</witness>
+               <witness xml:id="sfe-1905-001__1924.xml">sfe-1905-001__1924.xml</witness>
+               <witness xml:id="sfe-1905-001__1925.xml">sfe-1905-001__1925.xml</witness>
+            </listWit>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
-         <ab><app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">auszuüben</lem><rdg wit="#sfe-1905-001__1911.xml">anszuüben</rdg></app>
-	 
-	hat, ziemlich mühselig. Ich finde es auch selbst ganz berechtigt, daß man bequemere Heilmethoden in Anwendung bringt, 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">so lange</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">solange</rdg></app>
-	 
-	man eben die Aussicht hat, mit diesen 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">letzteren</lem><rdg wit="#sfe-1905-001__1906.xml">letz— teren</rdg></app>
-	 
-	etwas zu erreichen. Auf diesen Punkt kommt es allein an; erzielt man mit dem mühevolleren und 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Iangwierigeren</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">langwierigeren</rdg></app>
-	 
-	Verfahren erheblich mehr als mit dem kurzen und leichten, so ist das erstere trotz alledem gerechtfertigt. Denken Sie, meine Herren, um wieviel die Finsentherapie des Lupus unbequemer und kostspieliger ist als das früher gebräuchliche Ätzen und Schaben, und doch bedeutet es einen großen Fortschritt, bloß weil es mehr leistet; es heilt nämlich den Lupus radikal. Nun will ich den Vergleich nicht gerade durchsetzen; aber ein ähnliches Vorrecht darf doch die psychoanalytische Methode für sich in Anspruch nehmen. In Wirklichkeit habe ich meine therapeutische Methode nur an schweren und schwersten Fällen ausarbeiten und versuchen können; mein Material waren zuerst nur Kranke, die alles erfolglos versucht und durch Jahre in Anstalten geweilt hatten. Ich habe kaum Erfahrung genug gesammelt, um Ihnen sagen zu können, wie sich meine Therapie bei jenen leichteren, episodisch auftretenden Erkrankungen verhält, die wir unter den verschiedenartigsten Einflüssen und auch spontan abheilen sehen. Die psychoanalytische Therapie ist an dauernd existenzunfähigen Kranken und für solche geschaffen worden, und ihr Triumph ist es, daß sie eine befriedigende Anzahl von solchen dauernd existenzfähig macht. Gegen diesen Erfolg erscheint dann aller Aufwand geringfügig. Wir können uns nicht verhehlen, 
-	<app><lem wit="#sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">daß</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml">was</rdg></app>
-	 
-	wir vor 
-	<app><lem wit="#sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">dem</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml">den</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Kranken zu verleugnen pflegen, daß eine schwere Neurose in ihrer Bedeutung für das ihr unterworfene Individuum hinter keiner Kachexie, keinem der gefürchteten Allgemeinleiden</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Kranken zu verleugnen pflegen, daß eine schwere Neurose in ihrer Bedeutung für das ihr unterworfene Individuum hinter keiner Kachexie, keinem der gefürchteten Allgemeinleiden</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1924.xml #sfe-1905-001__1922.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">,</rdg></app>
-	 
-	zurücksteht.
-</ab>
+         <ab><app>
+               <lem
+                  wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+                  >auszuüben</lem>
+               <rdg wit="#sfe-1905-001__1911.xml">anszuüben</rdg>
+            </app> hat, ziemlich mühselig. Ich finde es auch selbst ganz berechtigt, daß man
+            bequemere Heilmethoden in Anwendung bringt, <app>
+               <lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">so lange</lem>
+               <rdg
+                  wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
+                  >solange</rdg>
+            </app> man eben die Aussicht hat, mit diesen <app>
+               <lem
+                  wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+                  >letzteren</lem>
+               <rdg wit="#sfe-1905-001__1906.xml">letz— teren</rdg>
+            </app> etwas zu erreichen. Auf diesen Punkt kommt es allein an; erzielt man mit dem
+            mühevolleren und <app>
+               <lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Iangwierigeren</lem>
+               <rdg
+                  wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
+                  >langwierigeren</rdg>
+            </app> Verfahren erheblich mehr als mit dem kurzen und leichten, so ist das erstere
+            trotz alledem gerechtfertigt. Denken Sie, meine Herren, um wieviel die Finsentherapie
+            des Lupus unbequemer und kostspieliger ist als das früher gebräuchliche Ätzen und
+            Schaben, und doch bedeutet es einen großen Fortschritt, bloß weil es mehr leistet; es
+            heilt nämlich den Lupus radikal. Nun will ich den Vergleich nicht gerade durchsetzen;
+            aber ein ähnliches Vorrecht darf doch die psychoanalytische Methode für sich in Anspruch
+            nehmen. In Wirklichkeit habe ich meine therapeutische Methode nur an schweren und
+            schwersten Fällen ausarbeiten und versuchen können; mein Material waren zuerst nur
+            Kranke, die alles erfolglos versucht und durch Jahre in Anstalten geweilt hatten. Ich
+            habe kaum Erfahrung genug gesammelt, um Ihnen sagen zu können, wie sich meine Therapie
+            bei jenen leichteren, episodisch auftretenden Erkrankungen verhält, die wir unter den
+            verschiedenartigsten Einflüssen und auch spontan abheilen sehen. Die psychoanalytische
+            Therapie ist an dauernd existenzunfähigen Kranken und für solche geschaffen worden, und
+            ihr Triumph ist es, daß sie eine befriedigende Anzahl von solchen dauernd existenzfähig
+            macht. Gegen diesen Erfolg erscheint dann aller Aufwand geringfügig. Wir können uns
+            nicht verhehlen, <app>
+               <lem
+                  wit="#sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+                  >daß</lem>
+               <rdg
+                  wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml"
+                  >was</rdg>
+            </app> wir vor <app>
+               <lem
+                  wit="#sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+                  >dem</lem>
+               <rdg
+                  wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml"
+                  >den</rdg>
+            </app>
+            <app>
+               <lem
+                  wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+                  >Kranken zu verleugnen pflegen, daß eine schwere Neurose in ihrer Bedeutung für
+                  das ihr unterworfene Individuum hinter keiner Kachexie, keinem der gefürchteten
+                  Allgemeinleiden</lem>
+               <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Kranken zu verleugnen
+                  pflegen, daß eine schwere Neurose in ihrer Bedeutung für das ihr unterworfene
+                  Individuum hinter keiner Kachexie, keinem der gefürchteten Allgemeinleiden</rdg>
+            </app>
+            <app>
+               <lem
+                  wit="#sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1924.xml #sfe-1905-001__1922.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
+               <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">,</rdg>
+            </app> zurücksteht. </ab>
       </body>
-  </text>
+   </text>
 </TEI>
