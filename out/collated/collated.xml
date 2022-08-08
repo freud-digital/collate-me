@@ -8,519 +8,466 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <listWit><witness xml:id="sfe-1905-001__1905.xml">sfe-1905-001__1905.xml</witness><witness xml:id="sfe-1905-001__1905_2.xml">sfe-1905-001__1905_2.xml</witness><witness xml:id="sfe-1905-001__1906.xml">sfe-1905-001__1906.xml</witness><witness xml:id="sfe-1905-001__1911.xml">sfe-1905-001__1911.xml</witness><witness xml:id="sfe-1905-001__1920.xml">sfe-1905-001__1920.xml</witness><witness xml:id="sfe-1905-001__1922.xml">sfe-1905-001__1922.xml</witness><witness xml:id="sfe-1905-001__1924.xml">sfe-1905-001__1924.xml</witness><witness xml:id="sfe-1905-001__1925.xml">sfe-1905-001__1925.xml</witness></listWit>
+            <listWit><witness xml:id="sfe-1904-002__1904.xml">sfe-1904-002__1904.xml</witness><witness xml:id="sfe-1904-002__1906.xml">sfe-1904-002__1906.xml</witness><witness xml:id="sfe-1904-002__1911.xml">sfe-1904-002__1911.xml</witness><witness xml:id="sfe-1904-002__1920.xml">sfe-1904-002__1920.xml</witness><witness xml:id="sfe-1904-002__1922.xml">sfe-1904-002__1922.xml</witness><witness xml:id="sfe-1904-002__1924.xml">sfe-1904-002__1924.xml</witness><witness xml:id="sfe-1904-002__1925.xml">sfe-1904-002__1925.xml</witness></listWit>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-         <ab><app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">ÜBER PSYCHOTHERAPIE</lem><rdg wit="#sfe-1905-001__1905.xml">XLVI</rdg><rdg wit="#sfe-1905-001__1905_2.xml">ÜBER PSYCHOTHERAPIE</rdg><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">XII</rdg></app>
+         <ab><app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">DIE FREUDSCHE PSYCHOANALYTISCHE METHODE Zuerst erschienen in: Löwenfeld, Psychische Zwangserscheinungen, 1904 (ohne Nennung</lem><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">XIII.</rdg><rdg wit="#sfe-1904-002__1904.xml"/></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Vortrag, gehalten im Wiener Medizinischen Doktorenkollegium am</lem><rdg wit="#sfe-1905-001__1905_2.xml">. VORTRAG GEHALTEN IN DER WISSENSCHAFTLICHEN VERSAMMLUNG DES WIENER MEDIZINISCHEN DOKTORENKOLLEGIUMS AM</rdg><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"/><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">Die</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">12</lem><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
-	<app><lem wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">.</lem><rdg wit="#sfe-1905-001__1905.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"/><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Freud’sche</rdg><rdg wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">Freudsche</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Dezember</lem><rdg wit="#sfe-1905-001__1905_2.xml">DEZEMBER</rdg><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">Über</rdg><rdg wit="#sfe-1905-001__1905.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"/><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">psychoanalytische</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">1904</lem><rdg wit="#sfe-1905-001__1905_2.xml">1904</rdg><rdg wit="#sfe-1905-001__1906.xml">Psychotherapie</rdg><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">Psychotherapie1).</rdg><rdg wit="#sfe-1905-001__1905.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"/><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Methode</rdg><rdg wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">Methode1). „</rdg></app>
+	<app><lem wit="#sfe-1904-002__1922.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1911.xml"/><rdg wit="#sfe-1904-002__1904.xml">. (Mitteilung</rdg><rdg wit="#sfe-1904-002__1906.xml">.1) „</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">; zuerst erschienen in der „</lem><rdg wit="#sfe-1905-001__1905_2.xml">VON PROF</rdg><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg></app>
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">des</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml">Jahrgang Wien, den 1</rdg><rdg wit="#sfe-1905-001__1905_2.xml">SIGM. FREUD IN WIEN</rdg></app>
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Verfassers);</lem><rdg wit="#sfe-1904-002__1904.xml">Autors). „</rdg><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml">Januar 1905 Nr</rdg><rdg wit="#sfe-1905-001__1905_2.xml">URBAN &amp; SCHWARZENBERG BERLIN WIEN N</rdg></app>
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg></app>
+	<app><lem wit="#sfe-1904-002__1925.xml">dann</lem><rdg wit="#sfe-1904-002__1924.xml">darin</rdg><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1911.xml #sfe-1904-002__1904.xml"/></app>
 	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml">1</rdg><rdg wit="#sfe-1905-001__1905_2.xml">FRIEDRICHSTRASSE 105b I</rdg></app>
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">in der Ersten Folge der „Sammlung kleiner Schriften zur Neurosenlehre“. „</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1911.xml #sfe-1904-002__1904.xml"/></app>
+	Die eigentümliche Methode der Psychotherapie, die Freud ausübt und als 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Psychoanalyse</lem><rdg wit="#sfe-1904-002__1904.xml">Psycho-Analyse</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905_2.xml">MAXIMILIANSTRASSE 4 1905 BLANK</rdg></app>
+	bezeichnet, ist aus dem sogenannten kathartischen Verfahren hervorgegangen, über welches er seinerzeit in den „Studien über Hysterie“ 1895 in Gemeinschaft mit J. Breuer berichtet hat. Die kathartische Therapie war eine Erfindung 
+	<app><lem wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Breuers</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Breuer’s</rdg></app>
+	, der mit ihrer Hilfe zuerst etwa ein Dezennium vorher eine hysterische Kranke hergestellt und dabei Einsicht in die Pathogenese ihrer Symptome gewonnen hatte. Infolge einer persönlichen Anregung 
+	<app><lem wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Breuers</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Breuer’s</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Wiener</lem><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"/></app>
+	nahm dann Freud das Verfahren wieder auf und erprobte es an einer 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">größeren</lem><rdg wit="#sfe-1904-002__1904.xml">grösseren</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Medizinischen</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Medizinische</rdg><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"/></app>
+	Anzahl von Kranken. Das kathartische Verfahren setzte voraus, 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Presse</lem><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"/></app>
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">“, 1905,</lem><rdg wit="#sfe-1905-001__1905.xml">. Organ für praktische Ärzte</rdg><rdg wit="#sfe-1905-001__1905_2.xml">. Organ für praktische Ärzte</rdg><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">der Patient hypnotisierbar sei</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">der Patient hypnotisierbar sei</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905_2.xml">.</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1911.xml #sfe-1904-002__1904.xml"/></app>
 	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml">Redigiert von Doz. Dr. Anton Bum</rdg><rdg wit="#sfe-1905-001__1905_2.xml">Redigiert von Doz. Dr. Anton Bum</rdg></app>
+	und beruhte auf der Erweiterung des 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Bewußtseins</lem><rdg wit="#sfe-1904-002__1904.xml">Bewusstseins</rdg></app>
+	, die in der Hypnose eintritt. 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Es</lem><rdg wit="#sfe-1904-002__1904.xml">Er</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905_2.xml">Separat-Abrduck aus</rdg></app>
+	setzte sich die Beseitigung der Krankheitssymptome zum Ziele und erreichte dies, indem 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">es</lem><rdg wit="#sfe-1904-002__1904.xml">er</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Nr</lem><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
-	<app><lem wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">. 1</lem><rdg wit="#sfe-1905-001__1906.xml">.1</rdg><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1922.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
-	<app><lem wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">,</lem><rdg wit="#sfe-1905-001__1906.xml">)</rdg><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1922.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
+	den Patienten sich in den psychischen Zustand zurückversetzen 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">ließ</lem><rdg wit="#sfe-1904-002__1904.xml">liess</rdg></app>
+	, in welchem das Symptom zum 
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">erstenmal</lem><rdg wit="#sfe-1904-002__1904.xml">erstenmale</rdg><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">ersten Male</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">dann in der Ersten Folge der „Sammlung kleiner Schriften zur Neurosenlehre“.</lem><rdg wit="#sfe-1905-001__1905_2.xml">1905 ÜBER PSYCHOTHERAPIE</rdg><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
+	aufgetreten war. Es tauchten dann bei dem hypnotisierten Kranken Erinnerungen, Gedanken und Impulse auf, die in seinem 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Bewußtsein</lem><rdg wit="#sfe-1904-002__1904.xml">Bewusstsein</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Meine Herren!</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg></app>
+	bisher ausgefallen waren, und wenn er diese seine seelischen Vorgänge unter intensiven 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Affektäußerungen</lem><rdg wit="#sfe-1904-002__1904.xml">Affektäusserungen</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml">Originalien und klinische Vorlesungen</rdg><rdg wit="#sfe-1905-001__1905_2.xml">VORTRAG GEHALTEN IN DER WISSENSCHAFTLICHEN VERSAMMLUNG DES WIENER MEDIZINISCHEN DOKTORENKOLLEGIUMS AM 12</rdg></app>
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg></app>
+	dem Arzte mitgeteilt hatte, war das Symptom überwunden, die Wiederkehr desselben aufgehoben. Diese 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">regelmäßig</lem><rdg wit="#sfe-1904-002__1904.xml">regelmässig</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml">Über Psychotherapie</rdg><rdg wit="#sfe-1905-001__1905_2.xml">DEZEMBER 1904 VON PROF. SIGM</rdg></app>
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg></app>
+	zu wiederholende Erfahrung erläuterten die beiden Autoren in ihrer gemeinsamen Arbeit dahin, 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml">Von Prof</rdg><rdg wit="#sfe-1905-001__1905_2.xml">FREUD IN WIEN</rdg></app>
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg></app>
+	das Symptom an Stelle von unterdrückten und nicht zum 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Bewußtsein</lem><rdg wit="#sfe-1904-002__1904.xml">Bewusstsein</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml">Sigm</rdg><rdg wit="#sfe-1905-001__1905_2.xml">URBAN &amp; SCHWARZENBERG BERLIN WIEN N</rdg></app>
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg></app>
+	gelangten psychischen Vorgängen stehe, also eine Umwandlung („Konversion“) der letzteren darstelle. Die therapeutische Wirksamkeit ihres Verfahrens erklärten sie sich aus der Abfuhr des bis dahin gleichsam „eingeklemmten“ Affektes, der an den unterdrückten seelischen Aktionen gehaftet hatte („Abreagieren“). Das einfache Schema des therapeutischen 
+	<app><lem wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Eingriffes</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Eingriffs</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml">Freud, Wien.*)</rdg><rdg wit="#sfe-1905-001__1905_2.xml">FRIEDRICHSTRASSE 105b I. MAXIMILIANSTRASSE 4 1905</rdg></app>
+	komplizierte sich aber nahezu 
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">allemal</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">alle Male</rdg></app>
+	, indem sich zeigte, 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">M. H.!</rdg></app>
+	nicht ein einzelner („traumatischer“) Eindruck, sondern meist eine schwer zu übersehende Reihe von solchen an der Entstehung des Symptoms beteiligt sei. Der Hauptcharakter der kathartischen Methode, der sie 
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">in</lem><rdg wit="#sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">im</rdg></app>
 	 
-	Es sind ungefähr 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">acht</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">8</rdg></app>
+	Gegensatz zu allen anderen Verfahren der Psychotherapie setzt, liegt also darin, 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg></app>
 	 
-	Jahre her, seitdem ich über Aufforderung Ihres betrauerten Vorsitzenden 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Professor</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Prof.</rdg></app>
+	bei ihr die therapeutische Wirksamkeit nicht einem suggestiven Verbot des Arztes übertragen wird. Sie erwartet vielmehr, 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">von</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">v.</rdg></app>
+	die Symptome von selbst verschwinden werden, wenn es dem Eingriff, der sich auf gewisse Voraussetzungen über den psychischen 
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Mechanismus</lem><rdg wit="#sfe-1904-002__1920.xml">Mechanismns</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Reder</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">REDER</rdg></app>
+	beruft, gelungen ist, seelische Vorgänge zu einem 
+	<app><lem wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">andern</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">anderen</rdg></app>
 	 
-	in Ihrem Kreise über das Thema der Hysterie sprechen durfte. Ich hatte kurz zuvor (1895) in Gemeinschaft mit 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Doktor</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">Dr.</rdg></app>
+	als dem bisherigen 
+	<app><lem wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Verlaufe</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Verlauf</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Josef Breuer</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">JOSEF BREUER</rdg></app>
+	zu bringen, der in die Symptombildung eingemündet hat. Die Abänderungen, welche Freud an dem kathartischen Verfahren 
+	<app><lem wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Breuers</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Breuer’s</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">die „Studien über Hysterie“ veröffentlicht und den Versuch unternommen, auf Grund der neuen Erkenntnis, welche wir diesem Forscher verdanken, eine neuartige Behandlungsweise der Neurose einzuführen. Erfreulicherweise</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml">die „Studien über Hysterie“ veröffentlicht und den Versuch unternommen, auf Grund der neuen Erkenntnis, welche wir diesem Forscher verdanken, eine neuartige Behandlungsweise der Neurose einzuführen. Erfreulicherweise</rdg></app>
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">vornahm, waren zunächst Änderungen der Technik; diese brachten aber neue Ergebnisse und haben in weiterer Folge zu einer andersartigen, wiewohl der früheren nicht widersprechenden</lem><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">vornahm, waren zunächst Änderungen der Technik; diese brachten aber neue Ergebnisse und haben in weiterer Folge zu einer andersartigen, wiewohl der früheren nicht widersprechenden</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml">,</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1904.xml"/><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">,</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">darf ich sagen, haben die Bemühungen unserer „Studien“ Erfolg gehabt; die in ihnen vertretenen Ideen von der Wirkungsweise psychischer Traumen durch Zurückhaltung von Affekt und die Auffassung der hysterischen Symptome als Erfolge einer aus dem Seelischen ins Körperliche versetzten Erregung, Ideen, für welche wir die Termini „Abreagieren“ und „Konversion“ geschaffen hatten, sind heute allgemein bekannt und verstanden. Es gibt — wenigstens in deutschen Landen — keine Darstellung der Hysterie, die ihnen nicht bis zu einem gewissen Grade Rechnung tragen würde, und keinen Fachgenossen, der nicht zum mindesten ein Stück weit mit dieser Lehre ginge. Und doch mögen diese Sätze und diese Termini, solange sie noch frisch waren, befremdend genug geklungen haben! Ich kann nicht dasselbe von dem therapeutischen Verfahren sagen, das gleichzeitig mit unserer Lehre den Fachgenossen vorgeschlagen wurde. Dasselbe kämpft noch heute um seine Anerkennung. Man mag spezielle Gründe dafür anrufen. Die Technik des Verfahrens war damals noch unausgebildet; ich vermochte es nicht, dem ärztlichen Leser des Buches jene Anweisungen zu geben, welche ihn befähigt hätten, eine derartige Behandlung vollständig durchzuführen. Aber gewiß wirken auch Gründe allgemeiner Natur mit. Vielen Ärzten erscheint noch heute die Psychotherapie als ein Produkt des modernen Mystizismus und im Vergleiche mit unseren physikalisch-chemischen Heilmitteln, deren Anwendung auf physiologische Einsichten gegründet ist, als geradezu unwissenschaftlich, des Interesses eines Naturforschers unwürdig. Gestatten Sie mir nun, vor Ihnen die Sache der Psychotherapie zu führen und hervorzuheben, was an dieser Verurteilung als Unrecht oder Irrtum bezeichnet werden kann</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">darf ich sagen, haben die Bemühungen unserer „Studien“ Erfolg gehabt; die in ihnen vertretenen Ideen von der Wirkungsweise psychischer Traumen durch Zurückhaltung von Affekt und die Auffassung der hysterischen Symptome als Erfolge einer aus dem Seelischen ins Körperliche versetzten Erregung, Ideen, für welche wir die Termini „Abreagieren“ und „Konversion“ geschaffen hatten, sind heute allgemein bekannt und verstanden. Es gibt — wenigstens in deutschen Landen — keine Darstellung der Hysterie, die ihnen nicht bis zu einem gewissen Grade Rechnung tragen würde, und keinen Fachgenossen, der nicht zum mindesten ein Stück weit mit dieser Lehre ginge. Und doch mögen diese Sätze und diese Termini, solange sie noch frisch waren, befremdend genug geklungen haben! Ich kann nicht dasselbe von dem therapeutischen Verfahren sagen, das gleichzeitig mit unserer Lehre den Fachgenossen vorgeschlagen wurde. Dasselbe kämpft noch heute um seine Anerkennung. Man mag spezielle Gründe dafür anrufen. Die Technik des Verfahrens war damals noch unausgebildet; ich vermochte es nicht, dem ärztlichen Leser des Buches jene Anweisungen zu geben, welche ihn befähigt hätten, eine derartige Behandlung vollständig durchzuführen. Aber gewiß wirken auch Gründe allgemeiner Natur mit. Vielen Ärzten erscheint noch heute die Psychotherapie als ein Produkt des modernen Mystizismus und im Vergleiche mit unseren physikalisch-chemischen Heilmitteln, deren Anwendung auf physiologische Einsichten gegründet ist, als geradezu unwissenschaftlich, des Interesses eines Naturforschers unwürdig. Gestatten Sie mir nun, vor Ihnen die Sache der Psychotherapie zu führen und hervorzuheben, was an dieser Verurteilung als Unrecht oder Irrtum bezeichnet werden kann</rdg></app>
+	Auffassung der therapeutischen Arbeit genötigt. Hatte die kathartische Methode bereits auf die Suggestion verzichtet, so unternahm Freud den weiteren Schritt, auch die Hypnose aufzugeben. Er behandelt gegenwärtig seine Kranken, indem er sie ohne andersartige Beeinflussung eine bequeme Rückenlage auf einem Ruhebett einnehmen 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">läßt</lem><rdg wit="#sfe-1904-002__1904.xml">lässt</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">, während er selbst</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">, während er selbst</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">.</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1911.xml #sfe-1904-002__1904.xml"/></app>
 	 
-	Lassen Sie 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">mich</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">sich</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">ihrem Anblick entzogen</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">ihrem Anblick entzogen</rdg></app>
 	 
-	also fürs 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">erste</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Erste</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1911.xml #sfe-1904-002__1904.xml"/></app>
 	 
-	daran mahnen, daß die Psychotherapie kein modernes Heilverfahren ist. Im 
-	<app><lem wit="#sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Gegenteil</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml">Gegenteile</rdg></app>
-	, sie ist die älteste Therapie, deren sich die Medizin bedient hat. In dem lehrreichen Werke von 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Löwenfeld</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">LÖWENFELD</rdg></app>
+	auf einem Stuhle hinter ihnen sitzt. Auch den 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Verschluß</lem><rdg wit="#sfe-1904-002__1904.xml">Verschluss</rdg></app>
 	 
-	(Lehrbuch der gesamten Psychotherapie) können Sie nachlesen, 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">welche</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">welches</rdg></app>
+	der Augen fordert er von ihnen nicht und vermeidet jede Berührung sowie jede andere Prozedur, die an Hypnose mahnen könnte. Eine solche Sitzung verläuft also wie ein Gespräch zwischen zwei gleich wachen Personen, von denen die eine sich jede Muskelanstrengung und jeden ablenkenden Sinneseindruck erspart, die sie in der Konzentration ihrer Aufmerksamkeit auf ihre eigene seelische Tätigkeit stören könnten. Da das 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Hypnotisiertwerden</lem><rdg wit="#sfe-1904-002__1904.xml">Hypnotisirtwerden</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">, trotz aller Geschicklichkeit des Arztes</lem><rdg wit="#sfe-1904-002__1904.xml">, trotz aller Geschicklichkeit des Arztes</rdg></app>
 	 
-	die Methoden der primitiven und der antiken Medizin waren. Sie werden dieselben zum größten 
-	<app><lem wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Teil</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml">Teile</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
 	 
-	der Psychotherapie zuordnen müssen; man versetzte die Kranken zum Zwecke der Heilung in den Zustand der „gläubigen Erwartung“, der uns heute noch das nämliche leistet. Auch nachdem die Ärzte andere Heilmittel aufgefunden haben, sind psychotherapeutische Bestrebungen der einen oder der anderen Art in der Medizin niemals untergegangen. Fürs 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">zweite</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Zweite</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">bekanntlich in der Willkür des Patienten liegt</lem><rdg wit="#sfe-1904-002__1904.xml">bekanntlich in der Willkür des Patienten liegt</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">mache ich Sie darauf aufmerksam, daß wir Ärzte auf die Psychotherapie schon darum nicht verzichten können, weil eine andere</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">mache ich Sie darauf aufmerksam, daß wir Ärzte auf die Psychotherapie schon darum nicht verzichten können, weil eine andere</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">,</lem><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
+	und eine 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">große</lem><rdg wit="#sfe-1904-002__1904.xml">grosse</rdg></app>
 	 
-	beim Heilungsvorgang sehr in Betracht kommende Partei — nämlich die Kranken — nicht die Absicht hat, auf sie zu verzichten. Sie wissen, welche Aufklärungen wir hierüber der Schule von Nancy (
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Liébault</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">LIEBAULT</rdg></app>
+	Anzahl neurotischer Personen durch kein Verfahren in Hypnose zu versetzen ist, so war durch den Verzicht auf die Hypnose die Anwendbarkeit des Verfahrens auf eine uneingeschränkte Anzahl von Kranken gesichert. 
+	<app><lem wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Anderseits</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Andererseits</rdg></app>
+	 
+	fiel die Erweiterung des 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Bewußtseins</lem><rdg wit="#sfe-1904-002__1904.xml">Bewusstseins</rdg></app>
+	 
+	weg, welche dem Arzt gerade jenes psychische Material an Erinnerungen und Vorstellungen geliefert hatte, mit dessen Hilfe sich die Umsetzung der Symptome und die Befreiung der Affekte vollziehen 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">ließ</lem><rdg wit="#sfe-1904-002__1904.xml">liess</rdg></app>
+	. Wenn für diesen Ausfall kein Ersatz zu schaffen war, konnte auch von einer therapeutischen Einwirkung keine Rede sein. Einen solchen völlig ausreichenden Ersatz fand nun Freud in den Einfällen der Kranken, 
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">das heißt</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">d. h.</rdg></app>
+	 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">in den ungewollten, meist als störend empfundenen und darum unter gewöhnlichen Verhältnissen beseitigten Gedanken, die den Zusammenhang einer beabsichtigten Darstellung zu durchkreuzen pflegen. Um sich dieser Einfälle zu bemächtigen, fordert er die Kranken auf, sich in ihren Mitteilungen gehen zu lassen</lem><rdg wit="#sfe-1904-002__1904.xml">in den ungewollten, meist als störend empfundenen und darum unter gewöhnlichen Verhältnissen beseitigten Gedanken, die den Zusammenhang einer beabsichtigten Darstellung zu durchkreuzen pflegen. Um sich dieser Einfälle zu bemächtigen, fordert er die Kranken auf, sich in ihren Mitteilungen gehen zu lassen</rdg></app>
+	 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">, „</lem><rdg wit="#sfe-1904-002__1904.xml">„</rdg></app>
+	wie man es etwa in einem 
+	<app><lem wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Gespräche</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Gespräch</rdg></app>
+	 
+	tut, bei welchem man aus dem Hundertsten in das Tausendste gerät
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">.“</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">“.</rdg></app>
+	 
+	Er schärft ihnen, ehe er sie zur detaillierten Erzählung ihrer Krankengeschichte auffordert, ein, alles mit zu sagen, was ihnen dabei durch den Kopf geht, auch wenn sie meinen, es sei unwichtig, oder es gehöre nicht dazu, oder es sei unsinnig. Mit besonderem 
+	<app><lem wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Nachdrucke</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Nachdruck</rdg></app>
+	 
+	aber wird von ihnen verlangt, 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg></app>
+	 
+	sie keinen Gedanken oder Einfall darum von der Mitteilung 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">ausschließen</lem><rdg wit="#sfe-1904-002__1904.xml">ausschliessen</rdg></app>
+	, weil ihnen diese Mitteilung beschämend oder peinlich ist. Bei den Bemühungen, dieses Material an sonst vernachlässigten Einfällen zu sammeln, machte nun Freud die Beobachtungen, die für seine ganze Auffassung bestimmend geworden sind. Schon bei der Erzählung der Krankengeschichte stellen sich bei den Kranken Lücken der Erinnerung heraus, sei es, 
+	<app><lem wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg><rdg wit="#sfe-1904-002__1906.xml">daß</rdg></app>
+	 
+	<app><lem wit="#sfe-1904-002__1922.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1911.xml #sfe-1904-002__1904.xml"/><rdg wit="#sfe-1904-002__1906.xml">,</rdg></app>
+	 
+	tatsächliche Vorgänge vergessen worden, sei es, 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg></app>
+	 
+	zeitliche Beziehungen verwirrt oder Kausalzusammenhänge zerrissen 
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1925.xml">worden</lem><rdg wit="#sfe-1904-002__1924.xml">werden</rdg></app>
+	 
+	sind, so 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg></app>
+	 
+	sich unbegreifliche Effekte ergeben. Ohne Amnesie irgend einer Art gibt es keine neurotische Krankengeschichte. Drängt man den Erzählenden, diese Lücken seines Gedächtnisses durch angestrengte Arbeit der Aufmerksamkeit auszufüllen, so merkt man, 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg></app>
+	 
+	die 
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">hiezu</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">hierzu</rdg></app>
+	 
+	sich einstellenden 
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Einfälle</lem><rdg wit="#sfe-1904-002__1906.xml">Einfalle</rdg></app>
+	 
+	von ihm mit allen Mitteln der Kritik zurückgedrängt werden, bis er endlich das direkte Unbehagen verspürt, wenn sich die Erinnerung wirklich eingestellt hat. Aus dieser Erfahrung 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">schließt</lem><rdg wit="#sfe-1904-002__1904.xml">schliesst</rdg></app>
+	 
+	Freud, 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg></app>
+	 
+	die Amnesien das Ergebnis eines 
+	<app><lem wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Vorganges</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Vorgangs</rdg></app>
+	 
+	sind, den er Verdrängung 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">heißt,</lem><rdg wit="#sfe-1904-002__1904.xml">heisst</rdg></app>
+	 
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">und als dessen Motiv er Unlustgefühle erkennt. Die psychischen Kräfte, welche diese Verdrängung herbeigeführt haben, meint</lem><rdg wit="#sfe-1904-002__1906.xml">und als dessen Motiv er Unlustgefühle erkennt. Die psychischen Kräfte, welche diese Verdrängung herbeigeführt haben, meint</rdg></app>
+	 
+	<app><lem wit="#sfe-1904-002__1922.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1911.xml #sfe-1904-002__1904.xml"/><rdg wit="#sfe-1904-002__1906.xml">.</rdg></app>
+	 
+	er in dem Widerstand, der sich gegen die Wiederherstellung erhebt, zu verspüren. Das Moment des Widerstandes ist eines der Fundamente seiner Theorie geworden. Die sonst unter allerlei Vorwänden (wie sie die obige 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Formel</lem><rdg wit="#sfe-1904-002__1904.xml">Anzahl</rdg></app>
+	 
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">aufzählt) beseitigten Einfälle betrachtet er aber als Abkömmlinge der verdrängten psychischen Gebilde</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">aufzählt) beseitigten Einfälle betrachtet er aber als Abkömmlinge der verdrängten psychischen Gebilde</rdg></app>
+	 
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"/><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">(Gedanken und Regungen</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"/><rdg wit="#sfe-1904-002__1904.xml">)</rdg><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">),</rdg></app>
+	 
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"/><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">als Entstellungen derselben infolge des gegen ihre Reproduktion bestehenden Widerstandes. Je</rdg></app>
+	 
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"/><rdg wit="#sfe-1904-002__1904.xml">grösser</rdg><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">größer</rdg></app>
+	 
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"/><rdg wit="#sfe-1904-002__1904.xml">der</rdg><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">der</rdg></app>
+	 
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1904.xml"/><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">Widerstand, desto ausgiebiger diese</rdg></app>
+<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">(Gedanken und Regungen), als Entstellungen derselben infolge des gegen ihre Reproduktion bestehenden Widerstandes</lem><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">Entstellung</rdg><rdg wit="#sfe-1904-002__1904.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">.</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
+	 
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Je größer der</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1911.xml #sfe-1904-002__1904.xml"/></app>
+	 
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Widerstand, desto ausgiebiger diese</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
+	 
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1925.xml">Entstellung.</lem><rdg wit="#sfe-1904-002__1924.xml">Entstehung</rdg><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
+	 
+	In dieser Beziehung der unbeabsichtigten Einfälle zum verdrängten psychischen Material ruht nun ihr Wert für die therapeutische Technik. Wenn man ein Verfahren besitzt, welches ermöglicht, von den Einfällen aus zu dem Verdrängten, von den Entstellungen zum Entstellten zu gelangen, so kann man auch ohne Hypnose das früher 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Unbewußte</lem><rdg wit="#sfe-1904-002__1904.xml">unbewusste</rdg></app>
+	 
+	im Seelenleben dem 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Bewußtsein</lem><rdg wit="#sfe-1904-002__1904.xml">Bewusstsein</rdg></app>
+	 
+	zugänglich machen. Freud hat darauf eine Deutungskunst ausgebildet, welcher diese Leistung zufällt, die gleichsam aus den Erzen der unbeabsichtigten Einfälle den Metallgehalt an verdrängten Gedanken darstellen soll. Objekt dieser Deutungsarbeit sind nicht allein die 
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Einfälle</lem><rdg wit="#sfe-1904-002__1906.xml">Einfalle</rdg></app>
+	 
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">des</lem><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">der</rdg></app>
+	 
+	Kranken, sondern auch seine Träume, die den direktesten Zugang zur Kenntnis des 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Unbewußten</lem><rdg wit="#sfe-1904-002__1904.xml">Unbewussten</rdg></app>
+	 
+	eröffnen, seine unbeabsichtigten, wie planlosen Handlungen (Symptomhandlungen) und die Irrungen seiner Leistungen im Alltagsleben 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">(</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
+	Versprechen, Vergreifen u. 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">dgl</lem><rdg wit="#sfe-1904-002__1904.xml">dergl</rdg></app>
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">.).</lem><rdg wit="#sfe-1904-002__1906.xml">..)</rdg></app>
+	 
+	Die Details dieser Deutungs- oder Übersetzungstechnik sind von Freud noch nicht veröffentlicht 
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">worden</lem><rdg wit="#sfe-1904-002__1911.xml">werden</rdg></app>
+	. Es sind nach seinen Andeutungen eine Reihe von empirisch gewonnenen Regeln, wie aus den Einfällen das 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">unbewußte</lem><rdg wit="#sfe-1904-002__1904.xml">unbewusste</rdg></app>
+	 
+	Material zu konstruieren ist, Anweisungen, wie man es zu verstehen habe, 
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">wenn</lem><rdg wit="#sfe-1904-002__1922.xml">Wenn</rdg></app>
+	 
+	die Einfälle des Patienten versagen, und Erfahrungen über die 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">wichtigsten</lem><rdg wit="#sfe-1904-002__1904.xml">richtigsten</rdg></app>
+	 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">typischen Widerstände, die sich im Laufe einer solchen Behandlung einstellen</lem><rdg wit="#sfe-1904-002__1904.xml">typischen Widerstände, die sich im Laufe einer solchen Behandlung einstellen</rdg></app>
+	 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">.</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
+	 
+	Ein umfangreiches Buch über 
+	<app><lem wit="#sfe-1904-002__1922.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1911.xml"/><rdg wit="#sfe-1904-002__1904.xml">die</rdg></app>
+	 
+	„Traumdeutung
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">“,</lem><rdg wit="#sfe-1904-002__1904.xml">“</rdg></app>
+	 
+	1900 von Freud publiziert, ist als Vorläufer einer solchen Einführung in die Technik anzusehen. Man könnte aus diesen Andeutungen über die Technik der psychoanalytischen Methode 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">schließen</lem><rdg wit="#sfe-1904-002__1904.xml">schliessen</rdg></app>
 	, 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Bernheim</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">BERNHEIM</rdg></app>
-	) verdanken. Ein von der psychischen Disposition der Kranken abhängiger Faktor tritt, ohne daß wir es beabsichtigen, zur Wirkung eines jeden vom Arzte eingeleiteten Heilverfahrens hinzu, meist im begünstigenden, oft auch im hemmenden Sinne. Wir haben für diese Tatsache das Wort „Suggestion“ anzuwenden gelernt, und 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Moebius</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">MOEBIUS</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg></app>
 	 
-	hat uns 
-	<app><lem wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">gelehrt</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml">belehrt</rdg></app>
-	, daß die Unverläßlichkeit, die wir an so manchen unserer Heilmethoden beklagen, gerade auf die störende Einwirkung dieses übermächtigen 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Moments</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">Momentes</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">deren Erfinder sich überflüssige Mühe verursacht und Unrecht getan hat, das wenig komplizierte hypnotische Verfahren zu verlassen. Aber einerseits ist die Technik der</lem><rdg wit="#sfe-1904-002__1904.xml">deren Erfinder sich überflüssige Mühe verursacht und Unrecht getan hat, das wenig komplizierte hypnotische Verfahren zu verlassen. Aber einerseits ist die Technik der</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">zurückzuführen ist. Wir Ärzte, Sie alle, treiben also beständig Psychotherapie, auch wo Sie es nicht wissen und nicht beabsichtigen; nur hat es einen Nachteil, daß Sie den psychischen Faktor in Ihrer Einwirkung auf den Kranken so ganz dem Kranken überlassen. Er wird auf diese Weise unkontrollierbar, undosierbar, der Steigerung unfähig. Ist es dann nicht ein berechtigtes Streben des Arztes, sich dieses Faktors zu bemächtigen, sich seiner mit Absicht zu bedienen, ihn zu lenken und zu verstärken? Nichts anderes als dies ist es, was die wissenschaftliche Psychotherapie Ihnen zumutet. Zu dritt, meine Herren Kollegen, will ich Sie auf die altbekannte Erfahrung verweisen, daß gewisse Leiden</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">zurückzuführen ist. Wir Ärzte, Sie alle, treiben also beständig Psychotherapie, auch wo Sie es nicht wissen und nicht beabsichtigen; nur hat es einen Nachteil, daß Sie den psychischen Faktor in Ihrer Einwirkung auf den Kranken so ganz dem Kranken überlassen. Er wird auf diese Weise unkontrollierbar, undosierbar, der Steigerung unfähig. Ist es dann nicht ein berechtigtes Streben des Arztes, sich dieses Faktors zu bemächtigen, sich seiner mit Absicht zu bedienen, ihn zu lenken und zu verstärken? Nichts anderes als dies ist es, was die wissenschaftliche Psychotherapie Ihnen zumutet. Zu dritt, meine Herren Kollegen, will ich Sie auf die altbekannte Erfahrung verweisen, daß gewisse Leiden</rdg></app>
+	<app><lem wit="#sfe-1904-002__1922.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1911.xml"/><rdg wit="#sfe-1904-002__1904.xml">,</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">,</lem><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
+	Psychoanalyse viel leichter auszuüben, wenn man sie einmal erlernt hat, als es bei einer Beschreibung den Anschein hat, 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">anderseits</lem><rdg wit="#sfe-1904-002__1904.xml">andererseits</rdg></app>
 	 
-	und ganz besonders die Psychoneurosen, seelischen 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Einflüssen</lem><rdg wit="#sfe-1905-001__1922.xml">Einﬂüssen</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">führt kein anderer Weg zum Ziele</lem><rdg wit="#sfe-1904-002__1904.xml">führt kein anderer Weg zum Ziele</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">weit zugänglicher sind</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">weit zugänglicher sind</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">,</lem><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
+	und darum ist der mühselige Weg noch der kürzeste. Der Hypnose ist vorzuwerfen, 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg></app>
 	 
-	als jeder anderen Medikation. Es ist keine moderne Rede, sondern ein Ausspruch alter Ärzte, daß diese Krankheiten nicht das Medikament heilt, sondern der Arzt, 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">das heißt</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">d. h.</rdg></app>
+	sie den Widerstand verdeckt und dadurch dem Arzt den Einblick in das Spiel der psychischen Kräfte verwehrt hat. Sie räumt aber mit dem Widerstande nicht auf, sondern weicht ihm nur aus und ergibt 
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">darum</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">dagegen</rdg></app>
 	 
-	wohl die Persönlichkeit des Arztes, insofern er psychischen Einfluß durch sie ausübt. Ich weiß wohl, meine Herren Kollegen, daß bei Ihnen jene Anschauung sehr beliebt ist, welcher der Ästhetiker 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Vischer</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">VISCHER</rdg></app>
+	nur unvollständige Auskünfte und nur vorübergehende Erfolge. Die Aufgabe, welche die psychoanalytische Methode zu lösen bestrebt ist, 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">läßt</lem><rdg wit="#sfe-1904-002__1904.xml">lässt</rdg></app>
 	 
-	in seiner Faustparodie (Faust, der Tragödie III. Teil) klassischen Ausdruck geliehen hat: „Ich weiß, das Physikalische Wirkt öfters aufs Moralische.“ Aber sollte es nicht adäquater sein und häufiger zutreffen, daß man aufs Moralische eines Menschen mit moralischen, 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">das heißt</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">d. h.</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">sich in verschiedenen Formeln ausdrücken, die aber ihrem Wesen nach äquivalent sind. Man kann sagen: Aufgabe der Kur sei, die Amnesien aufzuheben. Wenn alle Erinnerungslücken ausgefüllt</lem><rdg wit="#sfe-1904-002__1904.xml">sich in verschiedenen Formeln ausdrücken, die aber ihrem Wesen nach äquivalent sind. Man kann sagen: Aufgabe der Kur sei, die Amnesien aufzuheben. Wenn alle Erinnerungslücken ausgefüllt</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">psychischen Mitteln einwirken kann? Es gibt viele Arten und Wege der Psychotherapie. Alle sind gut, die zum</lem><rdg wit="#sfe-1905-001__1905_2.xml">psychischen Mitteln einwirken kann ? Es gibt viele Arten und Wege der Psychotherapie. Alle sind gut, die zum</rdg></app>
+	<app><lem wit="#sfe-1904-002__1922.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1911.xml"/><rdg wit="#sfe-1904-002__1904.xml">sind</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">, alle rätselhaften Effekte des psychischen Lebens aufgeklärt sind, ist der Fortbestand, ja eine Neubildung des Leidens unmöglich gemacht. Man kann die Bedingung anders fassen: es seien alle Verdrängungen rückgängig zu machen; der psychische Zustand ist dann derselbe, in dem alle Amnesien ausgefüllt sind. Weittragender ist eine andere Fassung: es handle sich darum</lem><rdg wit="#sfe-1904-002__1904.xml">, alle rätselhaften Effekte des psychischen Lebens aufgeklärt sind, ist der Fortbestand, ja eine Neubildung des Leidens unmöglich gemacht. Man kann die Bedingung anders fassen: es seien alle Verdrängungen rückgängig zu machen; der psychische Zustand ist dann derselbe, in dem alle Amnesien ausgefüllt sind. Weittragender ist eine andere Fassung: es handle sich darum</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Ziel</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml">Ziele</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
 	 
-	der Heilung führen. Unsere gewöhnliche Tröstung: Es wird schon wieder gut werden
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">!</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">,</rdg></app>
+	das 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Unbewußte</lem><rdg wit="#sfe-1904-002__1904.xml">Unbewusste</rdg></app>
 	 
-	mit der wir den Kranken gegenüber so freigebig sind, entspricht einer der psychotherapeutischen Methoden; nur sind wir bei tieferer Einsicht in das Wesen der Neurosen nicht genötigt gewesen, uns auf die Tröstung einzuschränken. Wir haben die Technik der hypnotischen Suggestion, der Psychotherapie durch Ablenkung, durch Übung, durch Hervorrufung zweckdienlicher Affekte entwickelt. Ich verachte keine derselben und würde sie alle unter geeigneten Bedingungen ausüben. Wenn ich 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">mich</lem><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
+	dem 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Bewußtsein</lem><rdg wit="#sfe-1904-002__1904.xml">Bewusstsein</rdg></app>
 	 
-	in Wirklichkeit 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">mich</rdg></app>
+	zugänglich zu machen, was durch Überwindung der Widerstände geschieht. Man darf aber dabei nicht vergessen, 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg></app>
 	 
-	auf ein einziges Heilverfahren beschränkt habe, auf die von 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Breuer</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">BREUER</rdg></app>
+	ein solcher 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Idealzustand</lem><rdg wit="#sfe-1904-002__1904.xml">Wachzustand</rdg></app>
 	 
-	„kathartisch“ genannte Methode, die ich lieber die „analytische“ heiße, so sind bloß subjektive Motive für mich maßgebend gewesen. Infolge meines 
-	<app><lem wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Anteiles</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml">Anteils</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">auch beim normalen Menschen nicht besteht</lem><rdg wit="#sfe-1904-002__1904.xml">auch beim normalen Menschen nicht besteht</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">an der Aufstellung dieser Therapie fühle ich die persönliche Verpflichtung, mich ihrer Erforschung und dem Ausbau ihrer Technik zu widmen. Ich darf behaupten, die analytische Methode der Psychotherapie ist diejenige, welche am eindringlichsten wirkt, am weitesten trägt, durch</lem><rdg wit="#sfe-1905-001__1905_2.xml">an der Aufstellung dieser Therapie fühle ich die persönliche Verpflichtung, mich ihrer Erforschung und dem Ausbau ihrer Technik zu widmen. Ich darf behaupten, die analytische Methode der Psychotherapie ist diejenige, welche am eindringlichsten wirkt, am weitesten trägt, durch</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">welche man die ausgiebigste Veränderung des Kranken erzielt. Wenn ich für einen Moment den therapeutischen Standpunkt verlasse, kann ich für sie geltend machen, daß sie die interessanteste ist, uns allein etwas über die Entstehung und den Zusammenhang der Krankheitserscheinungen lehrt. Infolge der Einsichten in den Mechanismus des seelischen Krankseins, die</lem><rdg wit="#sfe-1905-001__1905_2.xml"/></app>
+	und 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">sie uns eröffnet, könnte</rdg></app>
+	man nur selten in die Lage kommen kann, die Behandlung annähernd so weit zu treiben. So wie Gesundheit und Krankheit nicht prinzipiell geschieden, sondern nur durch eine praktisch bestimmbare Summationsgrenze gesondert sind, so wird man sich auch nie etwas anderes zum Ziel der Behandlung setzen als die praktische Genesung des Kranken, die Herstellung seiner 
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1925.xml">Leistungs- und</lem><rdg wit="#sfe-1904-002__1924.xml">Leistungsund</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">sie</lem><rdg wit="#sfe-1905-001__1905_2.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Genußfähigkeit</lem><rdg wit="#sfe-1904-002__1904.xml">Genussfähigkeit</rdg></app>
+	. Bei unvollständiger Kur oder unvollkommenem 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Erfolge</lem><rdg wit="#sfe-1904-002__1904.xml">Erfolg</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1905.xml">allein imstande sein, über</rdg><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">allein imstande sein, über</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">derselben erreicht man vor allem eine bedeutende Hebung des psychischen Allgemeinzustandes, während die Symptome, aber mit geminderter Bedeutung für den Kranken</lem><rdg wit="#sfe-1904-002__1904.xml">derselben erreicht man vor allem eine bedeutende Hebung des psychischen Allgemeinzustandes, während die Symptome, aber mit geminderter Bedeutung für den Kranken</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">sich selbst</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1906.xml">hinaus zu führen</rdg><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">hinauszuführen</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">fortbestehen können, ohne ihn zu einem Kranken zu stempeln. Das therapeutische Verfahren bleibt</lem><rdg wit="#sfe-1904-002__1904.xml">fortbestehen können, ohne ihn zu einem Kranken zu stempeln. Das therapeutische Verfahren bleibt</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">und</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">uns</lem><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">uns</rdg><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">von geringen Modifikationen abgesehen</lem><rdg wit="#sfe-1904-002__1904.xml">von geringen Modifikationen abgesehen</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">den Weg zu noch anderen Arten therapeutischer Beeinflussung zu weisen. In bezug auf diese kathartische oder analytische Methode der Psychotherapie</rdg></app>
-<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905_2.xml">welche man die ausgiebigste Veränderung des Kranken erzielt. Wenn ich für einen Moment den therapeutischen Standpunkt verlasse, kann ich für sie geltend machen, daß sie die interessanteste ist, uns allein etwas über die Entstehung und den Zusammenhang der Krankheitserscheinungen lehrt. Infolge der Einsichten in den Mechanismus des seelischen Krankseins, die sie uns</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">eröffnet, könnte sie allein imstande sein, über</lem><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
+	das nämliche für alle Symptombilder der vielgestaltigen Hysterie und ebenso für alle Ausbildungen der Zwangsneurose. Von einer unbeschränkten Anwendbarkeit desselben ist aber keine Rede. Die Natur der 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">psychoanalytischen</lem><rdg wit="#sfe-1904-002__1904.xml">psycho-analytischen</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">sich selbst</lem><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"/></app>
+	Methode schafft Indikationen und Gegenanzeigen sowohl von 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">seiten</lem><rdg wit="#sfe-1904-002__1904.xml">Seiten</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">hinauszuführen</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">hinaus zu führen</rdg><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">der zu behandelnden Personen</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">der zu behandelnden Personen</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">und uns den Weg zu noch anderen Arten therapeutischer Beeinflussung zu weisen. In</lem><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"/><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">,</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Bezug</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">bezug</rdg><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"/></app>
+	als auch mit Rücksicht auf das Krankheitsbild. Am günstigsten für die Psychoanalyse sind die chronischen Fälle von Psychoneurosen mit wenig stürmischen oder gefahrdrohenden Symptomen, also zunächst alle Arten der Zwangsneurose, Zwangsdenken 
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">und</lem><rdg wit="#sfe-1904-002__1922.xml">mid</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">auf diese kathartische oder analytische Methode der Psychotherapie</lem><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"/></app>
+	Zwangshandeln, und Fälle von Hysterie, in denen Phobien und Abulien die Hauptrolle spielen, weiterhin aber auch alle somatischen Ausprägungen der Hysterie, 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">insoferne</lem><rdg wit="#sfe-1904-002__1904.xml">insofern</rdg></app>
 	 
-	gestatten Sie mir nun, einige Irrtümer zu verbessern und einige Aufklärungen zu geben. a) Ich merke, daß diese Methode sehr häufig mit der hypnotischen Suggestivbehandlung verwechselt wird, merke es daran, daß verhältnismäßig häufig auch Kollegen, deren Vertrauensmann ich sonst nicht bin, Kranke zu mir schicken, refraktäre Kranke natürlich, mit dem Auftrage, ich solle sie hypnotisieren. Nun habe ich seit etwa 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">acht</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">8</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">nicht</lem><rdg wit="#sfe-1904-002__1904.xml">nicht</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Jahren</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Jahre</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
 	 
-	keine Hypnose mehr zu Zwecken der Therapie ausgeübt (vereinzelte Versuche ausgenommen) und pflege solche Sendungen mit dem Rate, wer auf die Hypnose baut, möge sie selbst machen, zu retournieren. In Wahrheit besteht zwischen der suggestiven Technik und der analytischen der größtmögliche Gegensatz, jener Gegensatz, den der große 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Leonardo da Vinci</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">LEONARDO DA VINCI</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">wie bei der Anorexie</lem><rdg wit="#sfe-1904-002__1904.xml">wie bei der Anorexie</rdg></app>
 	 
-	für die Künste in die Formeln per via di porre und per via di levare gefaßt hat. Die Malerei, sagt 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Leonardo</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">LEONARDO</rdg></app>
-	, arbeitet per via di porre; sie setzt nämlich Farbenhäufchen hin, wo sie früher nicht waren, auf die 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">nichtfarbige</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">nicht farbige</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
 	 
-	Leinwand
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">;</lem><rdg wit="#sfe-1905-001__1922.xml">,</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">rasche Beseitigung der Symptome zur Hauptaufgabe des Arztes wird. Bei akuten Fällen von Hysterie wird man den Eintritt eines ruhigeren Stadiums abzuwarten haben; in allen Fällen, bei denen die nervöse Erschöpfung obenan steht, wird man ein Verfahren vermeiden, welches selbst Anstrengung erfordert, nur langsame Fortschritte zeitigt</lem><rdg wit="#sfe-1904-002__1904.xml">rasche Beseitigung der Symptome zur Hauptaufgabe des Arztes wird. Bei akuten Fällen von Hysterie wird man den Eintritt eines ruhigeren Stadiums abzuwarten haben; in allen Fällen, bei denen die nervöse Erschöpfung obenan steht, wird man ein Verfahren vermeiden, welches selbst Anstrengung erfordert, nur langsame Fortschritte zeitigt</rdg></app>
 	 
-	die Skulptur dagegen geht per via di levare vor, sie nimmt nämlich vom Stein 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">so viel</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">soviel</rdg></app>
+	<app><lem wit="#sfe-1904-002__1922.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1911.xml"/><rdg wit="#sfe-1904-002__1904.xml">,</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">weg, als die Oberfläche der in ihm enthaltenen Statue noch bedeckt. Ganz ähnlich, meine Herren, sucht die Suggestivtechnik per via di porre zu wirken, sie kümmert sich nicht um Herkunft, Kraft und Bedeutung der Krankheitssymptome, sondern legt etwas auf, die Suggestion nämlich, wovon sie erwartet, daß es stark genug sein wird, die pathogene Idee an der Äußerung zu hindern. Die analytische Therapie dagegen will nicht auflegen, nichts Neues einführen, sondern wegnehmen, herausschaffen</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">weg, als die Oberfläche der in ihm enthaltenen Statue noch bedeckt. Ganz ähnlich, meine Herren, sucht die Suggestivtechnik per via di porre zu wirken, sie kümmert sich nicht um Herkunft, Kraft und Bedeutung der Krankheitssymptome, sondern legt etwas auf, die Suggestion nämlich, wovon sie erwartet, daß es stark genug sein wird, die pathogene Idee an der Äußerung zu hindern. Die analytische Therapie dagegen will nicht auflegen, nichts Neues einführen, sondern wegnehmen, herausschaffen</rdg></app>
+	und auf die Fortdauer der Symptome eine Zeitlang keine Rücksicht nehmen kann. An die Person, die man mit Vorteil der Psychoanalyse unterziehen soll, sind mehrfache Forderungen zu stellen. Sie 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">muß</lem><rdg wit="#sfe-1904-002__1904.xml">muss</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">,</rdg></app>
+	erstens eines psychischen Normalzustandes fähig sein
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1925.xml">;</lem><rdg wit="#sfe-1904-002__1924.xml">,</rdg></app>
 	 
-	und zu diesem Zwecke bekümmert sie sich um die Genese der krankhaften Symptome und den psychischen Zusammenhang der pathogenen Idee, deren Wegschaffung ihr Ziel ist. Auf diesem Wege der Forschung hat sie unserem Verständnis 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">sehr</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">so</rdg></app>
+	in Zeiten der Verworrenheit oder melancholischer Depression ist auch bei einer Hysterie nichts auszurichten. Man darf ferner ein gewisses 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Maß</lem><rdg wit="#sfe-1904-002__1904.xml">Maass</rdg></app>
 	 
-	bedeutende Förderung gebracht. Ich habe die Suggestionstechnik und mit ihr die Hypnose so frühzeitig aufgegeben, weil ich daran verzweifelte, die Suggestion so stark und so haltbar zu machen, wie es für die dauernde Heilung notwendig wäre. In allen schweren Fällen sah ich die darauf gelegte Suggestion wieder abbröckeln, und dann war das Kranksein oder ein dasselbe Ersetzendes wieder da. Außerdem mache ich dieser Technik den Vorwurf, daß sie uns die Einsicht in das psychische Kräftespiel verhüllt, z. B. uns den Widerstand nicht erkennen läßt, mit dem die Kranken an ihrer Krankheit festhalten, mit dem sie sich also auch gegen die Genesung sträuben, und der doch allein das Verständnis ihres Benehmens im Leben ermöglicht. b) Es scheint mir der Irrtum unter den Kollegen weit verbreitet zu sein, daß die Technik der Forschung nach den Krankheitsanlässen und die Beseitigung der Erscheinungen durch diese Erforschung leicht und selbstverständlich sei. Ich schließe dies daraus, daß noch keiner von den vielen, die sich für meine Therapie interessieren und sichere Urteile über dieselbe von sich geben, mich 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">noch</rdg></app>
+	natürlicher Intelligenz und ethischer Entwicklung 
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">fordern</lem><rdg wit="#sfe-1904-002__1922.xml">fördern</rdg></app>
+	; bei wertlosen Personen 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">läßt</lem><rdg wit="#sfe-1904-002__1904.xml">lässt</rdg></app>
 	 
-	je gefragt hat, wie ich es eigentlich mache. Das kann doch nur den einzigen Grund haben, daß sie meinen, es sei nichts zu fragen, es 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">verstehe</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">verstünde</rdg></app>
+	den Arzt bald das Interesse im Stiche, welches ihn zur Vertiefung in das 
+	<app><lem wit="#sfe-1904-002__1925.xml">Seelenlebens</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml">Seelenleben</rdg></app>
 	 
-	sich ganz von selbst. Auch höre ich mitunter mit Erstaunen, daß auf dieser oder jener Abteilung eines Spitals ein junger Arzt von seinem Chef den Auftrag erhalten hat, bei einer Hysterischen eine „Psychoanalyse“ zu unternehmen. Ich bin überzeugt, man würde ihm nicht einen exstirpierten Tumor zur Untersuchung überlassen, ohne sich vorher versichert zu haben, daß er mit der histologischen Technik vertraut ist. Ebenso erreicht mich die Nachricht, dieser oder jener Kollege richte sich Sprechstunden mit einem Patienten ein, um eine psychische Kur mit ihm zu machen, während ich sicher bin, daß er die Technik einer solchen Kur nicht kennt. Er muß also erwarten, daß ihm der Kranke seine Geheimnisse entgegenbringen wird, oder sucht das Heil in 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">irgendeiner</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">irgend einer</rdg></app>
+	des Kranken befähigt. Ausgeprägte 
+	<app><lem wit="#sfe-1904-002__1922.xml #sfe-1904-002__1906.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1911.xml #sfe-1904-002__1904.xml"/><rdg wit="#sfe-1904-002__1920.xml">(</rdg></app>
+	Charakterverbildungen, Züge von wirklich degenerativer Konstitution 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">äußern</lem><rdg wit="#sfe-1904-002__1904.xml">äussern</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Art von Beichte oder Anvertrauen. Es würde mich nicht wundern, wenn der so behandelte Kranke dabei eher zu Schaden als zum Vorteil käme. Das seelische Instrument ist nämlich nicht gar leicht zu spielen. Ich muß bei solchen Anlässen an die Rede eines weltberühmten Neurotikers denken, der freilich nie in der Behandlung eines Arztes gestanden, der nur in der Phantasie eines Dichters gelebt hat. Ich meine den Prinzen Hamlet von Dänemark. Der König hat die beiden Höflinge Rosenkranz und Güldenstern über ihn geschickt, um ihn auszuforschen, ihm das Geheimnis seiner Verstimmung zu entreißen. Er wehrt sie ab; da werden Flöten auf die Bühne gebracht. Hamlet nimmt eine Flöte und bittet den einen seiner Quäler, auf ihr zu spielen, es sei so leicht wie lügen. Der Höfling weigert sich, denn er kennt keinen Griff, und da er zu dem Versuch des Flötenspiels nicht zu bewegen ist, bricht Hamlet endlich los: „ Nun seht ihr, welch ein nichtswürdiges Ding ihr aus mir macht? Ihr wollt auf mir spielen; ihr wollt in das Herz meines Geheimnisses dringen; ihr wollt mich von meiner tiefsten Note bis zum Gipfel meiner Stimme hinauf prüfen, und in diesem kleinen Instrument hier ist viel Musik, eine vortreffliche Stimme, dennoch könnt ihr es nicht zum Sprechen bringen. Wetter, denkt ihr, daß ich leichter zu spielen bin</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">Art von Beichte oder Anvertrauen. Es würde mich nicht wundern, wenn der so behandelte Kranke dabei eher zu Schaden als zum Vorteil käme. Das seelische Instrument ist nämlich nicht gar leicht zu spielen. Ich muß bei solchen Anlässen an die Rede eines weltberühmten Neurotikers denken, der freilich nie in der Behandlung eines Arztes gestanden, der nur in der Phantasie eines Dichters gelebt hat. Ich meine den Prinzen Hamlet von Dänemark. Der König hat die beiden Höflinge Rosenkranz und Güldenstern über ihn geschickt, um ihn auszuforschen, ihm das Geheimnis seiner Verstimmung zu entreißen. Er wehrt sie ab; da werden Flöten auf die Bühne gebracht. Hamlet nimmt eine Flöte und bittet den einen seiner Quäler, auf ihr zu spielen, es sei so leicht wie lügen. Der Höfling weigert sich, denn er kennt keinen Griff, und da er zu dem Versuch des Flötenspiels nicht zu bewegen ist, bricht Hamlet endlich los: „ Nun seht ihr, welch ein nichtswürdiges Ding ihr aus mir macht? Ihr wollt auf mir spielen; ihr wollt in das Herz meines Geheimnisses dringen; ihr wollt mich von meiner tiefsten Note bis zum Gipfel meiner Stimme hinauf prüfen, und in diesem kleinen Instrument hier ist viel Musik, eine vortreffliche Stimme, dennoch könnt ihr es nicht zum Sprechen bringen. Wetter, denkt ihr, daß ich leichter zu spielen bin</rdg><rdg wit="#sfe-1905-001__1911.xml">Art von Beichte oder Anvertrauen. Es würde mich nicht wundern, wenn der so behandelte Kranke dabei eher zu Schaden als zum Vorteil käme. Das seelische Instrument ist nämlich nicht gar leicht zu spielen. Ich muß bei solchen Anlässen an die Rede eines weltberühmten Neurotikers denken, der freilich nie in der Behandlung eines Arztes gestanden, der nur in der Phantasie eines Dichters gelebt hat. Ich meine den Prinzen Hamlet von Dänemark. Der König hat die beiden Höflinge Rosenkranz und Güldenstern über ihn geschickt, um ihn auszuforschen, ihm das Geheimnis seiner Verstimmung zu entreißen. Er wehrt sie ab; da werden Flöten auf die Bühne gebracht. Hamlet nimmt eine Flöte und bittet den einen seiner Quäler, auf ihr zu spielen, es sei so leicht wie lügen. Der Höfling weigert sich, denn er kennt keinen Griff, und da er zu dem Versuch des Flötenspiels nicht zu bewegen ist, bricht Hamlet endlich los: „Nun seht ihr, welch ein nichtswürdiges Ding ihr aus mir macht? Ihr wollt auf mir spielen; ihr wollt in das Herz meines Geheimnisses dringen; ihr wollt mich von meiner tiefsten Note bis zum Gipfel meiner Stimme hinauf prüfen, und in diesem kleinen Instrument hier ist viel Musik, eine vortreffliche Stimme, dennoch könnt ihr es nicht zum Sprechen bringen. Wetter, denkt ihr, daß ich leichter zu spielen bin</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">sich bei der Kur als Quelle von kaum zu überwindenden Widerständen. Insoweit setzt überhaupt die Konstitution eine Grenze für die Heilbarkeit durch Psychotherapie. Auch eine Altersstufe in der Nähe des fünften Dezenniums schafft ungünstige Bedingungen für die Psychoanalyse. Die Masse des psychischen Materials ist dann nicht mehr zu bewältigen, die zur Herstellung erforderliche Zeit wird zu lang</lem><rdg wit="#sfe-1904-002__1904.xml">sich bei der Kur als Quelle von kaum zu überwindenden Widerständen. Insoweit setzt überhaupt die Konstitution eine Grenze für die Heilbarkeit durch Psychotherapie. Auch eine Altersstufe in der Nähe des fünften Dezenniums schafft ungünstige Bedingungen für die Psychoanalyse. Die Masse des psychischen Materials ist dann nicht mehr zu bewältigen, die zur Herstellung erforderliche Zeit wird zu lang</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">,</lem><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
 	 
-	<app><lem wit="#sfe-1905-001__1911.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">als eine Flöte? Nennt mich was für ein Instrument ihr wollt, ihr könnt mich zwar verstimmen, aber nicht auf mir spielen</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">als eine Flöte? Nennt mich was für ein Instrument ihr wollt, ihr könnt mich zwar verstimmen, aber nicht auf mir spielen</rdg></app>
+	und die Fähigkeit, psychische Vorgänge rückgängig zu machen, beginnt zu erlahmen. Trotz aller dieser Einschränkungen ist die Anzahl der für die Psychoanalyse geeigneten Personen eine 
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">außerordentlich große</lem><rdg wit="#sfe-1904-002__1904.xml">ausserordentlich grosse</rdg><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">außerordentlich große</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">. “ (</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">“ (</rdg></app>
-	III. Akt, 2
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">.)</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.).</rdg><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">).</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1904.xml"/><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">,</rdg></app>
 	 
-	c) Sie werden aus gewissen meiner Bemerkungen erraten haben, daß der analytischen Kur manche Eigenschaften anhaften, die sie von dem Ideal einer Therapie ferne halten. Tuto, cito, iucunde; das Forschen und Suchen deutet nicht eben auf Raschheit des Erfolges, und die Erwähnung des Widerstandes bereitet Sie auf die Erwartung von Unannehmlichkeiten vor. Gewiß, die psychoanalytische Behandlung stellt an den Kranken wie an den Arzt hohe Ansprüche; von ersterem verlangt sie das Opfer voller Aufrichtigkeit, gestaltet sich für ihn zeitraubend und daher auch kostspielig; für den Arzt ist sie gleichfalls zeitraubend und wegen der Technik, die er zu erlernen und 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">auszuüben</lem><rdg wit="#sfe-1905-001__1911.xml">anszuüben</rdg></app>
+	und die Erweiterung unseres therapeutischen Könnens durch dieses Verfahren nach den Behauptungen 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Freuds</lem><rdg wit="#sfe-1904-002__1904.xml">Freud’s</rdg></app>
 	 
-	hat, ziemlich mühselig. Ich finde es auch selbst ganz berechtigt, daß man bequemere Heilmethoden in Anwendung bringt, 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">so lange</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">solange</rdg></app>
+	eine sehr beträchtliche. Freud beansprucht lange Zeiträume, 
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">ein halbes</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">½</rdg></app>
 	 
-	man eben die Aussicht hat, mit diesen 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">letzteren</lem><rdg wit="#sfe-1905-001__1906.xml">letz— teren</rdg></app>
+	Jahr bis 
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">drei</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">3</rdg></app>
 	 
-	etwas zu erreichen. Auf diesen Punkt kommt es allein an; erzielt man mit dem mühevolleren und 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Iangwierigeren</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">langwierigeren</rdg></app>
+	Jahre für eine wirksame Behandlung; er gibt aber die Auskunft, 
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg></app>
 	 
-	Verfahren erheblich mehr als mit dem kurzen und leichten, so ist das erstere trotz alledem gerechtfertigt. Denken Sie, meine Herren, um wieviel die Finsentherapie des 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Lupus unbequemer und kostspieliger ist als das früher gebräuchliche Ätzen und Schaben, und doch bedeutet es einen großen Fortschritt, bloß weil es mehr leistet; es heilt nämlich den</lem><rdg wit="#sfe-1905-001__1905_2.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">er bisher infolge verschiedener leicht zu erratender Umstände meist nur in die Lage gekommen ist, seine Behandlung an sehr schweren Fällen zu erproben, Personen mit vieljähriger Krankheitsdauer und völliger Leistungsunfähigkeit, die</lem><rdg wit="#sfe-1904-002__1904.xml">er bisher infolge verschiedener leicht zu erratender Umstände meist nur in die Lage gekommen ist, seine Behandlung an sehr schweren Fällen zu erproben, Personen mit vieljähriger Krankheitsdauer und völliger Leistungsunfähigkeit, die</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Lupus</lem><rdg wit="#sfe-1905-001__1905_2.xml">Lupus</rdg></app>
+	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
 	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">radikal. Nun will ich den Vergleich nicht gerade durchsetzen; aber ein ähnliches Vorrecht darf doch die psychoanalytische Methode für sich in Anspruch nehmen. In Wirklichkeit habe ich meine</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">radikal. Nun will ich den Vergleich nicht gerade durchsetzen; aber ein ähnliches Vorrecht darf doch die psychoanalytische Methode für sich in Anspruch nehmen. In Wirklichkeit habe ich meine</rdg><rdg wit="#sfe-1905-001__1905_2.xml"/></app>
+	durch alle Behandlungen getäuscht, gleichsam eine letzte Zuflucht bei seinem neuen und viel 
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">angezweifelten</lem><rdg wit="#sfe-1904-002__1920.xml">angezweifeltem</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">therapeutische Methode nur an schweren</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Verfahren</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">Verfahren</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">und schwersten Fällen ausarbeiten und versuchen können; mein Material waren zuerst nur Kranke, die alles erfolglos versucht</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"/><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml">gesucht haben</rdg><rdg wit="#sfe-1904-002__1922.xml">gesucht haben</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1905.xml">und</rdg><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">und</rdg></app>
+	<app><lem wit="#sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"/><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml">.</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">durch Jahre in Anstalten geweilt hatten. Ich habe kaum Erfahrung genug</rdg></app>
-<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905_2.xml">unbequemer und kostspieliger ist als das früher gebräuchliche Ätzen und Schaben, und doch bedeutet es einen großen Fortschritt, bloß weil es mehr leistet; es heilt nämlich den Lupus radikal. Nun will ich den Vergleich nicht gerade durchsetzen; aber ein ähnliches Vorrecht darf doch die psychoanalytische Methode für sich in Anspruch nehmen. In Wirklichkeit habe ich meine</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"/><rdg wit="#sfe-1904-002__1904.xml">In Fällen leichterer Erkrankung dürfte sich die Behandlungsdauer sehr verkürzen und ein</rdg><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">In Fällen leichterer Erkrankung dürfte sich die Behandlungsdauer sehr verkürzen und ein</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">therapeutische Methode nur an schweren und</lem><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1904.xml"/><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml">außerordentlicher</rdg><rdg wit="#sfe-1904-002__1922.xml">außerodentlicher</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">schwersten Fällen ausarbeiten und versuchen können; mein Material waren zuerst nur Kranke, die alles erfolglos versucht und durch Jahre in Anstalten geweilt hatten. Ich habe kaum Erfahrung genug</lem><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1904.xml"/><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1922.xml">Gewinn an Vorbeugung für die Zukunft erzielen</rdg><rdg wit="#sfe-1904-002__1920.xml">Gewinn an Vorbeugung für die Zukunft erzielen</rdg></app>
 	 
-	gesammelt, um Ihnen sagen zu können, wie sich meine Therapie bei jenen leichteren, episodisch auftretenden Erkrankungen verhält, die wir unter den verschiedenartigsten Einflüssen und auch spontan abheilen sehen. Die psychoanalytische Therapie ist an dauernd existenzunfähigen Kranken und für solche geschaffen worden, und ihr Triumph ist es, daß sie eine befriedigende Anzahl von solchen dauernd existenzfähig macht. Gegen diesen Erfolg erscheint dann aller Aufwand geringfügig. Wir können uns nicht verhehlen, 
-	<app><lem wit="#sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">daß</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml">was</rdg></app>
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1920.xml"/><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1922.xml">lassen.“</rdg></app>
+<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">gesucht haben</lem><rdg wit="#sfe-1904-002__1904.xml">ausserordentlicher Gewinn an Vorbeugung für die Zukunft erzielen lassen“. Die vorstehenden Darlegungen meines hochverehrten Wiener Kollegen veranlassen mich zum Schlusse zu einer vergleichenden Würdigung der Hypnotherapie und des psycho-analytischen Verfahrens in ihrer Bedeutung für die Behandlung von Zwansgserscheinungen. Die hypnotische Suggestivtherapie bildet, wie wir schon andeuteten, kein Radikalmittel gegen Zwangszustände; sie entspricht nicht der Indicatio causalis, sondern nur der Indicatio symptomatica. Sie wendet sich gegen die einzelnen Zwangsphänomene, indem sie in das psychische Leben einen Faktor einführt, welcher ein Gegengewicht gegen diese bildet, sie mehr und mehr unterdrückt und schliesslich (im günstigen Falle) auch völlig beseitigt. Das Freud’sche Verfahren bildet dagegen gewissermaassen eine Radikalkur; es wendet sich gegen die im Unterbewussten liegenden Wurzeln des Zwangsvorstellungsleidens und sucht diese zu beseitigen. Trotz dieser auffälligen Verschiedenartigkeit des Wirkungsmodus beider Verfahren entfernen sich die Heilerfolge derselben, soweit man dies derzeit beurteilen kann, nicht sehr wesentlich von einander. Was Freud als Ziel seiner Behandlung betrachtet, die praktische Genesung, i. e. der Wiederherstellung der Leistungs- und Genussfähigkeit, lässt sich zweifellos auch durch Hypnotherapie erreichen</rdg><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">. In</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	wir vor 
-	<app><lem wit="#sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">dem</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml">den</rdg></app>
+	<app><lem wit="#sfe-1904-002__1922.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1911.xml"/><rdg wit="#sfe-1904-002__1904.xml">einer Anzahl von</rdg></app>
 	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Kranken zu verleugnen pflegen, daß eine schwere Neurose in ihrer Bedeutung für das ihr unterworfene Individuum hinter keiner Kachexie, keinem der gefürchteten Allgemeinleiden</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Kranken zu verleugnen pflegen, daß eine schwere Neurose in ihrer Bedeutung für das ihr unterworfene Individuum hinter keiner Kachexie, keinem der gefürchteten Allgemeinleiden</rdg></app>
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Fällen</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">,</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">leichterer Erkrankung</lem><rdg wit="#sfe-1904-002__1904.xml">meiner Beobachtung wurde die verloren gegangene Arbeitsfähigkeit durch die hypnotische Behandlung wieder hergestellt. Ich verweise zum Belege auf die Beobachtungen 73 u. 78. Hierbei handelte es sich nicht lediglich um transitorische Besserungen.1) Wie lässt sich dies erklären? Der normal funktionierende psychische Organismus besitzt, wie schon an früherer Stelle hervorgehoben wurde, Kräfte, welche es ihm ermöglichen, Vorstellungen von Zwangscharakter zu überwinden. Je grösser die In- und Extensität des Zwangsvorstellens ist, umsoweniger können sich diese Kräfte, die man als psychische Alexine bezeichnen könnte, geltend machen. Wenn es uns gelingt, durch die hypnotische Suggestion die Zwangsvorstellungen eines Kranken mehr und mehr zu reduzieren, befreien wir denselben nicht nur momentan von einem Teile seiner Beschwerden, wir machen zugleich die seinem psychischen Organismus innewohnenden Schutzkräfte in gewissem Maasse frei, welche ihm die Bekämpfung und Überwindung der Zwangsvorstellungen ermöglichen. Die hypnotisch-suggestive Beseitigung der Zwangsvorstellung hat daher nicht lediglich die Bedeutung einer momentanen Erleichterung, sie schafft mehr und mehr auch einen Status, welcher in gewissem Maasse gegen die Neuproduktion von Zwangsvorstellungen, resp. die Wiederkehr solcher schützt. Wenn die Erfahrungen Freud’s in Betreff der Hypnotherapie ungünstiger sind, so</rdg><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	zurücksteht. d) Die Indikationen und Gegenanzeigen dieser Behandlung sind infolge der vielen praktischen Beschränkungen, die meine Tätigkeit betroffen haben, kaum 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">endgültig</lem><rdg wit="#sfe-1905-001__1906.xml">endgiltig</rdg></app>
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">dürfte</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	anzugeben. Indes will ich versuchen, einige Punkte mit Ihnen zu erörtern: 1
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">)</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">.</rdg></app>
+	<app><lem wit="#sfe-1904-002__1922.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1911.xml"/><rdg wit="#sfe-1904-002__1904.xml">sich dies daraus erklären, dass er schon seit einer Reihe von Jahren von der Anwendung dieser Methode abgekommen ist und daher auch nicht in der Lage war, die Fortschritte der Hypnotisationstechnik</rdg></app>
 	 
-	Man übersehe nicht über die Krankheit den sonstigen Wert einer Person und weise Kranke zurück, welche nicht einen gewissen Bildungsgrad und einen einigermaßen verläßlichen Charakter besitzen. Man darf nicht vergessen, daß es auch Gesunde gibt, die nichts taugen, und daß man nur allzu leicht geneigt ist, bei solchen minderwertigen Personen alles, was sie existenzunfähig macht, auf die Krankheit zu schieben, wenn sie 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">irgendeinen</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">irgend einen</rdg></app>
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">sich</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	Anflug von Neurose zeigen. Ich stehe auf dem 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Standpunkt</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Standunkt</rdg></app>
-	, daß die Neurose ihren Träger keineswegs zum 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">dégéneré</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">Dégéneré</rdg></app>
+	<app><lem wit="#sfe-1904-002__1922.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1911.xml"/><rdg wit="#sfe-1904-002__1904.xml">nutzbar zu machen; diese ermöglichen es uns heutzutage, auch bei Neurotikern mit ganz geringen Ausnahmen eine Hypnose zu erzielen. Der Vorzug, welchen die psycho-analytische Methode der Hypnotherapie gegenüber besitzt, scheint mir demnach lediglich darin zu liegen, dass erstere in der Verhütung von Rezidiven mehr leistet, als letztere. Diesem Vorzuge stehen jedoch nicht zu unterschätzende Schattenseiten gegenüber, Schattenseiten, die allerdings z. T. nicht für den Autor, sondern nur für die übrigen Ärzte in Betracht kommen. Der Hypnotherapie sind nicht lediglich gewisse, durch einen besonderen Mechanismus verursachte oder im Bereiche einzelner Neurosen vorkommende Zwangserscheinungen zugänglich. Sie kann, wie wir schon erwähnten, bei Hysterie, Neurasthenie, Zwangs- und Angstneurose, sowie Melancholie in gleicher Weise Anwendung finden. Die Domäne des Freud´schen Verfahrens bilden dagegen lediglich die Hysterie und die Zwangsneurose, und auch im Gebiete dieser Neurosen ist dasselbe nach des Autors Erklärung nur in beschränktem Maasse verwertbar. Wenn Freud auch</rdg></app>
 	 
-	stempelt, daß sie sich aber häufig genug mit den Erscheinungen der Degeneration vergesellschaftet an demselben Individuum findet. Die analytische Psychotherapie ist nun kein Verfahren zur Behandlung der neuropathischen Degeneration, sie findet im 
-	<app><lem wit="#sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Gegenteil</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml">Gegenteile</rdg></app>
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">die</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	an derselben ihre Schranke. Sie ist auch bei Personen nicht anwendbar, die sich nicht selbst durch ihre Leiden zur Therapie gedrängt fühlen, sondern sich einer solchen nur infolge des Machtgebotes ihrer Angehörigen unterziehen. Die Eigenschaft, auf die es für die Brauchbarkeit zur psychoanalytischen Behandlung ankommt, die Erziehbarkeit, werden wir noch von einem 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">anderen</lem><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">andern</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Behandlungsdauer</lem><rdg wit="#sfe-1904-002__1904.xml">Zahl der Fälle, welche sich für seine Methode eignen, für</rdg><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	Gesichtspunkte würdigen müssen. 2
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">)</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">.</rdg></app>
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">sehr</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	Wenn man sicher gehen will, beschränke man seine Auswahl auf Personen, die einen Normalzustand haben, da man sich im psychoanalytischen Verfahren von diesem aus des Krankhaften bemächtigt. Psychosen, Zustände von Verworrenheit und tiefgreifender (ich möchte sagen: toxischer) Verstimmung sind also für die Psychoanalyse, wenigstens wie sie bis jetzt ausgeübt wird, ungeeignet. Ich halte es für durchaus nicht 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">ausgeschlossen</lem><rdg wit="#sfe-1905-001__1906.xml">ausgeschlossenen</rdg></app>
-	, daß man bei geeigneter Abänderung des Verfahrens sich über diese Gegenindikation hinaussetzen und so eine Psychotherapie der Psychosen in Angriff nehmen könne. 3
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">)</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">.</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">verkürzen</lem><rdg wit="#sfe-1904-002__1904.xml">gross erachtet, so dürfte diese Ansicht für die Hysterie ungleich mehr zutreffen als für die Zwangszustände. Ziehen wir weiter die grossen Schwierigkeiten der Technik des psycho-analytischen Verfahrens in Betracht, die der Autor wohl nur aus Bescheidenheit nicht genügend hervorhebt — eine erfolgreiche Handhabung der Methode dürfte wohl erst nach jahrelanger Einübung zu erwarten sein —, die lange Behandlungszeit, welche in schweren Fällen erforderlich ist</rdg><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	Das Alter der Kranken spielt bei der Auswahl zur psychoanalytischen Behandlung 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">insofern</lem><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml">insoferne</rdg></app>
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">und</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">eine Rolle</lem><rdg wit="#sfe-1905-001__1906.xml">eine Rolle</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">ein außerordentlicher Gewinn</lem><rdg wit="#sfe-1904-002__1904.xml">die ausserordentlichen Anforderungen, die dabei</rdg><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">,</lem><rdg wit="#sfe-1905-001__1906.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">an</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	als bei Personen nahe an oder über 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">fünfzig</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">50</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Vorbeugung für</lem><rdg wit="#sfe-1904-002__1904.xml">die Zeit und Arbeitskraft des Arztes gestellt werden, so ist es wohl selbstverständlich, dass die Vorteile des Verfahrens nur einem sehr beschränkten Patientenkreise und überdies nur solchen aus der bestsituirten Klasse zu Gute kommen können. Das Verdienst des Autors wird hierdurch in keiner Weise geschmälert; vielleicht gelingt es ihm noch im Laufe der Zeit, sein Verfahren zu vereinfachen und dadurch Ärzten und Patienten zugänglicher zu machen. Zur Zeit sind die Ärzte jedenfalls noch auf</rdg><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	Jahre einerseits die Plastizität der seelischen Vorgänge zu fehlen pflegt, auf welche die Therapie rechnet — alte Leute sind nicht mehr erziehbar 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">—</lem><rdg wit="#sfe-1905-001__1906.xml"/></app>
+	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">die</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	und als 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">anderseits</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">andrerseits</rdg></app>
+	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Zukunft erzielen</lem><rdg wit="#sfe-1904-002__1904.xml">Anwendung der übrigen psychotherapeutischen Methoden angewiesen, und es ist gewiss erfreulich, dass wir auch hiermit recht Erspriessliches zu leisten vermögen. BLANK</rdg><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml"/></app>
 	 
-	das Material, welches durchzuarbeiten ist, die Behandlungsdauer ins Unabsehbare verlängert. Die Altersgrenze nach unten ist nur individuell zu bestimmen; jugendliche Personen noch vor der Pubertät sind oft ausgezeichnet zu beeinflussen. 4
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">)</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">.</rdg></app>
-	 
-	Man wird nicht zur Psychoanalyse greifen, wenn es sich um die rasche Beseitigung drohender Erscheinungen handelt, also 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">zum Beispiel</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">z. B.</rdg></app>
-	 
-	bei einer hysterischen Anorexie. Sie werden nun den Eindruck gewonnen haben, daß das Anwendungsgebiet der analytischen Psychotherapie ein sehr beschränktes ist, da Sie eigentlich nichts 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">anderes</lem><rdg wit="#sfe-1905-001__1906.xml">anders</rdg></app>
-	 
-	als Gegenanzeigen von mir gehört haben. 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Nichtsdestoweniger</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Nichsdestoweniger</rdg></app>
-	 
-	bleiben Fälle und Krankheitsformen 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">genug</lem><rdg wit="#sfe-1905-001__1922.xml"/></app>
-	 
-	übrig, an denen diese Therapie sich erproben kann, alle chronischen Formen von Hysterie mit Resterscheinungen, das große Gebiet der Zwangszustände und Abulien 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">und dergleichen</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">u. dgl</rdg></app>
-	. Erfreulich ist es, daß man gerade den wertvollsten und sonst 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">höchstentwickelten</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">höchst entwickelten</rdg></app>
-	 
-	Personen auf solche Weise am ehesten Hilfe bringen kann. Wo aber mit der analytischen Psychotherapie 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">nur</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml"/></app>
-	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">wenig auszurichten war, da</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1922.xml">wenig auszurichten war, da</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">,</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1922.xml #sfe-1905-001__1905_2.xml"/></app>
-	 
-	darf man getrost behaupten, hätte 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">irgendwelche</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">irgend welche</rdg></app>
-	 
-	andere Behandlung sicherlich gar nichts zustande gebracht. 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">e</lem><rdg wit="#sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">c</rdg></app>
-	) Sie werden mich gewiß fragen wollen, wie es bei Anwendung der Psychoanalyse mit der Möglichkeit, Schaden zu stiften, bestellt ist. Ich kann Ihnen darauf erwidern, wenn Sie nur billig urteilen wollen, diesem Verfahren dasselbe kritische Wohlwollen entgegenbringen, das Sie für unsere anderen therapeutischen Methoden bereit haben, so werden Sie meiner Meinung zustimmen müssen, daß bei einer mit Verständnis geleiteten analytischen Kur ein Schaden für den Kranken nicht zu befürchten ist. Anders wird vielleicht urteilen, wer als Laie gewohnt ist, alles, was sich in einem Krankheitsfalle begibt, der Behandlung zur Last zu legen. Es ist ja nicht lange her, daß unseren Wasserheilanstalten ein ähnliches Vorurteil entgegenstand. So mancher, dem man riet, eine solche Anstalt aufzusuchen, wurde bedenklich, weil er einen Bekannten gehabt hatte, der als Nervöser in die Anstalt kam und dort verrückt wurde. Es handelte sich, wie Sie erraten, um Fälle von beginnender 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">allgemeiner</lem><rdg wit="#sfe-1905-001__1922.xml">allgemeinen</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Paralyse, die man im Anfangsstadium noch in einer Wasserheilanstalt unterbringen konnte</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Paralyse, die man im Anfangsstadium noch in einer Wasserheilanstalt unterbringen konnte</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">,</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml"/></app>
-	 
-	und die dort ihren unaufhaltsamen Verlauf bis zur manifesten Geistesstörung genommen hatten; für die Laien war das Wasser Schuld und Urheber dieser traurigen Veränderung. Wo es sich um neuartige Beeinflussungen handelt, halten sich auch Ärzte nicht immer von solchen Urteilsfehlern frei. Ich erinnere mich, einmal bei einer Frau den Versuch mit Psychotherapie gemacht zu haben, bei der ein gutes Stück ihrer Existenz in der Abwechslung von Manie und Melancholie verflossen war. Ich übernahm sie zu Ende einer Melancholie; es schien zwei Wochen lang gut zu gehen; in der dritten standen wir bereits zu Beginn der neuen Manie. Es war dies sicherlich eine spontane Veränderung des Krankheitsbildes, denn zwei Wochen sind keine Zeit, in welcher die analytische Psychotherapie irgend etwas zu leisten unternehmen kann, aber der hervorragende — 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">jetzt</lem><rdg wit="#sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">jest</rdg></app>
-	 
-	schon verstorbene — Arzt, der mit mir die Kranke zu sehen bekam, konnte sich doch nicht der Bemerkung enthalten, daß an dieser „Verschlechterung“ die Psychotherapie 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">schuld</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">Schuld</rdg></app>
-	 
-	sein dürfte. Ich bin ganz überzeugt, 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">daß</lem><rdg wit="#sfe-1905-001__1911.xml">das</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">er sich unter anderen Bedingungen kritischer erwiesen hätte. f) Zum</lem><rdg wit="#sfe-1905-001__1905_2.xml">er sich unter anderen Bedingungen kritischer erwiesen hätte. f) Zum</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Schlusse, meine Herren Kollegen, muß ich mir sagen, es geht doch nicht an, Ihre Aufmerksamkeit so lange zugunsten der analytischen Psychotherapie in Anspruch zu nehmen, ohne Ihnen zu sagen, worin diese Behandlung besteht</lem><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml">Schlusse, meine Herren Kollegen, muß ich mir sagen, es geht doch nicht an, Ihre Aufmerksamkeit so lange zugunsten der analytischen Psychotherapie in Anspruch zu nehmen, ohne Ihnen zu sagen, worin diese Behandlung besteht</rdg><rdg wit="#sfe-1905-001__1905_2.xml"/></app>
-	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1925.xml #sfe-1905-001__1905_2.xml"/><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml">,</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">und worauf sie sich gründet. Ich kann es zwar, da ich kurz sein muß, nur mit einer Andeutung tun. Diese Therapie ist also auf</lem><rdg wit="#sfe-1905-001__1905_2.xml"/></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">die Einsicht gegründet, daß unbewußte</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1905.xml">Vor- stellungen</rdg><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">Vorstellungen</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">— besser:</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">die Unbewußtheit gewisser seelischer Vorgänge — die nächste Ursache der krankhaften Symptome ist. Eine solche Überzeugung vertreten wir gemeinsam mit der französischen Schule (Janet),</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">die</lem><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">die</rdg><rdg wit="#sfe-1905-001__1905_2.xml"/></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml">übrigens</rdg><rdg wit="#sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">übrigens</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml"/><rdg wit="#sfe-1905-001__1920.xml">in</rdg><rdg wit="#sfe-1905-001__1922.xml">in</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1922.xml">arger</rdg></app>
-<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905_2.xml">Schlusse, meine Herren Kollegen, muß ich mir sagen, es geht doch nicht an, Ihre Aufmerksamkeit so lange zugunsten der analytischen Psychotherapie in Anspruch zu nehmen, ohne Ihnen zu sagen, worin diese Behandlung besteht und worauf sie sich gründet. Ich kann es zwar, da ich kurz sein muß, nur mit einer Andeutung tun. Diese Therapie ist also auf die</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Einsicht gegründet, daß unbewußte</lem><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
-	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Vorstellungen</lem><rdg wit="#sfe-1905-001__1905_2.xml">Vor- stellungen</rdg><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">— besser: die</lem><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Unbewußtheit gewisser seelischer Vorgänge — die nächste Ursache der krankhaften Symptome ist. Eine solche Überzeugung vertreten wir gemeinsam mit der französischen Schule (</lem><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"/></app>
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Janet</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">JANET</rdg><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"/></app>
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">), die übrigens</lem><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"/></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">in</lem><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1920.xml"/></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">arger</lem><rdg wit="#sfe-1905-001__1922.xml"/></app>
-	 
-	Schematisierung das hysterische Symptom auf die unbewußte 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">idée</lem><rdg wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">Idée</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">fixe zurückführt. Fürchten Sie nun nicht, daß wir dabei zu tief in die dunkelste Philosophie hineingeraten werden. Unser Unbewußtes ist nicht ganz dasselbe wie das der Philosophen, und überdies wollen die meisten Philosophen vom „unbewußten Psychischen“ nichts wissen. Stellen Sie sich aber auf unseren Standpunkt, so werden Sie einsehen, daß die Übersetzung dieses Unbewußten im Seelenleben der Kranken in ein Bewußtes</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">fixe zurückführt. Fürchten Sie nun nicht, daß wir dabei zu tief in die dunkelste Philosophie hineingeraten werden. Unser Unbewußtes ist nicht ganz dasselbe wie das der Philosophen, und überdies wollen die meisten Philosophen vom „unbewußten Psychischen“ nichts wissen. Stellen Sie sich aber auf unseren Standpunkt, so werden Sie einsehen, daß die Übersetzung dieses Unbewußten im Seelenleben der Kranken in ein Bewußtes</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">,</rdg></app>
-	 
-	den Erfolg haben muß, deren Abweichung vom 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Normalen</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Nor- malen</rdg></app>
-	 
-	zu korrigieren und den Zwang aufzuheben, unter dem ihr Seelenleben steht. Denn der bewußte Wille reicht 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">so weit</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">soweit</rdg></app>
-	 
-	als die bewußten psychischen Vorgänge, und jeder psychische Zwang ist durch das Unbewußte begründet. Sie brauchen auch niemals zu fürchten, daß der Kranke unter der 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Erschütterung</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Erschütte- rung</rdg></app>
-	 
-	Schaden nehme, welche der Eintritt des Unbewußten in sein Bewußtsein mit sich bringt, denn Sie können es sich theoretisch 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">zurechtlegen</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">zurecht legen</rdg></app>
-	, daß die somatische und affektive Wirkung der bewußt gewordenen Regung niemals so groß werden kann wie die der unbewußten. Wir beherrschen alle unsere Regungen doch nur dadurch, daß wir unsere höchsten, mit Bewußtsein verbundenen Seelenleistungen auf sie wenden. Sie können aber auch einen anderen Gesichtspunkt für das Verständnis der psychoanalytischen Behandlung wählen. Die Aufdeckung und Übersetzung des Unbewußten geht unter beständigem Widerstand von seiten der Kranken vor sich. Das Auftauchen dieses Unbewußten ist mit Unlust verbunden, und wegen dieser Unlust wird es von ihm immer wieder zurückgewiesen. 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">In</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">ln</rdg></app>
-	 
-	diesen Konflikt im Seelenleben des Kranken greifen Sie nun ein; gelingt es Ihnen, den Kranken dazu zu bringen, daß er aus Motiven besserer Einsicht etwas 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">akzeptiert</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">akzep- tiert</rdg></app>
-	, was er zufolge der automatischen Unlustregulierung bisher zurückgewiesen (verdrängt) hat, so haben Sie ein Stück Erziehungsarbeit an ihm geleistet. Es ist ja schon 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Erziehung</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Er- ziehung</rdg></app>
-	, wenn Sie einen Menschen, der nicht gern früh morgens das Bett verläßt, dazu bewegen, es doch zu tun. Als eine solche Nacherziehung zur Überwindung innerer Widerstände können Sie nun die psychoanalytische 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Behandlung</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Behand- lung</rdg></app>
-	 
-	ganz allgemein auffassen. In keinem Punkte aber ist solche Nacherziehung bei den Nervösen mehr vonnöten als betreffs des seelischen 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Elements</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">Elementes</rdg></app>
-	 
-	in ihrem Sexualleben. Nirgends haben ja Kultur und Erziehung so großen Schaden gestiftet wie gerade hier, und hier sind auch, wie Ihnen die 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Erfahrung</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Erfah- rung</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">zeigen wird, die beherrschbaren Ätiologien der Neurosen zu finden; das andere ätiologische Element, der konstitutionelle Beitrag, ist uns ja als etwas Unabänderliches gegeben. Hieraus erwächst aber eine wichtige</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">zeigen wird, die beherrschbaren Ätiologien der Neurosen zu finden; das andere ätiologische Element, der konstitutionelle Beitrag, ist uns ja als etwas Unabänderliches gegeben. Hieraus erwächst aber eine wichtige</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">,</lem><rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/></app>
-	 
-	an den Arzt zu stellende Anforderung. Er muß nicht nur selbst ein integrer Charakter sein — „ das Moralische versteht sich ja von selbst “, wie die Hauptperson in 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Th</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">TH</rdg></app>
-	. 
-	<app><lem wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Vischers</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">VISCHERs</rdg><rdg wit="#sfe-1905-001__1906.xml">Vischer’s</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">„Auch Einer“ zu sagen pflegt</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">„Auch Einer“ zu sagen pflegt</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">; —</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">—;</rdg></app>
-	 
-	er muß auch für seine eigene Person die Mischung von Lüsternheit und Prüderie überwunden haben, mit welcher leider so viele 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">andere</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Andere</rdg></app>
-	 
-	den sexuellen Problemen entgegenzutreten 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">gewohnt</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">ge- wohnt</rdg></app>
-	 
-	sind. Hier ist vielleicht der Platz für eine weitere 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Bemerkung</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Bemer- kung</rdg></app>
-	. Ich weiß, daß meine Betonung der Rolle des Sexuellen für die Entstehung der Psychoneurosen in weiteren Kreisen bekannt geworden ist. Ich weiß aber auch, daß 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Einschränkungen</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Einschrän- kungen</rdg></app>
-	 
-	und nähere Bestimmungen beim großen Publikum wenig nützen; die Menge hat für 
-	<app><lem wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">wenig</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml">Wenig</rdg></app>
-	 
-	Raum in ihrem 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Gedächtnis</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Ge- dächtnis</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">und behält von einer Behauptung doch nur den rohen Kern, schafft sich ein leicht zu merkendes Extrem</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">und behält von einer Behauptung doch nur den rohen Kern, schafft sich ein leicht zu merkendes Extrem</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">.</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml"/></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Es mag auch manchen Ärzten so ergangen sein, daß ihnen als Inhalt meiner Lehre vorschwebt</lem><rdg wit="#sfe-1905-001__1911.xml">Es mag auch manchen Ärzten so ergangen sein, daß ihnen als Inhalt meiner Lehre vorschwebt</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">,</lem><rdg wit="#sfe-1905-001__1911.xml"/></app>
-	 
-	ich führe die Neurosen in letzter Linie auf sexuelle Entbehrung zurück. An dieser fehlt es nicht unter den Lebensbedingungen unserer Gesellschaft. Wie nahe mag es nun bei solcher Voraussetzung liegen, den 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">mühseligen</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">müh- seligen</rdg></app>
-	 
-	Umweg über die psychische Kur zu vermeiden und direkt die Heilung anzustreben, indem man die sexuelle Betätigung als Heilmittel empfiehlt
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">!</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">?</rdg></app>
-	 
-	Ich weiß nun nicht, was mich bewegen könnte, diese Folgerung zu unterdrücken, wenn sie berechtigt wäre. Die 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Sache</lem><rdg wit="#sfe-1905-001__1911.xml">Suche</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">liegt aber anders. Die sexuelle Bedürftigkeit und Entbehrung, das ist bloß der eine Faktor, der beim Mechanismus der Neurose ins Spiel tritt</lem><rdg wit="#sfe-1905-001__1911.xml">liegt aber anders. Die sexuelle Bedürftigkeit und Entbehrung, das ist bloß der eine Faktor, der beim Mechanismus der Neurose ins Spiel tritt</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">;</lem><rdg wit="#sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">,</rdg><rdg wit="#sfe-1905-001__1911.xml"/></app>
-	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">bestünde er allein, so würde nicht Krankheit, sondern Ausschweifung die Folge sein. Der andere</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">bestünde er allein, so würde nicht Krankheit, sondern Ausschweifung die Folge sein. Der andere</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">,</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml"/></app>
-	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">ebenso unerläßliche Faktor, an den man allzu bereitwillig vergißt, ist die Sexualabneigung der Neurotiker, ihre Unfähigkeit zum Lieben, jener psychische Zug, den ich „Verdrängung“ genannt habe. Erst aus dem Konflikt zwischen beiden Strebungen geht die neurotische Erkrankung hervor</lem><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">ebenso unerläßliche Faktor, an den man allzu bereitwillig vergißt, ist die Sexualabneigung der Neurotiker, ihre Unfähigkeit zum Lieben, jener psychische Zug, den ich „Verdrängung“ genannt habe. Erst aus dem Konflikt zwischen beiden Strebungen geht die neurotische Erkrankung hervor</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/><rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">,</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">und darum kann der Rat der sexuellen Betätigung bei den Psychoneurosen eigentlich nur selten als guter Rat bezeichnet werden. Lassen Sie mich mit dieser abwehrenden Bemerkung schließen. Wir wollen hoffen, daß Ihr von jedem feindseligen Vorurteil gereinigtes Interesse für die Psychotherapie uns darin unterstützen wird, auch in der Behandlung der schweren Fälle von Psychoneurosen Erfreuliches zu leisten.</lem><rdg wit="#sfe-1905-001__1905_2.xml">und darum kann der Rat der sexuellen Betätigung bei den Psychoneurosen eigentlich nur selten als guter Rat bezeichnet werden. Lassen Sie mich mit dieser abwehrenden Bemerkung schließen. Wir wollen hoffen, daß Ihr von jedem feindseligen Vorurteil gereinigtes Interesse für die Psychotherapie uns darin unterstützen wird, auch in der Behandlung der schweren Fälle von Psychoneurosen Erfreuliches zu leisten.</rdg></app>
-	 
-	<app><lem wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/><rdg wit="#sfe-1905-001__1905_2.xml">BLANK</rdg></app>
+	<app><lem wit="#sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">lassen.“</lem><rdg wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1906.xml #sfe-1904-002__1904.xml"/></app>
 </ab>
       </body>
   </text>
