@@ -39,7 +39,7 @@
 	 
 	<app><lem wit="#sfe-1901-001__1925.xml">. Schriften, Bd</lem><rdg wit="#sfe-1901-001__1911.xml">1910</rdg><rdg wit="#sfe-1901-001__1921.xml">1920</rdg><rdg wit="#sfe-1901-001__1931.xml"/></app>
 	. 
-	<app><lem wit="#sfe-1901-001__1925.xml">V.)</lem><rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1931.xml"/></app>
+	<app><lem wit="#sfe-1901-001__1925.xml">V.)</lem><rdg wit="#sfe-1901-001__1921.xml #sfe-1901-001__1931.xml #sfe-1901-001__1911.xml"/></app>
 	 
 	<app><lem wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml">1) Weiteres über die Traumsymbolik findet man</lem><rdg wit="#sfe-1901-001__1931.xml"/></app>
 	 
@@ -55,10 +55,10 @@
 	<app><lem wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml">,</lem><rdg wit="#sfe-1901-001__1931.xml">, „</rdg></app>
 	 
 	Das Leben des 
-	<app><lem wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml"/><rdg wit="#sfe-1901-001__1931.xml">„</rdg></app>
+	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1921.xml #sfe-1901-001__1911.xml"/><rdg wit="#sfe-1901-001__1931.xml">„</rdg></app>
 	<app><lem wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml">Traumes</lem><rdg wit="#sfe-1901-001__1931.xml">Traumes</rdg></app>
 	 
-	<app><lem wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml"/><rdg wit="#sfe-1901-001__1931.xml">“,</rdg></app>
+	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1921.xml #sfe-1901-001__1911.xml"/><rdg wit="#sfe-1901-001__1931.xml">“,</rdg></app>
 	 
 	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">1861) in der „Traumdeutung“ des Verfassers, in den mythologischen Arbeiten der psychoanalytischen Schule</lem><rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml">1861) in der „Traumdeutung“ des Verfassers, in den mythologischen Arbeiten der psychoanalytischen Schule</rdg></app>
 	 
@@ -80,12 +80,12 @@
 	 
 	<app><lem wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml">Auflage erschienen</lem><rdg wit="#sfe-1901-001__1931.xml">Auflage erschienen</rdg></app>
 	 
-	<app><lem wit="#sfe-1901-001__1925.xml">. (</lem><rdg wit="#sfe-1901-001__1931.xml">[</rdg><rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"/></app>
-	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">Ges. Schriften, Bd</lem><rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"/></app>
-	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">.</lem><rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml">.</rdg></app>
+	<app><lem wit="#sfe-1901-001__1925.xml">. (</lem><rdg wit="#sfe-1901-001__1931.xml">[</rdg><rdg wit="#sfe-1901-001__1921.xml #sfe-1901-001__1911.xml"/></app>
+	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">Ges. Schriften, Bd</lem><rdg wit="#sfe-1901-001__1921.xml #sfe-1901-001__1911.xml"/></app>
+	<app><lem wit="#sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">.</lem><rdg wit="#sfe-1901-001__1911.xml">.</rdg></app>
 	 
-	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">II und III</lem><rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"/></app>
-	<app><lem wit="#sfe-1901-001__1925.xml">.)</lem><rdg wit="#sfe-1901-001__1931.xml">].</rdg><rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"/></app>
+	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">II und III</lem><rdg wit="#sfe-1901-001__1921.xml">p</rdg><rdg wit="#sfe-1901-001__1911.xml"/></app>
+	<app><lem wit="#sfe-1901-001__1925.xml">.)</lem><rdg wit="#sfe-1901-001__1931.xml">].</rdg><rdg wit="#sfe-1901-001__1921.xml #sfe-1901-001__1911.xml"/></app>
 </ab>
       </body>
   </text>
