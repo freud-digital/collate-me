@@ -11,7 +11,7 @@ from acdh_collatex_utils.post_process import (
     make_positive_app
 )
 
-from config import READING_WIT
+from config import READING_WIT, XPATH, CHUNK_SIZE
 
 XSLT_FILE = os.path.join(
     os.path.dirname(__file__),
@@ -25,7 +25,8 @@ for x in to_collate_update:
         xml=x,
         custom_xsl=XSLT_FILE,
         char_limit=False,
-        chunk_size=7000,
+        chunk_size=CHUNK_SIZE,
+        to_compare_xpath=XPATH,
     ).preprocess()
     os.makedirs("tmp_to_collate", exist_ok=True)
     new_save_path = os.path.join("tmp_to_collate", x.split('/')[-1])
@@ -44,7 +45,8 @@ out = CxCollate(
     glob_recursive=False,
     output_dir=output_dir,
     char_limit=False,
-    chunk_size=7000,
+    chunk_size=CHUNK_SIZE,
+    to_compare_xpath=XPATH,
 ).collate()
 
 files = glob.glob(f"{output_dir}/*.tei")
